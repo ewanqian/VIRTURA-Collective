@@ -13,16 +13,63 @@
 - 重要框架与关键词
 - 与作品和舞台直接相关的研究线
 
+## Core Directions
+
+目前优先保留 4 条与团队最相关的主线：
+
+### 1. Digital Library / Digital Stage
+
+这条线处理的是：
+
+- 如何归档作品、演出、研究与资产
+- 如何把已归档内容重新组织为可观看、可发布、可进入的前台
+
+它是当前 VIRTURA 体系升级的结构主线。
+
+### 2. Spatial Creative Framework
+
+这条线处理的是：
+
+- 空间创作如何从认知进入落地
+- 空间计算、场景组织、感知体验与创作方法如何连起来
+
+当前主要入口：
+- [our-theory](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory)
+
+### 3. Intellectual Equipment
+
+这条线处理的是：
+
+- 如何把静态知识变成动态知识网络
+- 如何把知识组织成可调用、可部署的工作单元
+
+当前主要入口：
+- [intellectual-equipment](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/intellectual-equipment)
+
+### 4. Digital Emotion Container
+
+这条线处理的是：
+
+- 情感、记忆、空间锚点与数字内容之间的关系
+- 如何让空间化表达真正形成可感知的作品和体验
+
+当前主要入口：
+- [digital-emotion-container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
+
 ## Research Shelf
 
-后续会优先整理以下方向：
+后续逐步纳入，但暂不升到团队首页主导航的方向包括：
 
-- digital stage
-- digital library
 - spatial performance
 - immersive narrative
 - collaborative workflows
+- stage tooling methods
+- documentation systems
 
 ## Related Repositories
 
 更细的研究支线仓库会保留为 second-layer references，而不是全部进入团队首页主导航。
+
+## Working Rule
+
+研究页优先承接“方向总览”和“主入口索引”，不急着复制全部全文。

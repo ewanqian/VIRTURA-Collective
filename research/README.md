@@ -69,6 +69,17 @@
 当前主要入口：
 - [digital-emotion-container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
 
+## If You Want To Help Build The Knowledge Network
+
+目前更适合进入的方式不是一次性重写全部理论，而是从可控的小单元加入:
+
+- 补一个主题入口页
+- 整理一个案例索引
+- 帮某条学习路径补最短路径说明
+- 把项目复盘中的方法部分抽成知识条目
+
+这类工作会同时连接 `VIRTURA-Collective/research` 和 `VIRTURA-SpacePort/knowledge-network`。
+
 ## Research Shelf
 
 后续逐步纳入，但暂不升到团队首页主导航的方向包括：

@@ -30,6 +30,7 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 - core collaboration: 持续参与多个系列和方向
 - project-based: 围绕某个项目或某个版本加入
 - research/documentation: 围绕方法、文档、归档参与
+- tools/knowledge-network: 围绕工具、知识网络、发布结构和系统整理参与
 
 ## Role Clusters
 
@@ -50,6 +51,16 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 - 你更适合项目协作、研究协作还是长期协作
 - 你可投入的时间
 - 你已有的相关经验
+
+## How People Move Through The Network
+
+在 VIRTURA 里，一个人通常不是通过“空降正式职位”进入，而是通过下面几种路径逐渐形成稳定关系:
+
+1. 先从某个项目、沙龙、工作坊或研究专题进入
+2. 在一个明确任务里完成首次协作
+3. 再根据节奏，进入项目制、研究制或长期协作
+
+这也是为什么成员页必须和 [Activities](../activities/README.md)、[Collaboration](../collaboration/README.md) 一起看，而不是单独理解。
 
 ## Current Rule
 

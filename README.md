@@ -4,6 +4,8 @@
 
 这里用于呈现 VIRTURA 作为一个协作型艺术团队的基本面貌: 我们是谁，如何工作，做过什么，正在研究什么，以及如何与我们建立联系。
 
+它也是一个去中心化写作、创作与研究网络的公开入口: 作品、工具、知识网络、沙龙和线上线下活动会在不同仓库中生长，但团队的协作机制和主线入口在这里汇总。
+
 ## Read This First
 
 如果你是第一次来到这里，建议按下面的顺序进入:
@@ -11,17 +13,19 @@
 - 想先认识团队: [About](./about/README.md)
 - 想看成员与参与方式: [Members](./members/README.md)
 - 想看代表项目: [Works](./works/README.md)
+- 想看活动、沙龙与线上线下时间线: [Activities](./activities/README.md)
 - 想看现场与演出相关线索: [Performances](./performances/README.md)
 - 想看研究方向: [Research](./research/README.md)
 - 想讨论合作: [Collaboration](./collaboration/README.md)
 
 ## What This Repository Holds
 
-这个仓库集中承接五类信息:
+这个仓库集中承接六类信息:
 
 - 团队介绍与组织方式
 - 成员与参与结构
 - 作品与项目系列
+- 活动、沙龙与时间线
 - 研究方向与方法概览
 - 对外合作入口与迁移文档
 
@@ -32,6 +36,7 @@
 - [Drop Flow Series](./works/drop-flow/README.md)
 - [TIMER Series](./works/timer/README.md)
 - [Observation and Symbiosis](./works/observation-and-symbiosis/README.md)
+- [Activities and Timeline](./activities/README.md)
 - [Research](./research/README.md)
 - [Why VIRTURA-Collective](./docs/why-virtura-collective.md)
 - [First-Wave Migration Map](./docs/first-wave-migration-map.md)
@@ -53,6 +58,7 @@ VIRTURA-Collective/
   about/           team overview and identity
   members/         current member model and participation notes
   works/           selected works and project index
+  activities/      salons, workshops, and online/offline timeline
   performances/    live, staged, and site-specific entries
   research/        selected research directions and framework notes
   collaboration/   how to work with the collective
@@ -64,6 +70,7 @@ VIRTURA-Collective/
 当前版本已经完成入口收束，但还处于持续迁移阶段。这意味着:
 
 - 团队身份与作品入口已经可以稳定阅读
+- 团队的活动入口与参与机制已经开始独立成页
 - 第一批项目系列已经建立统一档案骨架
 - 更多旧资料仍然在从其他仓库逐步整理进来
 - 详细知识网络与旧档案仍保留在 `VIRTURA-SpacePort`

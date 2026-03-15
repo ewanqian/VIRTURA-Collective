@@ -2,6 +2,8 @@
 
 这里是 VIRTURA 的作品入口。
 
+如果你是第一次阅读，建议不要试图一次看全，而是先抓住最能代表团队工作方式的系列。
+
 ## What Will Be Indexed Here
 
 - 代表作品
@@ -28,6 +30,13 @@
 | Drop Flow | 系列作品 / 展演 / 空间叙事 | ongoing | [Entry](./drop-flow/README.md) |
 | TIMER | 系列作品 / 音画互动 / 空间演出 | ongoing | [Entry](./timer/README.md) |
 | Observation and Symbiosis | 展览项目 / 数据景观 | ongoing index | [Entry](./observation-and-symbiosis/README.md) |
+
+## Start With These Highlights
+
+- 想看最完整的系列样板: [Drop Flow](./drop-flow/README.md)
+- 想看音画互动与展演线: [TIMER](./timer/README.md)
+- 想看展览型项目与数据景观线: [Observation and Symbiosis](./observation-and-symbiosis/README.md)
+- 想看活动和发生现场: [Performances](../performances/README.md)
 
 ## Work Series
 

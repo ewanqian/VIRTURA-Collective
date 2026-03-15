@@ -26,6 +26,7 @@ VIRTURA 的作品形态不只是静态项目，也包括：
 
 - [Drop Flow Series](../works/drop-flow/README.md)
 - [TIMER Series](../works/timer/README.md)
+- [Activities and Timeline](../activities/README.md)
 
 ## Current Reading Map
 
@@ -38,6 +39,11 @@ VIRTURA 的作品形态不只是静态项目，也包括：
 ## Why This Matters
 
 把 `Performances` 独立出来的目的，是让团队的“发生型作品”拥有自己的入口逻辑，而不是全部被压平为一般作品列表。
+
+它和 [Activities](../activities/README.md) 的区别是:
+
+- `Performances` 更偏向作品发生的事件与场域
+- `Activities` 更偏向团队公共活动、沙龙、工作坊与交流时间线
 
 ## Metadata Rule
 

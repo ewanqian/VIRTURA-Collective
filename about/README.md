@@ -10,6 +10,19 @@ VIRTURA 是一个去中心化的艺术协作网络。
 
 它不是行政化的固定编制团队，而是围绕作品、研究、演出、空间实验与数字舞台持续协作的创作共同体。
 
+## How The Network Works
+
+这个网络的运行方式更接近“多层协作”，而不是单一中心控制:
+
+| Layer | What It Does | Typical Output |
+|---|---|---|
+| core collaborators | 持续维护团队方向、项目主线与公开入口 | 系列作品、关键决策、对外结构 |
+| project cells | 围绕单个作品、展演、展览或研究专题展开协作 | 版本、演出、展览、短期实验 |
+| research and writing contributors | 参与方法整理、复盘、理论与知识编辑 | 文章、索引、知识网络条目 |
+| tools and systems contributors | 参与工具验证、档案结构、发布流程与自动化 | 原型、模板、工作流、前台结构 |
+
+这意味着 VIRTURA 可以同时容纳长期伙伴、项目制协作者、研究参与者和临时加入的支持角色，而不需要把所有人压进同一种组织关系。
+
 ## What We Actually Do
 
 当前最接近 VIRTURA 真实工作的几条线是：
@@ -30,6 +43,21 @@ VIRTURA 更接近项目制协作网络，而不是固定岗位式组织。
 - 围绕单个项目的临时加入
 - 艺术、技术、研究、文档等多角色并行
 - 团队本体、公共前台、发布出口、工具工坊分别存在
+
+## Activities And Rhythm
+
+VIRTURA 的协作并不只发生在项目交付时，也发生在持续的公共活动与内部整理中。
+
+当前已经能公开识别的活动节奏包括:
+
+- 线下沙龙与分享
+- 工作坊与公开活动
+- 展演与展览现场
+- 线上直播、远程讨论与阶段复盘
+
+这些活动一方面服务于公众理解作品，另一方面也为未来的协作者提供进入网络的真实场景。
+
+入口见: [Activities](../activities/README.md)
 
 ## Core Values
 
@@ -65,9 +93,19 @@ VIRTURA 更接近项目制协作网络，而不是固定岗位式组织。
 如果你第一次来到这里，建议按下面顺序阅读：
 
 1. [Works](../works/README.md)
-2. [Performances](../performances/README.md)
-3. [Research](../research/README.md)
-4. [Collaboration](../collaboration/README.md)
+2. [Activities](../activities/README.md)
+3. [Performances](../performances/README.md)
+4. [Research](../research/README.md)
+5. [Collaboration](../collaboration/README.md)
+
+## Why It Is Worth Watching Now
+
+当前最值得外部持续关注的，不只是某一个作品，而是几条线正在同时成形:
+
+- `Drop Flow` 和 `TIMER` 作为可持续展开的系列作品
+- 线上线下活动逐渐形成可见时间线
+- `Digital Library / Digital Stage` 正在把一次性现场转成可归档、可再发布的结构
+- 团队、前台、发布仓与工具仓之间的角色边界已经开始稳定
 
 ## What Does Not Belong Here
 

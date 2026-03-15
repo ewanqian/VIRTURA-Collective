@@ -22,3 +22,11 @@
 ## Migration Note
 
 原先分散在 `VIRTURA-SpacePort/organization/works` 及相关仓库中的高价值条目，会逐步迁入或在这里建立更稳定的索引入口。
+
+## First-Wave Entries
+
+在正式迁移完成前，第一批重点入口先挂在这里：
+
+- [Drop Flow Series](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/drop-flow-series)
+- [Timer Series](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/timer-series)
+- [portfolio projects](https://github.com/ewanqian/portfolio/tree/main/projects)

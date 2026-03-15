@@ -47,5 +47,7 @@
 
 ## Related Entries
 
+- [Versions](./versions.md)
+- [Public Materials](./public-materials.md)
 - [Works Index](../README.md)
 - [Legacy entry](../drop-flow.md)

@@ -7,4 +7,5 @@
 - [Why VIRTURA-Collective](./why-virtura-collective.md)
 - [Repository Role Map](./repository-role-map.md)
 - [First-Wave Migration Map](./first-wave-migration-map.md)
+- [Project Archive Template](./project-archive-template.md)
 - [Migration Notes 2026-03-16](./migration-notes-2026-03-16.md)

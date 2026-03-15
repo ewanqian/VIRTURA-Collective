@@ -43,5 +43,7 @@
 
 ## Related Entries
 
+- [Versions](./versions.md)
+- [Awards And Presentations](./awards-and-presentations.md)
 - [Works Index](../README.md)
 - [Legacy entry](../timer.md)

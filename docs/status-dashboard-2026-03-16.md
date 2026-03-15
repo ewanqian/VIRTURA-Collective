@@ -16,6 +16,7 @@
 - 存储策略文档已建立
 - `VIRTURA-Collective` 当前 Markdown 相对链接审计结果为 0 个坏链
 - `VIRTURA-SpacePort` 主入口层 Markdown 相对链接审计结果为 0 个坏链
+- `VIRTURA-Newsroom` 已建立最小发布结构骨架
 
 ## In Progress
 

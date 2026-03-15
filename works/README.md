@@ -27,12 +27,13 @@
 |---|---|---|---|
 | Drop Flow | 系列作品 / 展演 / 空间叙事 | ongoing | [Entry](./drop-flow/README.md) |
 | TIMER | 系列作品 / 音画互动 / 空间演出 | ongoing | [Entry](./timer/README.md) |
-| Observation and Symbiosis | 展览项目 / 空间影像 | archived index | [Current source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/%E8%A7%82%E5%AF%9F%E4%B8%8E%E5%85%B1%E7%94%9F%20Observation%20and%20Symbiosis.md) |
+| Observation and Symbiosis | 展览项目 / 数据景观 | ongoing index | [Entry](./observation-and-symbiosis/README.md) |
 
 ## Work Series
 
 - [Drop Flow](./drop-flow/README.md)
 - [TIMER](./timer/README.md)
+- [Observation and Symbiosis](./observation-and-symbiosis/README.md)
 
 ## Migration Note
 

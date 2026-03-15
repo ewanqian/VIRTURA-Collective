@@ -5,7 +5,8 @@
 ## A. Series Migration
 
 - [x] 把 `TIMER` 补成完整样板系列：`public-materials / collaborators / assets / manifest`
-- [ ] 迁入 `Observation and Symbiosis` 系列入口
+- [x] 迁入 `Observation and Symbiosis` 系列入口
+- [ ] 给 `Observation and Symbiosis` 补 `public-materials / collaborators / assets / manifest`
 - [ ] 给每个已迁系列补一句对外使用的短介绍
 - [ ] 给已迁系列补统一的 `status` 字段
 
@@ -17,9 +18,9 @@
 
 ## C. Performance Layer
 
-- [ ] 从 `SpacePort` 迁 1 到 2 个更明确的事件型项目
+- [x] 从 `SpacePort` 迁 1 到 2 个更明确的事件型项目
 - [x] 让 `Performances` 拥有自己的代表条目，而不是只挂 works 入口
-- [ ] 对展演条目补 `venue / date / format` 三类信息
+- [x] 对展演条目补 `venue / date / format` 三类信息
 
 ## D. Research Layer
 

@@ -29,15 +29,23 @@ VIRTURA 的作品形态不只是静态项目，也包括：
 
 ## Current Reading Map
 
-| Entry | Type | Why It Matters |
-|---|---|---|
-| [Drop Flow Series](../works/drop-flow/README.md) | live + exhibition + evolving series | 当前最完整的样板系列 |
-| [TIMER Series](../works/timer/README.md) | audiovisual live + exhibition | 时间性音画互动系列 |
-| [Observation and Symbiosis source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/%E8%A7%82%E5%AF%9F%E4%B8%8E%E5%85%B1%E7%94%9F%20Observation%20and%20Symbiosis.md) | exhibition project | 后续适合迁入的展览项目入口 |
+| Entry | Type | Venue | Date | Format | Why It Matters |
+|---|---|---|---|---|---|
+| [Drop Flow Series](../works/drop-flow/README.md) | live + exhibition + evolving series | UFO Terminal / 杭州双年展 / 重庆等 | 2025-2026 | live + exhibition | 当前最完整的样板系列 |
+| [TIMER Series](../works/timer/README.md) | audiovisual live + exhibition | UFO Terminal / 杭州等 | 2024-2026 | live + exhibition | 时间性音画互动系列 |
+| [Observation and Symbiosis](../works/observation-and-symbiosis/README.md) | exhibition project | 上海 / 深圳 / 北京 | 2025-2026 | exhibition | 已迁入团队仓的展览型项目线 |
 
 ## Why This Matters
 
 把 `Performances` 独立出来的目的，是让团队的“发生型作品”拥有自己的入口逻辑，而不是全部被压平为一般作品列表。
+
+## Metadata Rule
+
+后续所有展演或事件型项目，优先补这 3 类信息：
+
+- `venue`
+- `date`
+- `format`
 
 ## Status
 

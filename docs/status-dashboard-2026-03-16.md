@@ -11,19 +11,19 @@
 - `TIMER` 已完成完整样板系列第一版
 - `Members` 已从占位页升级为公开成员结构页
 - `Performances` 已从占位页升级为事件型作品入口
+- `Observation and Symbiosis` 已迁入团队仓作为第三条正式项目线入口
 - 项目档案模板已建立
 
 ## In Progress
 
-- `Observation and Symbiosis` 等后续系列仍待迁入
 - 更多事件型项目仍待补入 `Performances`
 - 系列页的公开资料与资产索引仍可继续加深
 - `SpacePort` 与 `Collective` 的知识网络边界仍需进一步写清
 
 ## Next
 
-1. 迁 `Observation and Symbiosis`
-2. 给 `Performances` 补 `venue / date / format`
+1. 给 `Observation and Symbiosis` 补公开资料和图片入口
+2. 继续向 `Performances` 补更多事件型项目
 3. 补更正式的成员与参与说明
 4. 为后续系列统一增加 `status` 与 `current source`
 5. 明确保护 `SpacePort` 作为知识网络主宿主的角色

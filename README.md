@@ -35,6 +35,8 @@
 - [Research](./research/README.md)
 - [Why VIRTURA-Collective](./docs/why-virtura-collective.md)
 - [First-Wave Migration Map](./docs/first-wave-migration-map.md)
+- [Status Dashboard](./docs/status-dashboard-2026-03-16.md)
+- [Next-Wave Todo](./docs/next-wave-todo-2026-03-16.md)
 
 ## Repository Map
 

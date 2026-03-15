@@ -24,6 +24,17 @@
 | immersive exhibition edition | 2024.11-12 | 环形沉浸展览版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer.md) |
 | 2026 planning edition | 2026 | 规划中 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-2026.md) |
 
+## Series Structure
+
+这个系列现在在 `VIRTURA-Collective` 中已经有了最小档案结构：
+
+- [Versions](./versions.md)
+- [Awards And Presentations](./awards-and-presentations.md)
+- [Public Materials](./public-materials.md)
+- [Collaborators](./collaborators.md)
+- [Assets](./assets.md)
+- `manifest.json`
+
 ## Core Contributors Seen So Far
 
 - 徐昊：作曲 / 电子音乐
@@ -45,5 +56,8 @@
 
 - [Versions](./versions.md)
 - [Awards And Presentations](./awards-and-presentations.md)
+- [Public Materials](./public-materials.md)
+- [Collaborators](./collaborators.md)
+- [Assets](./assets.md)
 - [Works Index](../README.md)
 - [Legacy entry](../timer.md)

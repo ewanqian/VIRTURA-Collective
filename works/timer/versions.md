@@ -2,6 +2,16 @@
 
 这页把 `TIMER` 的版本关系压缩成系列索引。
 
+## Version Relationship
+
+```mermaid
+flowchart LR
+  A["creative camp experimental edition"] --> B["Hangzhou first performance edition"]
+  B --> C["Chinagraph awarded edition"]
+  C --> D["immersive exhibition edition"]
+  D --> E["2026 planning edition"]
+```
+
 ## Evolution Path
 
 `TIMER` 目前可以概括为这条演进路线：

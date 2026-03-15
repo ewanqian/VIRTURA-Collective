@@ -25,7 +25,8 @@ VIRTURA 的作品形态不只是静态项目，也包括：
 在正式迁移完成前，先保留最有代表性的入口：
 
 - [Drop Flow](../works/drop-flow.md)
-- [TIMER](../works/timer.md)
+- [Drop Flow Series](../works/drop-flow/README.md)
+- [TIMER Series](../works/timer/README.md)
 
 ## Status
 

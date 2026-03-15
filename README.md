@@ -30,8 +30,8 @@
 
 如果你是第一次进入，建议先看这几个入口：
 
-- [Drop Flow](./works/drop-flow.md)
-- [TIMER](./works/timer.md)
+- [Drop Flow Series](./works/drop-flow/README.md)
+- [TIMER Series](./works/timer/README.md)
 - [Research](./research/README.md)
 - [Why VIRTURA-Collective](./docs/why-virtura-collective.md)
 - [First-Wave Migration Map](./docs/first-wave-migration-map.md)

@@ -14,6 +14,16 @@
 - 它体现了 VIRTURA 对“数字自然”的另一条表达路径
 - 它已经在多个展览场景中落地
 
+## Status
+
+当前状态：`ongoing index`
+
+这意味着：
+
+- 团队仓里已经有正式入口
+- 详细正文仍以 `SpacePort` 源文档为准
+- 后续继续补公开资料、图片与展览记录索引
+
 ## Current Public Source
 
 当前详细源文档仍主要保存在：
@@ -32,6 +42,13 @@
 
 - 沈轩
 - 钱誉文
+
+## Series Structure
+
+- [Public Materials](./public-materials.md)
+- [Collaborators](./collaborators.md)
+- [Assets](./assets.md)
+- `manifest.json`
 
 ## Migration Status
 

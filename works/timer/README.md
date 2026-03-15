@@ -14,6 +14,10 @@
 - 已经在竞赛、展演、装置场景中验证
 - 未来具备继续延展到沉浸式与空间版的可能性
 
+## Status
+
+当前状态：`ongoing`
+
 ## Version Overview
 
 | Version | Time | Current State | Current Source |

@@ -6,7 +6,7 @@
 
 - [x] 把 `TIMER` 补成完整样板系列：`public-materials / collaborators / assets / manifest`
 - [x] 迁入 `Observation and Symbiosis` 系列入口
-- [ ] 给 `Observation and Symbiosis` 补 `public-materials / collaborators / assets / manifest`
+- [x] 给 `Observation and Symbiosis` 补 `public-materials / collaborators / assets / manifest`
 - [ ] 给每个已迁系列补一句对外使用的短介绍
 - [ ] 给已迁系列补统一的 `status` 字段
 
@@ -33,7 +33,12 @@
 
 - [ ] 给系列页补更稳定的公开资料索引
 - [ ] 给后续项目页补 `manifest.json`
-- [ ] 为未来大文件整理写一个单独的存储策略页
+- [x] 为未来大文件整理写一个单独的存储策略页
+
+## H. Audit
+
+- [x] 审计 `VIRTURA-Collective` 当前 Markdown 相对链接
+- [x] 审计 `VIRTURA-SpacePort` 当前主入口层 Markdown 相对链接
 
 ## F. Public Hygiene
 

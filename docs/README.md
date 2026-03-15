@@ -9,6 +9,7 @@
 - [First-Wave Migration Map](./first-wave-migration-map.md)
 - [Midterm Audit 2026-03-16](./midterm-audit-2026-03-16.md)
 - [Project Archive Template](./project-archive-template.md)
+- [Storage Strategy 2026-03-16](./storage-strategy-2026-03-16.md)
 - [Status Dashboard 2026-03-16](./status-dashboard-2026-03-16.md)
 - [Next-Wave Todo 2026-03-16](./next-wave-todo-2026-03-16.md)
 - [Migration Notes 2026-03-16](./migration-notes-2026-03-16.md)

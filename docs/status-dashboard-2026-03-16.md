@@ -13,6 +13,9 @@
 - `Performances` 已从占位页升级为事件型作品入口
 - `Observation and Symbiosis` 已迁入团队仓作为第三条正式项目线入口
 - 项目档案模板已建立
+- 存储策略文档已建立
+- `VIRTURA-Collective` 当前 Markdown 相对链接审计结果为 0 个坏链
+- `VIRTURA-SpacePort` 主入口层 Markdown 相对链接审计结果为 0 个坏链
 
 ## In Progress
 
@@ -22,7 +25,7 @@
 
 ## Next
 
-1. 给 `Observation and Symbiosis` 补公开资料和图片入口
+1. 给 `Observation and Symbiosis` 继续补展览记录深度
 2. 继续向 `Performances` 补更多事件型项目
 3. 补更正式的成员与参与说明
 4. 为后续系列统一增加 `status` 与 `current source`

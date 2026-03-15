@@ -14,6 +14,10 @@
 - 同一创作能进入不同媒介与场景
 - 作品本身可以继续生长为 Digital Stage 与资产化入口
 
+## Status
+
+当前状态：`ongoing`
+
 ## Version Overview
 
 | Version | Time | Current State | Current Source |

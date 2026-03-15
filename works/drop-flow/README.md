@@ -26,6 +26,16 @@
 | Chongqing exhibition edition | 2025.11 | 展演适配版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/drop-flow-series/drop-flow-luminous-2025.md) |
 | 2026 planning edition | 2026 | 规划中 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/drop-flow-series/drop-flow-2026.md) |
 
+## Series Structure
+
+这个系列现在在 `VIRTURA-Collective` 中已经有了最小档案结构：
+
+- [Versions](./versions.md)
+- [Public Materials](./public-materials.md)
+- [Collaborators](./collaborators.md)
+- [Assets](./assets.md)
+- `manifest.json`
+
 ## Core Contributors Seen So Far
 
 - 钱誉文：视觉艺术 / 场景构成
@@ -49,5 +59,7 @@
 
 - [Versions](./versions.md)
 - [Public Materials](./public-materials.md)
+- [Collaborators](./collaborators.md)
+- [Assets](./assets.md)
 - [Works Index](../README.md)
 - [Legacy entry](../drop-flow.md)

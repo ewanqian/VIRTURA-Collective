@@ -2,6 +2,18 @@
 
 这页把 `Drop Flow` 的版本关系压缩成可快速理解的索引。
 
+## Version Relationship
+
+```mermaid
+flowchart LR
+  A["1.0 prototype"] --> B["2.0 UFO internal"]
+  B --> C["3.0 live edition"]
+  C --> D["competition edition"]
+  D --> E["Hangzhou Biennale edition"]
+  E --> F["Chongqing exhibition edition"]
+  F --> G["2026 planning edition"]
+```
+
 ## Evolution Path
 
 `Drop Flow` 目前可以概括为这条演进路线：

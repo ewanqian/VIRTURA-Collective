@@ -25,6 +25,7 @@
 
 - [ ] 继续从 `our-theory` 提炼研究主线短摘要
 - [ ] 明确哪些研究只做索引，哪些值得迁入团队仓
+- [ ] 明确写出 `SpacePort` 仍是 `knowledge-network` 主宿主
 - [ ] 避免把所有研究仓都抬进首页主导航
 
 ## E. Archive Quality
@@ -36,6 +37,7 @@
 ## F. Public Hygiene
 
 - [ ] 继续清 `VIRTURA-SpacePort` 的长尾坏链和旧文案
+- [ ] 保护 `SpacePort` 的知识网络和旧档案宿主功能，不做误清空
 - [ ] 把 `Newsroom` 的栏目再收紧一轮
 - [ ] 评估哪些实验仓不该再出现在主入口附近
 

@@ -7,6 +7,7 @@
 - [Why VIRTURA-Collective](./why-virtura-collective.md)
 - [Repository Role Map](./repository-role-map.md)
 - [First-Wave Migration Map](./first-wave-migration-map.md)
+- [Midterm Audit 2026-03-16](./midterm-audit-2026-03-16.md)
 - [Project Archive Template](./project-archive-template.md)
 - [Status Dashboard 2026-03-16](./status-dashboard-2026-03-16.md)
 - [Next-Wave Todo 2026-03-16](./next-wave-todo-2026-03-16.md)

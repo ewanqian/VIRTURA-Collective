@@ -13,6 +13,19 @@
 - 重要框架与关键词
 - 与作品和舞台直接相关的研究线
 
+## Important Boundary
+
+这里的 `Research` 目前是团队视角下的研究总览，不等于完整知识网络本体。
+
+当前完整的知识网络、学习路径和理论深层内容，仍主要宿主在：
+
+- [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
+
+因此当前正确关系是：
+
+- `VIRTURA-Collective/research`：研究总览与主入口索引
+- `VIRTURA-SpacePort/knowledge-network`：知识网络主宿主
+
 ## Core Directions
 
 目前优先保留 4 条与团队最相关的主线：

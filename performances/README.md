@@ -20,6 +20,13 @@ VIRTURA 的作品形态不只是静态项目，也包括：
 - digital stage release
 - site-specific presentation
 
+## First-Wave Entries
+
+在正式迁移完成前，先保留最有代表性的入口：
+
+- [Drop Flow](../works/drop-flow.md)
+- [TIMER](../works/timer.md)
+
 ## Status
 
 结构已建立，项目条目待迁入。

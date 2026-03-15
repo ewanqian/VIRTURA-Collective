@@ -26,6 +26,16 @@
 - [Collaboration](./collaboration/README.md)
 - [Docs](./docs/README.md)
 
+## Featured Now
+
+如果你是第一次进入，建议先看这几个入口：
+
+- [Drop Flow](./works/drop-flow.md)
+- [TIMER](./works/timer.md)
+- [Research](./research/README.md)
+- [Why VIRTURA-Collective](./docs/why-virtura-collective.md)
+- [First-Wave Migration Map](./docs/first-wave-migration-map.md)
+
 ## Repository Map
 
 ```text
@@ -56,6 +66,7 @@ VIRTURA-Collective/
 - 顶层命名与角色已经确定
 - 团队主入口开始从 `SpacePort` 中拆出
 - 目录骨架已经建立
+- 第一轮团队、作品、研究入口已经建立
 - 旧内容迁移仍在进行中
 
 ## Next Step

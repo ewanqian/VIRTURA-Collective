@@ -43,6 +43,7 @@
 - 想看音画互动与现场版本: [TIMER](./timer/README.md)
 - 想看展览型项目与数据影像线: [Observation and Symbiosis](./observation-and-symbiosis/README.md)
 - 想看作品如何进入真实场景: [Performances](../performances/README.md)
+- 想按合作艺术家回看项目网络: [Artists](../artists/README.md)
 
 ## 如果你只打算点一次
 
@@ -59,6 +60,11 @@
 ## Migration Note
 
 原先分散在 `VIRTURA-SpacePort/organization/works` 及相关仓库中的高价值条目，会逐步迁入或在这里建立更稳定的索引入口。
+
+当前建议的分工是：
+
+- `VIRTURA-Collective/works`：团队对外的精选作品入口
+- `VIRTURA-SpacePort/organization/works`：详细项目档案源与版本正文宿主
 
 ## First-Wave Entries
 

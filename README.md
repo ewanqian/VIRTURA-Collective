@@ -15,6 +15,7 @@
 - 想看研究方向、知识网络和可参与的整理工作: 先看 [Research](./research/README.md)
 - 想知道这个团队是不是真的在持续发生事情: 先看 [Activities](./activities/README.md)
 - 想看成员结构和参与方式: 先看 [Members](./members/README.md)
+- 想按名字认识已经合作过的艺术家与协作者: 先看 [Artists](./artists/README.md)
 
 ## 你会在这里快速确认什么
 
@@ -24,6 +25,13 @@
 - 哪些作品和项目最能代表我们现在的状态
 - 团队的研究、活动和沙龙是不是持续发生
 - 如果你想合作、旁听、加入建设，应该从哪里开始
+
+## 目前你能直接看到的东西
+
+- 团队已经有 3 条可稳定阅读的作品入口：`Drop Flow`、`TIMER`、`Observation and Symbiosis`
+- 团队已经有一条可以外部判断活跃度的活动时间线
+- 团队已经开始建立合作艺术家与协作者的名字档案
+- 研究和知识网络已经有明确的进入路线，不需要从头读完
 
 ## 三分钟阅读路线
 
@@ -37,13 +45,17 @@
    [Activities](./activities/README.md) → [VIRTURA-SpacePort / Space Salon](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon)
 4. 作品与现场路线：
    [Works](./works/README.md) → [Performances](./performances/README.md)
+5. 合作艺术家路线：
+   [Artists](./artists/README.md) → [Works](./works/README.md) → [Collaboration](./collaboration/README.md)
 
 ## Featured Now
 
 如果你只打算先读 5 页，优先看这些：
 
 - [About](./about/README.md): 先理解团队是谁，不要先掉进结构说明
+- [Artists](./artists/README.md): 先按名字理解已经形成的合作网络
 - [Works](./works/README.md): 先看最能代表团队的作品入口
+- [Artists](./artists/README.md): 先按名字认识已经公开出现过的合作艺术家
 - [Activities](./activities/README.md): 先判断团队是否在持续发生真实活动
 - [Research](./research/README.md): 先看研究方向和知识网络怎么进入
 - [Collaboration](./collaboration/README.md): 先看不同合作方应该怎么接近我们

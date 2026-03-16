@@ -2,6 +2,8 @@
 
 这里整理 VIRTURA 当前公开可识别的成员结构与参与方式。
 
+如果你想直接按名字认识已经合作过的艺术家、创作者和协作者，请进入 [Artists](../artists/README.md)。
+
 ## Member Model
 
 VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
@@ -12,18 +14,20 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 2. 围绕单个系列或项目加入的协作者
 3. 未来可能加入的项目制成员
 
-## Core Members Seen Publicly
+## First Public Profiles
 
-下面这份只整理目前在公开项目中已经反复出现的名字，不把它误写成固定编制表。
+下面这份只整理目前在公开项目中已经反复出现、并已建立独立档案页的名字，不把它误写成固定编制表。
 
-| Name | Current Public Role | Seen In |
-|---|---|---|
-| 钱誉文 Ewan Qian | 视觉艺术 / 场景构成 / 数字艺术 | portfolio, Drop Flow, TIMER, SpacePort |
-| 徐昊 Hao Xu | 电子音乐 / 作曲 | Drop Flow, TIMER |
-| 许思慧 | 交互艺术 / 装置协作 | Drop Flow, TIMER |
-| 沈轩 | 艺术总监 / 联合创作 | Drop Flow related versions |
-| 马逍遥 | 视觉艺术 / 数据采样 | Drop Flow live and exhibition versions |
-| 黄敏萱 | AI 视觉协作 | Drop Flow internal and exhibition versions |
+| Name | Current Public Role | Seen In | Profile |
+|---|---|---|---|
+| 钱誉文 Ewan Qian | 视觉艺术 / 场景构成 / 数字艺术 | Drop Flow, TIMER, Observation and Symbiosis | [查看](../artists/ewan-qian.md) |
+| 徐昊 Hao Xu | 电子音乐 / 作曲 | Drop Flow, TIMER | [查看](../artists/hao-xu.md) |
+| 许思慧 Sihui Xu | 交互艺术 / 装置协作 | Drop Flow, TIMER | [查看](../artists/sihui-xu.md) |
+| 沈轩 Shen Xuan | 艺术方向 / 联合创作 | Observation and Symbiosis, Drop Flow | [查看](../artists/xuan-shen.md) |
+| 马逍遥 Xiaoyao Ma | 视觉艺术 / 数据采样 | Drop Flow | [查看](../artists/xiaoyao-ma.md) |
+| 黄敏萱 Minxuan Huang | AI 视觉协作 | Drop Flow | [查看](../artists/minxuan-huang.md) |
+| 王家明 Jiaming Wang | 剧场导演 | Drop Flow Hangzhou Biennale edition | [查看](../artists/jiaming-wang.md) |
+| 魏琴 Qin Wei | 表演艺术家 | Drop Flow Hangzhou Biennale edition | [查看](../artists/qin-wei.md) |
 
 ## Participation Types
 
@@ -31,6 +35,13 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 - project-based: 围绕某个项目或某个版本加入
 - research/documentation: 围绕方法、文档、归档参与
 - tools/knowledge-network: 围绕工具、知识网络、发布结构和系统整理参与
+
+## Why We Split Members And Artists
+
+- `Members` 更适合解释团队的参与结构和关系类型
+- [Artists](../artists/README.md) 更适合按名字建立个人档案、列出参与项目与主要方向
+
+后续如果继续补公开资料、项目相关思考或合作脉络，也会优先挂到 `Artists` 下面。
 
 ## Role Clusters
 

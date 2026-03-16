@@ -35,7 +35,7 @@
 | 周次 | 日期 | 节点 | 线 | 目标 |
 |---|---|---|---|---|
 | Week 1 | 2026-03-21 | 太空气球 Alpha 测试 | 太空气球 | 拉起第一波真实参与与反馈 |
-| Week 2 | 2026-03-27 / 2026-03-28 | 概念短讲 + Space Salon Vol.2 | Briefing + Space Salon | 解释你们为什么持续做公共活动 |
+| Week 2 | 2026-03-27 / 2026-03-29 | 概念短讲 + Space Salon Vol.3 | Briefing + Space Salon | 把交流客厅真正拉起来 |
 | Week 3 | 2026-04-03 / 2026-04-04 | MOVA 试运行展开幕 + Practice Night | MOVA + Practice | 建立“发布也能进入日历”的习惯 |
 | Week 4 | 2026-04-10 / 2026-04-11 | 数字情感容器短讲 + 档案方法分享 | Briefing + Space Salon | 让研究线开始对外长出来 |
 | Week 5 | 2026-04-17 / 2026-04-18 | 版本观看室开放 + 实时实验夜 | Release + 太空气球 | 把作品、测试和发布拉通 |
@@ -68,15 +68,15 @@
   - [Activities](https://github.com/ewanqian/VIRTURA-Collective/tree/main/activities)
   - [Stations](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations)
 
-**2026-03-28（周六）20:00**  
-`VIRTURA 空间茶话会 Vol.2｜从一次活动认识 VIRTURA`
+**2026-03-29（周日）20:00**
+`VIRTURA 空间茶话会 Vol.3｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事`
 
 - 线：`Space Salon`
-- 形式：线下或线上小范围分享
-- 目标：把团队、作品、活动和研究入口讲得更自然
+- 形式：线下或线上小范围交流客厅
+- 目标：让社群互动和阶段性交流真的发生起来
 - 配套 GitHub 入口：
   - [Collective](https://github.com/ewanqian/VIRTURA-Collective)
-  - [Works](https://github.com/ewanqian/VIRTURA-Collective/tree/main/works)
+  - [Planned](https://github.com/ewanqian/VIRTURA-Collective/tree/main/activities/planned)
 
 #### Week 3
 
@@ -111,7 +111,7 @@
   - [Digital Emotion Container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
 
 **2026-04-11（周六）20:00**  
-`VIRTURA 空间茶话会 Vol.3｜一次线下现场，怎样变成可回看的数字档案`
+`VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案`
 
 - 线：`Space Salon`
 - 形式：分享会
@@ -155,7 +155,7 @@
   - [Intellectual Equipment](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/intellectual-equipment)
 
 **2026-04-25（周六）20:00**  
-`VIRTURA 空间茶话会 Vol.4｜从扫描到高斯：如何把现实里的东西带回数字空间`
+`VIRTURA 空间茶话会 Vol.5｜从扫描到高斯：如何把现实里的东西带回数字空间`
 
 - 线：`Space Salon`
 - 形式：分享会 / 小型工作坊
@@ -214,15 +214,15 @@
 - GitHub：
   - [Activities](https://github.com/ewanqian/VIRTURA-Collective/tree/main/activities)
 
-### 3. VIRTURA 空间茶话会 Vol.2｜从一次活动认识 VIRTURA
+### 3. VIRTURA 空间茶话会 Vol.3｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事
 
 - 线：`Space Salon`
 - 一句话摘要：
-  如果你只想先用一个晚上了解 VIRTURA，这会是最合适的一场。
+  带一段最近在做的东西来，或者只带一个最近很想继续聊的问题来。
 - 活动说明：
-  我们会用更自然的方式介绍团队现在的三条作品线、几条研究线和两到三条活动线，也会讲清楚为什么我们把作品、知识网络和活动入口放在一起。如果你是第一次接触 VIRTURA，这一场比一次性读完整个仓库更适合作为入口。
+  这不是一场说明会，也不是一场正式发布会，而是一次更偏交流的空间茶话会。欢迎你带一段最近在做的视觉、音乐、场景草图、页面、半成品，或者只是一个还没想通的问题来。我们会把更多时间留给交流、互相观看和现场延伸出来的话题，而不是把它做成单向介绍。
 - GitHub：
-  - [Collective](https://github.com/ewanqian/VIRTURA-Collective)
+  - [Planned](https://github.com/ewanqian/VIRTURA-Collective/tree/main/activities/planned)
 
 ### 4. MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编
 
@@ -254,7 +254,7 @@
 - GitHub：
   - [Digital Emotion Container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
 
-### 7. VIRTURA 空间茶话会 Vol.3｜一次线下现场，怎样变成可回看的数字档案
+### 7. VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案
 
 - 线：`Space Salon`
 - 一句话摘要：
@@ -294,7 +294,7 @@
 - GitHub：
   - [Knowledge Network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
 
-### 11. VIRTURA 空间茶话会 Vol.4｜从扫描到高斯：如何把现实里的东西带回数字空间
+### 11. VIRTURA 空间茶话会 Vol.5｜从扫描到高斯：如何把现实里的东西带回数字空间
 
 - 线：`Space Salon`
 - 一句话摘要：
@@ -322,7 +322,7 @@
 如果你不想一下子发太多，我建议最先发这 4 个：
 
 1. `2026-03-21` 太空气球线上演出空间 Alpha 测试
-2. `2026-03-28` VIRTURA 空间茶话会 Vol.2｜从一次活动认识 VIRTURA
+2. `2026-03-29` VIRTURA 空间茶话会 Vol.3｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事
 3. `2026-04-03` MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编
 4. `2026-04-11` VIRTURA 空间茶话会 Vol.3｜一次线下现场，怎样变成可回看的数字档案
 

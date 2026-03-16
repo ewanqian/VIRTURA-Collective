@@ -2,7 +2,7 @@
 
 这里整理 VIRTURA 的公共活动、沙龙、工作坊与线上线下时间线。
 
-如果你是从小红书、朋友转发或一次活动认识 VIRTURA 的，这页应该帮你快速确认：团队不是只在写概念，而是真的在持续发生事情。
+如果你是从小红书、朋友转发或一次活动链接来到这里，这页应该帮你快速确认：团队不是只在写概念，而是真的在持续发生事情。
 
 它和 [Performances](../performances/README.md) 的关系很近，但重点不同:
 
@@ -44,7 +44,20 @@
 - [VIRTURA 空间茶话会 Vol.0｜带上一段视觉，来客厅聊聊存档与远方](https://luma.com/iehkdjr0)
 - [太空气球线上演出空间 Alpha 测试](https://luma.com/go6kxnnw)
 
-## 当前时间线
+## 计划中的活动
+
+如果你更关心“接下来会发生什么”，而不是只看往期入口，先看这里：
+
+- [Planned / 计划中](./planned/README.md)
+- 下一期茶话会和后续公开节点，都会优先从 [VIRTURA 官方活动日历](https://lu.ma/VIRTURA) 发布
+
+当前已在排期中的节点包括：
+
+- `2026-03-29` `VIRTURA 空间茶话会 Vol.3`
+- `2026-04-03` `MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编`
+- `2026-04-04` `Practice Night 01`
+
+## 往期公开节点
 
 当前先把已经公开可确认的节点整理为第一版时间线:
 
@@ -58,6 +71,10 @@
 | 2025.05 | [线上 5 天直播工作坊](https://github.com/ewanqian/portfolio/blob/main/workshops/202505-%E7%BA%BF%E4%B8%8A-5%E5%A4%A9%E7%9B%B4%E6%92%AD%E5%B7%A5%E4%BD%9C%E5%9D%8A.md) | online workshop | 主讲 / 课程设计 |
 | 2025.04 | [重新定义数字空间｜半成品沙龙](https://github.com/ewanqian/portfolio/blob/main/workshops/202504-%E5%B7%A8%E9%B9%BF%E8%B7%AF-%E5%8D%8A%E6%88%90%E5%93%81%E6%B2%99%E9%BE%99.md) | offline salon | 分享嘉宾 |
 | 2024.12 | [AI+3D 空间交互艺术创作工坊](https://github.com/ewanqian/portfolio/blob/main/workshops/202412-%E6%BC%95%E6%B2%B3%E6%B3%BE-AI3D%E5%B7%A5%E5%9D%8A.md) | offline workshop | 特邀分享嘉宾 |
+
+如果你想按“往期活动入口”单独看，见：
+
+- [Past / 往期公开活动入口](./past/README.md)
 
 ## 你会在这个日历里看到什么
 
@@ -103,7 +120,7 @@
 
 - 它承接的是更轻量、可持续的交流与分享
 - 它既可以连接作品和研究，也可以连接后续的公共活动
-- 目前已经有 `Vol.0`、`Vol.1` 两个已公开节点，`Vol.2` 正在筹备中
+- 目前已经有 `Vol.0`、`Vol.1` 两个已公开节点，后续场次以官方活动日历为准
 - 更完整的系列时间线见 [VIRTURA-SpacePort / stations](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations)
 
 ## 日常还会从哪里同步
@@ -128,6 +145,18 @@
 - 一个场景页面开放访问
 - 一个公开测试开放申请
 - 一个概念短讲或方法页上线后的公共阅读入口
+
+## 为什么这里不是一堆独立活动页面
+
+`VIRTURA-Collective/activities` 现在不再试图把每一期活动都拆成很多分散页面。
+
+现在更明确的分工是：
+
+- 这里负责总入口、时间线、计划中节点和如何继续进入
+- `VIRTURA-SpacePort/stations` 负责更完整的活动站点、系列归档和发生现场
+- `portfolio/workshops` 负责一些已经发生过的公开工作坊和历史条目
+
+所以这里看起来比以前“干净”，不是因为内容没了，而是因为过去分散的活动内容被收回到更适合长期承接它们的位置了
 
 ## 人通常怎么靠近这个网络
 

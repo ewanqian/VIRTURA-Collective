@@ -14,6 +14,8 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 2. 围绕单个系列或项目加入的协作者
 3. 未来可能加入的项目制成员
 
+同样重要的一点是：VIRTURA 支持团队协作，也支持成员保留自己的个人表达。加入这个网络，不等于只能跟着团队统一创作；很多人会带着自己的项目、写作和研究进来，再在具体节点上形成合作。
+
 ## First Public Profiles
 
 下面这份只整理目前在公开项目中已经反复出现、并已建立独立档案页的名字，不把它误写成固定编制表。
@@ -24,6 +26,7 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 | 徐昊 Hao Xu | 电子音乐 / 作曲 | Drop Flow, TIMER | [查看](../artists/hao-xu.md) |
 | 许思慧 Sihui Xu | 交互艺术 / 装置协作 | Drop Flow, TIMER | [查看](../artists/sihui-xu.md) |
 | 沈轩 Shen Xuan | 艺术方向 / 联合创作 | Observation and Symbiosis, Drop Flow | [查看](../artists/xuan-shen.md) |
+| 周子凌 Murphy Nile | 写作 / 研究 / 数字空间共创 | Space Salon, Segla | [查看](../artists/murphy-nile.md) |
 | 马逍遥 Xiaoyao Ma | 视觉艺术 / 数据采样 | Drop Flow | [查看](../artists/xiaoyao-ma.md) |
 | 黄敏萱 Minxuan Huang | AI 视觉协作 | Drop Flow | [查看](../artists/minxuan-huang.md) |
 | 王家明 Jiaming Wang | 剧场导演 | Drop Flow Hangzhou Biennale edition | [查看](../artists/jiaming-wang.md) |
@@ -51,6 +54,7 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 - electronic music
 - interaction
 - stage and spatial design
+- digital landscape and writing
 - research and writing
 - documentation and archiving
 

@@ -17,6 +17,18 @@
 
 这是我们当前最重要的公共活动入口。后续的空间茶话会、公开分享、线上测试、线下交流，以及其他适合对外开放的节点，都会优先从这里持续发布。
 
+这里的“节点”不只指线下聚会或线上会议。
+
+只要有明确的公开开始时间、观看窗口、测试时段或申请入口，下面这些内容都可以进入这个日历：
+
+- `Space Salon / 数字沙龙 / 交流客厅`
+- `太空气球 / Baloon Live Space`
+- `practice / 共练 / 开放排练`
+- `concept briefing / 概念短讲 / 方法说明`
+- `public test / alpha / beta`
+- `场景内容上新`
+- `MOVA / Museum of Virtual Art` 的线上展映或开幕节点
+
 ## 为什么我们持续做公共活动
 
 公共活动对我们来说，不只是“宣传”。
@@ -51,10 +63,14 @@
 
 - `Space Salon / 数字沙龙 / 交流客厅`
 - 太空气球线上演出空间相关测试与公开节点
+- practice、共练与开放排练
+- 概念说明、短讲与阶段性研究发布
+- 场景内容上新、页面开放与 archive release
+- `MOVA` 线上展映、观看室与展览开启节点
 - 工作坊、公开分享与阶段性实验
 - 其他适合向外开放的线上线下活动
 
-## 当前最清楚的两条活动线
+## 当前最清楚的三条活动与发布线
 
 ### 1. 太空气球 / Baloon Live Space
 
@@ -73,6 +89,14 @@
 - [VIRTURA 空间茶话会 Vol.0](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-00-archive-and-distance)
 - [VIRTURA 空间茶话会 Vol.1](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-01-cloud-sequel)
 
+### 3. MOVA / Museum of Virtual Art
+
+这条线更偏向线上展映、作品观看室、轻量展览与从 GitHub library 快速转成公共展示入口的发布节点。
+
+当前入口：
+
+- [MOVA](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova)
+
 ## Space Salon 这条活动线
 
 当前最适合外部先认识的一条活动线，就是 `Space Salon / 数字沙龙`。
@@ -89,6 +113,21 @@
 - 小红书群与朋友转发链接
 
 如果你已经在活动日历里订阅了我们，后续活动邮件会是最稳定的一条更新方式。
+
+## 日历如何和 GitHub 配合
+
+我们会尽量把日历和 GitHub 做成一套自然的前后衔接：
+
+- `Luma` 负责长期订阅、报名、提醒和开幕时刻
+- `VIRTURA-Collective` 负责团队、作品、活动和合作入口
+- `VIRTURA-SpacePort` 负责知识网络、项目档案、活动归档和 `MOVA` 线上展映入口
+
+所以一个节点可以不是“来现场见面”，也可以是：
+
+- 一个线上展映正式开启
+- 一个场景页面开放访问
+- 一个公开测试开放申请
+- 一个概念短讲或方法页上线后的公共阅读入口
 
 ## 人通常怎么靠近这个网络
 

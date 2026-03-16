@@ -15,3 +15,4 @@
 - [Migration Notes 2026-03-16](./migration-notes-2026-03-16.md)
 - [Cross-Repo Experience Audit 2026-03-16](./cross-repo-experience-audit-2026-03-16.md)
 - [Activity Program Library 2026-03-16](./activity-program-library-2026-03-16.md)
+- [Calendar Program Framework 2026-03-16](./calendar-program-framework-2026-03-16.md)

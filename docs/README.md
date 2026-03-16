@@ -16,3 +16,4 @@
 - [Cross-Repo Experience Audit 2026-03-16](./cross-repo-experience-audit-2026-03-16.md)
 - [Activity Program Library 2026-03-16](./activity-program-library-2026-03-16.md)
 - [Calendar Program Framework 2026-03-16](./calendar-program-framework-2026-03-16.md)
+- [Six-Week Calendar Draft 2026-03-16](./six-week-calendar-draft-2026-03-16.md)

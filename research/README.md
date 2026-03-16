@@ -1,116 +1,72 @@
 # Research
 
-这里整理 VIRTURA 最核心的研究方向。
+这里整理 VIRTURA 当前已经公开展开的研究主线。
 
-如果你是从作品、活动或朋友分享里进来的，这页的作用不是让你一次读完全部理论，而是帮你快速找到一个对你有用的入口。
+这些方向并不是悬空的概念口号，而是直接服务于作品、展演、数字舞台、档案和知识网络建设。
 
-## 这页最适合回答
-
-- 团队当前最重要的研究主线是什么
-- `Collective/research` 和 `SpacePort/knowledge-network` 的边界在哪里
-- 如果想参与知识网络建设，应该从哪里进入
-- 如果只想先读一条路线，应该先点哪里
-
-## Role
-
-研究是团队创作系统的一部分，但这里不会把所有分支仓库都抬成主入口。
-
-这里更适合承接：
-
-- 方法论索引
-- 研究方向概览
-- 重要框架与关键词
-- 与作品和舞台直接相关的研究线
-
-## Important Boundary
-
-这里的 `Research` 目前是团队视角下的研究总览，不等于完整知识网络本体。
-
-当前完整的知识网络、学习路径和理论深层内容，仍主要宿主在：
-
-- [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
-
-因此当前正确关系是：
-
-- `VIRTURA-Collective/research`：研究总览与主入口索引
-- `VIRTURA-SpacePort/knowledge-network`：知识网络主宿主
-
-## 先按你的目的选路线
-
-- 想知道团队现在到底在研究什么：直接看下面 4 条主线
-- 想真正开始用知识网络：去 [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
-- 想从一个小模块开始帮忙：先看本页最后的“如何参与”
-
-## Core Directions
-
-目前优先保留 4 条与团队最相关的主线：
+## 当前公开展开的 4 条主线
 
 ### 1. Digital Library / Digital Stage
 
-这条线处理的是：
+这条线处理的是作品、演出、研究和档案如何被重新组织成可观看、可发布、可进入的公开前台。
 
-- 如何归档作品、演出、研究与资产
-- 如何把已归档内容重新组织为可观看、可发布、可进入的前台
+当前与它最相关的工作包括：
 
-它是当前 VIRTURA 体系升级的结构主线。
+- 作品档案如何稳定公开
+- 一次性现场如何变成可反复阅读的版本结构
+- 团队入口、作品入口与发布入口如何彼此联动
 
 ### 2. Spatial Creative Framework
 
-这条线处理的是：
+这条线关心空间创作如何从感知、结构和场景组织进入实际落地。
 
-- 空间创作如何从认知进入落地
-- 空间计算、场景组织、感知体验与创作方法如何连起来
+当前更接近它的议题包括：
+
+- 空间计算与场景设计如何进入作品方法
+- 空间感、时间结构和观看路径如何被组织
+- 展演、装置、网页和影像之间如何建立统一语言
 
 当前主要入口：
 - [our-theory](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory)
 
 ### 3. Intellectual Equipment
 
-这条线处理的是：
+这条线处理知识、案例、方法和工作流如何被组织成可调用、可引用、可继续建设的工作单元。
 
-- 如何把静态知识变成动态知识网络
-- 如何把知识组织成可调用、可部署的工作单元
+当前更接近它的工作包括：
+
+- 学习路径和术语入口的整理
+- 方法论索引与案例索引的建立
+- 项目复盘如何转成长期知识条目
 
 当前主要入口：
 - [intellectual-equipment](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/intellectual-equipment)
 
 ### 4. Digital Emotion Container
 
-这条线处理的是：
-
-- 情感、记忆、空间锚点与数字内容之间的关系
-- 如何让空间化表达真正形成可感知的作品和体验
+这条线关心情感、记忆、空间锚点与数字内容之间的关系，以及它们如何真正回到作品和体验中。
 
 当前主要入口：
 - [digital-emotion-container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
 
-## If You Want To Help Build The Knowledge Network
+## 现在可以从哪里继续看
 
-目前更适合进入的方式不是一次性重写全部理论，而是从可控的小单元加入:
+- 想直接进入知识网络：去 [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
+- 想从学习路径开始：看 [learning-paths](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/learning-paths)
+- 想先读团队自己的方法框架：看 [our-theory](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory)
+
+## 如果你想参与补充
+
+目前更适合从这些低摩擦入口开始：
 
 - 补一个主题入口页
 - 整理一个案例索引
-- 帮某条学习路径补最短路径说明
+- 帮某条学习路径补“最短路径”说明
 - 把项目复盘中的方法部分抽成知识条目
 
-这类工作会同时连接 `VIRTURA-Collective/research` 和 `VIRTURA-SpacePort/knowledge-network`。
+这类工作会同时连接 `VIRTURA-Collective/research` 和 `VIRTURA-SpacePort/knowledge-network`，也最适合成长中的创作者先从清楚的小模块开始参与。
 
-如果你是成长中的创作者，这也是最适合开始参与的一类入口，因为它不要求你先承担完整项目。
+## 边界
 
-## Research Shelf
-
-后续逐步纳入，但暂不升到团队首页主导航的方向包括：
-
-- spatial performance
-- immersive narrative
-- collaborative workflows
-- stage tooling methods
-- documentation systems
-
-## Related Repositories
-
-更细的研究支线仓库会保留为 second-layer references，而不是全部进入团队首页主导航。
-
-## Working Rule
-
-研究页优先承接“方向总览”和“主入口索引”，不急着复制全部全文。
+`Collective/research` 负责团队视角下的研究总览和公开入口。
+`VIRTURA-SpacePort/knowledge-network` 负责更完整的知识网络正文、学习路径和深层资料。

@@ -4,92 +4,63 @@
 
 `VIRTURA-Collective` is the team entry point of VIRTURA.
 
-这里不是资料仓的总目录，而是 VIRTURA 对外最适合分享给别人的团队入口。
+这里集中介绍 VIRTURA 作为团队正在做什么、已经公开了哪些作品与活动，以及外部可以从哪里继续了解或开始协作。
 
-如果你把一个链接发给潜在合作者、沙龙听众、研究同好或未来成员，我们更希望他们先从这里进入，再决定要不要继续去 `SpacePort`、`Newsroom` 或具体项目页。
+它不是资料仓总目录，也不是内部说明书，而是一份对外可直接阅读的团队公开入口。
 
-## 如果你刚拿到这个链接
+## 目前已经公开的内容
 
-- 想先判断这个团队值不值得继续聊合作: 先看 [About](./about/README.md)，再看 [Works](./works/README.md) 和 [Collaboration](./collaboration/README.md)
-- 想快速知道我们平时到底在做什么: 先看 [Works](./works/README.md)，再看 [Performances](./performances/README.md)
-- 想看研究方向、知识网络和可参与的整理工作: 先看 [Research](./research/README.md)
-- 想知道这个团队是不是真的在持续发生事情: 先看 [Activities](./activities/README.md)
-- 想看成员结构和参与方式: 先看 [Members](./members/README.md)
-- 想按名字认识已经合作过的艺术家与协作者: 先看 [Artists](./artists/README.md)
+- 3 条可稳定阅读的作品入口：`Drop Flow`、`TIMER`、`Observation and Symbiosis`
+- 一条可以外部判断团队活跃度的活动时间线
+- 第一批合作艺术家与协作者的公开名字档案
+- 一组已经开始成形的研究方向与知识网络入口
 
-## 你会在这里快速确认什么
+## 团队目前主要在做什么
 
-这个仓库优先回答 4 个问题：
+- 现场演出与舞台视觉
+- 空间影像、展览与数字展演
+- 数字舞台与在线发布
+- 与创作直接相关的方法研究、知识整理与长期归档
 
-- 这个团队是谁，正在围绕什么长期工作
-- 哪些作品和项目最能代表我们现在的状态
-- 团队的研究、活动和沙龙是不是持续发生
-- 如果你想合作、旁听、加入建设，应该从哪里开始
+## 从这里继续看
 
-## 目前你能直接看到的东西
+| 如果你更关心 | 建议先看 | 你会先看到什么 |
+|---|---|---|
+| 团队是谁、为什么值得继续聊 | [About](./about/README.md) | 团队定义、协作方式、当前公开主线 |
+| 团队最能代表自己的作品 | [Works](./works/README.md) | 第一批精选作品与系列入口 |
+| 现场、展演和展览型项目 | [Performances](./performances/README.md) | 作品在哪些场域发生、以什么形式公开出现 |
+| 已经形成的合作网络 | [Artists](./artists/README.md) | 按名字识别艺术家与协作者，并回看参与项目 |
+| 活动、沙龙和公开节奏 | [Activities](./activities/README.md) | 团队是否在持续发生真实活动 |
+| 研究方向与知识整理 | [Research](./research/README.md) | 当前研究主线与知识网络进入方式 |
+| 如何开始合作 | [Collaboration](./collaboration/README.md) | 不同类型的合作方可以怎样进入 |
 
-- 团队已经有 3 条可稳定阅读的作品入口：`Drop Flow`、`TIMER`、`Observation and Symbiosis`
-- 团队已经有一条可以外部判断活跃度的活动时间线
-- 团队已经开始建立合作艺术家与协作者的名字档案
-- 研究和知识网络已经有明确的进入路线，不需要从头读完
+## 第一批公开入口
 
-## 三分钟阅读路线
+- [About](./about/README.md)：团队定义、协作结构与当前公开状态
+- [Works](./works/README.md)：精选作品与系列入口
+- [Artists](./artists/README.md)：合作艺术家与协作者档案
+- [Activities](./activities/README.md)：活动、沙龙、工作坊与时间线
+- [Research](./research/README.md)：研究主线与知识网络入口
+- [Collaboration](./collaboration/README.md)：合作方式与加入路径
 
-如果你不想一次读太多，按下面任一条路线走就够了：
+## 这个入口和其他仓库的关系
 
-1. 团队认识路线：
-   [About](./about/README.md) → [Works](./works/README.md) → [Collaboration](./collaboration/README.md)
-2. 研究同好路线：
-   [Research](./research/README.md) → [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
-3. 活动与沙龙路线：
-   [Activities](./activities/README.md) → [VIRTURA-SpacePort / Space Salon](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon)
-4. 作品与现场路线：
-   [Works](./works/README.md) → [Performances](./performances/README.md)
-5. 合作艺术家路线：
-   [Artists](./artists/README.md) → [Works](./works/README.md) → [Collaboration](./collaboration/README.md)
+- [portfolio](https://github.com/ewanqian/portfolio)：个人入口与个人作品脉络
+- [VIRTURA-SpacePort](https://github.com/ewanqian/VIRTURA-SpacePort)：公共前厅、知识网络与详细项目档案源
+- [VIRTURA-Newsroom](https://github.com/ewanqian/VIRTURA-Newsroom)：公开文章、项目复盘与发布内容
+- [SceneForge](https://github.com/ewanqian/SceneForge)：工具与 Digital Stage 实验主线
+- [RepoForge](https://github.com/ewanqian/RepoForge)：治理、自动化与维护方法的公开外壳
 
-## Featured Now
+## 当前状态
 
-如果你只打算先读 5 页，优先看这些：
+当前版本已经可以承担团队公开入口的职责，但仍在继续补第二层内容：
 
-- [About](./about/README.md): 先理解团队是谁，不要先掉进结构说明
-- [Artists](./artists/README.md): 先按名字理解已经形成的合作网络
-- [Works](./works/README.md): 先看最能代表团队的作品入口
-- [Artists](./artists/README.md): 先按名字认识已经公开出现过的合作艺术家
-- [Activities](./activities/README.md): 先判断团队是否在持续发生真实活动
-- [Research](./research/README.md): 先看研究方向和知识网络怎么进入
-- [Collaboration](./collaboration/README.md): 先看不同合作方应该怎么接近我们
+- 精选作品、活动入口和合作入口已经可以稳定阅读
+- 艺术家档案已经建立第一批公开名字页
+- 更深的知识网络与详细项目正文仍保留在 `VIRTURA-SpacePort`
+- 后续会继续补人物资料、项目思考与公开资料，不把首页重新写回结构说明
 
-## How It Relates To Other Repositories
-
-`VIRTURA-Collective` 是团队主入口，但不是全部内容的唯一宿主。
-
-- [portfolio](https://github.com/ewanqian/portfolio): 个人入口与个人作品脉络
-- [VIRTURA-SpacePort](https://github.com/ewanqian/VIRTURA-SpacePort): 公共导览前台、知识网络主宿主与旧档案源宿主
-- [VIRTURA-Newsroom](https://github.com/ewanqian/VIRTURA-Newsroom): 发布出口、项目复盘与公开文章
-- [SceneForge](https://github.com/ewanqian/SceneForge): 当前最明确的工具与 Digital Stage 实验主线
-- [RepoForge](https://github.com/ewanqian/RepoForge): 治理、自动化与维护方法的公开外壳
-
-## 为什么这里值得先看
-
-现在的 VIRTURA 不再只是“有一些作品和仓库”，而是已经形成了几条可以被外部稳定识别的线：
-
-- 作品系列正在变成可持续追踪的入口
-- 活动、沙龙和工作坊已经形成真实时间线
-- 研究与知识网络开始出现可进入的路径
-- 团队、前台、发布仓与工具仓的边界越来越清楚
-
-## Current Status
-
-当前版本已经能承担“对外主入口”的职责，但仍在继续开荒：
-
-- 团队身份、作品入口和合作入口已经可以稳定阅读
-- 活动与参与方式已经开始独立成页
-- 第一批项目系列已经建立统一入口
-- 更深的知识网络和旧档案仍保留在 `VIRTURA-SpacePort`
-- 更多旧资料会继续迁移，但不会把首页重新写成资料堆
-
-## Working Notes
+## 工作记录
 
 - [Docs](./docs/README.md)
 - [Status Dashboard](./docs/status-dashboard-2026-03-16.md)

@@ -2,11 +2,18 @@
 
 这里说明如何与 VIRTURA-Collective 协作。
 
+我们更希望这页像“怎么开始一起做事”的入口，而不是一份空泛的合作口号。
+
 ## Collaboration Context
 
 VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 
 它更像一个持续生成中的创作共同体，而不是固定岗位式组织。
+
+## 这页主要给两类人看
+
+- 有项目、场地、预算、资源或发布场景，想找合适团队协作的人
+- 正在成长中的创作者、研究者、整理者，想从一个具体方向开始参与的人
 
 ## Collaboration Principles
 
@@ -22,7 +29,7 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 
 - visual and stage design
 - digital performance
-- immersive spatial projects
+- spatial and exhibition projects
 - research and writing
 - technical prototyping
 - documentation and archiving
@@ -37,6 +44,12 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 4. 知识网络: 帮助整理学习路径、案例索引、方法框架与术语入口
 
 其中第 3 和第 4 条不要求你先成为核心成员，更适合从边界清晰的小任务开始。
+
+## 如果你不知道自己该怎么进来
+
+- 想先聊项目合作：先看 [Works](../works/README.md)
+- 想先从活动或线下认识团队：先看 [Activities](../activities/README.md)
+- 想先从研究或知识网络帮忙：先看 [Research](../research/README.md)
 
 ## Participation Modes
 
@@ -63,7 +76,7 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 3. 你已有的相关经验
 4. 你更适合项目协作、研究协作还是长期协作
 
-如果你希望参与工具或知识网络的建设，再额外补两项:
+如果你希望参与工具或知识网络的建设，再额外补两项：
 
 5. 你更愿意做内容整理、结构设计、前端页面、文档规范还是流程自动化
 6. 你能否接受先从一个小而可交付的模块开始
@@ -87,6 +100,8 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 
 ## Current Note
 
-正式合作说明与联系方式会在团队信息定版后补齐。
+当前阶段，最好的进入方式不是发一封很大的自我介绍，而是带着一个明确方向来：
 
-当前阶段，合作入口优先通过团队主入口与相关项目页建立。
+- 你想一起做哪类事
+- 你更适合先做一个什么小模块
+- 你希望从项目、研究、活动还是知识网络进入

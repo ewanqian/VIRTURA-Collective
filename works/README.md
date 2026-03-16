@@ -2,13 +2,13 @@
 
 这里是 VIRTURA 的作品入口。
 
-如果你是第一次阅读，建议不要试图一次看全，而是先抓住最能代表团队工作方式的系列。
+如果你第一次来到团队仓，不建议从目录式通读开始。更好的方式，是先抓住 1 到 2 个最能代表团队工作方式的系列。
 
-## Read This Page For
+## 这页最适合回答
 
-- 哪些系列最能代表团队现在的工作方式
-- 哪些条目已经形成稳定入口
-- 哪些旧档案还在迁移途中
+- 哪些系列最能代表团队现在的状态
+- 如果只看 1 到 2 个作品，应该先看什么
+- 哪些条目已经能稳定阅读，哪些还在迁移
 
 ## What Will Be Indexed Here
 
@@ -40,9 +40,15 @@
 ## Start With These Highlights
 
 - 想看最完整的系列样板: [Drop Flow](./drop-flow/README.md)
-- 想看音画互动与展演线: [TIMER](./timer/README.md)
-- 想看展览型项目与数据景观线: [Observation and Symbiosis](./observation-and-symbiosis/README.md)
-- 想看活动和发生现场: [Performances](../performances/README.md)
+- 想看音画互动与现场版本: [TIMER](./timer/README.md)
+- 想看展览型项目与数据影像线: [Observation and Symbiosis](./observation-and-symbiosis/README.md)
+- 想看作品如何进入真实场景: [Performances](../performances/README.md)
+
+## 如果你只打算点一次
+
+- 想先看“团队最像自己”的作品入口：点 [Drop Flow](./drop-flow/README.md)
+- 想先看音画互动和现场呈现：点 [TIMER](./timer/README.md)
+- 想先看展览和数据影像：点 [Observation and Symbiosis](./observation-and-symbiosis/README.md)
 
 ## Work Series
 

@@ -4,44 +4,49 @@
 
 `VIRTURA-Collective` is the team entry point of VIRTURA.
 
-这里用于呈现 VIRTURA 作为一个协作型艺术团队的基本面貌: 我们是谁，如何工作，做过什么，正在研究什么，以及如何与我们建立联系。
+这里不是资料仓的总目录，而是 VIRTURA 对外最适合分享给别人的团队入口。
 
-它也是一个去中心化写作、创作与研究网络的公开入口: 作品、工具、知识网络、沙龙和线上线下活动会在不同仓库中生长，但团队的协作机制和主线入口在这里汇总。
+如果你把一个链接发给潜在合作者、沙龙听众、研究同好或未来成员，我们更希望他们先从这里进入，再决定要不要继续去 `SpacePort`、`Newsroom` 或具体项目页。
 
-## Read This First
+## 如果你刚拿到这个链接
 
-如果你是第一次来到这里，建议按下面的顺序进入:
+- 想先判断这个团队值不值得继续聊合作: 先看 [About](./about/README.md)，再看 [Works](./works/README.md) 和 [Collaboration](./collaboration/README.md)
+- 想快速知道我们平时到底在做什么: 先看 [Works](./works/README.md)，再看 [Performances](./performances/README.md)
+- 想看研究方向、知识网络和可参与的整理工作: 先看 [Research](./research/README.md)
+- 想知道这个团队是不是真的在持续发生事情: 先看 [Activities](./activities/README.md)
+- 想看成员结构和参与方式: 先看 [Members](./members/README.md)
 
-- 想先认识团队: [About](./about/README.md)
-- 想看成员与参与方式: [Members](./members/README.md)
-- 想看代表项目: [Works](./works/README.md)
-- 想看活动、沙龙与线上线下时间线: [Activities](./activities/README.md)
-- 想看现场与演出相关线索: [Performances](./performances/README.md)
-- 想看研究方向: [Research](./research/README.md)
-- 想讨论合作: [Collaboration](./collaboration/README.md)
+## 你会在这里快速确认什么
 
-## What This Repository Holds
+这个仓库优先回答 4 个问题：
 
-这个仓库集中承接六类信息:
+- 这个团队是谁，正在围绕什么长期工作
+- 哪些作品和项目最能代表我们现在的状态
+- 团队的研究、活动和沙龙是不是持续发生
+- 如果你想合作、旁听、加入建设，应该从哪里开始
 
-- 团队介绍与组织方式
-- 成员与参与结构
-- 作品与项目系列
-- 活动、沙龙与时间线
-- 研究方向与方法概览
-- 对外合作入口与迁移文档
+## 三分钟阅读路线
+
+如果你不想一次读太多，按下面任一条路线走就够了：
+
+1. 团队认识路线：
+   [About](./about/README.md) → [Works](./works/README.md) → [Collaboration](./collaboration/README.md)
+2. 研究同好路线：
+   [Research](./research/README.md) → [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
+3. 活动与沙龙路线：
+   [Activities](./activities/README.md) → [VIRTURA-SpacePort / Space Salon](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon)
+4. 作品与现场路线：
+   [Works](./works/README.md) → [Performances](./performances/README.md)
 
 ## Featured Now
 
-如果你只打算先读几页，优先看这些:
+如果你只打算先读 5 页，优先看这些：
 
-- [Drop Flow Series](./works/drop-flow/README.md)
-- [TIMER Series](./works/timer/README.md)
-- [Observation and Symbiosis](./works/observation-and-symbiosis/README.md)
-- [Activities and Timeline](./activities/README.md)
-- [Research](./research/README.md)
-- [Why VIRTURA-Collective](./docs/why-virtura-collective.md)
-- [First-Wave Migration Map](./docs/first-wave-migration-map.md)
+- [About](./about/README.md): 先理解团队是谁，不要先掉进结构说明
+- [Works](./works/README.md): 先看最能代表团队的作品入口
+- [Activities](./activities/README.md): 先判断团队是否在持续发生真实活动
+- [Research](./research/README.md): 先看研究方向和知识网络怎么进入
+- [Collaboration](./collaboration/README.md): 先看不同合作方应该怎么接近我们
 
 ## How It Relates To Other Repositories
 
@@ -53,29 +58,24 @@
 - [SceneForge](https://github.com/ewanqian/SceneForge): 当前最明确的工具与 Digital Stage 实验主线
 - [RepoForge](https://github.com/ewanqian/RepoForge): 治理、自动化与维护方法的公开外壳
 
-## Repository Map
+## 为什么这里值得先看
 
-```text
-VIRTURA-Collective/
-  about/           team overview and identity
-  members/         current member model and participation notes
-  works/           selected works and project index
-  activities/      salons, workshops, and online/offline timeline
-  performances/    live, staged, and site-specific entries
-  research/        selected research directions and framework notes
-  collaboration/   how to work with the collective
-  docs/            naming rationale, migration notes, architecture records
-```
+现在的 VIRTURA 不再只是“有一些作品和仓库”，而是已经形成了几条可以被外部稳定识别的线：
+
+- 作品系列正在变成可持续追踪的入口
+- 活动、沙龙和工作坊已经形成真实时间线
+- 研究与知识网络开始出现可进入的路径
+- 团队、前台、发布仓与工具仓的边界越来越清楚
 
 ## Current Status
 
-当前版本已经完成入口收束，但还处于持续迁移阶段。这意味着:
+当前版本已经能承担“对外主入口”的职责，但仍在继续开荒：
 
-- 团队身份与作品入口已经可以稳定阅读
-- 团队的活动入口与参与机制已经开始独立成页
-- 第一批项目系列已经建立统一档案骨架
-- 更多旧资料仍然在从其他仓库逐步整理进来
-- 详细知识网络与旧档案仍保留在 `VIRTURA-SpacePort`
+- 团队身份、作品入口和合作入口已经可以稳定阅读
+- 活动与参与方式已经开始独立成页
+- 第一批项目系列已经建立统一入口
+- 更深的知识网络和旧档案仍保留在 `VIRTURA-SpacePort`
+- 更多旧资料会继续迁移，但不会把首页重新写成资料堆
 
 ## Working Notes
 

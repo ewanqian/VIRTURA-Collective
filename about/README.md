@@ -4,12 +4,14 @@
 
 它面向的是团队访客、潜在合作方、策展人、媒体、同行与未来成员。
 
-## Read This Page For
+如果你正在判断“这是不是一个值得继续聊下去的团队”，这页应该先帮你把这件事看明白。
 
-- 团队到底是什么
-- 它如何作为去中心化网络运作
-- 为什么它不是固定编制式组织
-- 现在最值得持续关注的线索是什么
+## 这页看完你应该知道
+
+- 团队到底是什么，不是什么
+- 它为什么不是固定编制式组织
+- 它平时真实在做哪些事
+- 现在最值得外部继续关注的线索是什么
 
 ## Core Definition
 
@@ -35,10 +37,21 @@ VIRTURA 是一个去中心化的艺术协作网络。
 当前最接近 VIRTURA 真实工作的几条线是：
 
 - 现场演出与舞台视觉
-- 沉浸式空间与数字展演
+- 空间影像、展览与数字展演
 - 数字舞台与在线发布
 - 作品资产化与长期归档
 - 与创作直接相关的方法研究和工具实验
+
+## 如果你是不同类型的来访者
+
+- 如果你是策展人、品牌方、机构或潜在资助方：
+  先看 [Works](../works/README.md) 和 [Activities](../activities/README.md)，再看 [Collaboration](../collaboration/README.md)
+- 如果你是想一起做研究、写作或知识整理的同行：
+  先看 [Research](../research/README.md)
+- 如果你是被作品吸引来的创作者：
+  先看 [Works](../works/README.md) 和 [Performances](../performances/README.md)
+- 如果你是想加入某个具体方向的人：
+  先看 [Members](../members/README.md) 和 [Collaboration](../collaboration/README.md)
 
 ## Working Model
 
@@ -101,9 +114,8 @@ VIRTURA 的协作并不只发生在项目交付时，也发生在持续的公共
 
 1. [Works](../works/README.md)
 2. [Activities](../activities/README.md)
-3. [Performances](../performances/README.md)
-4. [Research](../research/README.md)
-5. [Collaboration](../collaboration/README.md)
+3. [Research](../research/README.md)
+4. [Collaboration](../collaboration/README.md)
 
 ## Why It Is Worth Watching Now
 

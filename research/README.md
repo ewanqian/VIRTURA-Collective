@@ -2,11 +2,14 @@
 
 这里整理 VIRTURA 最核心的研究方向。
 
-## Read This Page For
+如果你是从作品、活动或朋友分享里进来的，这页的作用不是让你一次读完全部理论，而是帮你快速找到一个对你有用的入口。
+
+## 这页最适合回答
 
 - 团队当前最重要的研究主线是什么
 - `Collective/research` 和 `SpacePort/knowledge-network` 的边界在哪里
 - 如果想参与知识网络建设，应该从哪里进入
+- 如果只想先读一条路线，应该先点哪里
 
 ## Role
 
@@ -31,6 +34,12 @@
 
 - `VIRTURA-Collective/research`：研究总览与主入口索引
 - `VIRTURA-SpacePort/knowledge-network`：知识网络主宿主
+
+## 先按你的目的选路线
+
+- 想知道团队现在到底在研究什么：直接看下面 4 条主线
+- 想真正开始用知识网络：去 [VIRTURA-SpacePort / knowledge-network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
+- 想从一个小模块开始帮忙：先看本页最后的“如何参与”
 
 ## Core Directions
 
@@ -85,6 +94,8 @@
 - 把项目复盘中的方法部分抽成知识条目
 
 这类工作会同时连接 `VIRTURA-Collective/research` 和 `VIRTURA-SpacePort/knowledge-network`。
+
+如果你是成长中的创作者，这也是最适合开始参与的一类入口，因为它不要求你先承担完整项目。
 
 ## Research Shelf
 

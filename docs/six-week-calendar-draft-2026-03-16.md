@@ -37,7 +37,7 @@
 | 周次 | 日期 | 节点 | 线 | 目标 |
 |---|---|---|---|---|
 | Week 1 | 2026-03-21 | 太空气球 Alpha 测试 | 太空气球 | 拉起第一波真实参与与反馈 |
-| Week 2 | 2026-03-27 / 2026-03-29 | 概念短讲 + Space Salon Vol.3 | Briefing + Space Salon | 把交流客厅真正拉起来 |
+| Week 2 | 2026-03-27 / 2026-03-29 | 概念短讲 + Space Salon Vol.2 | Briefing + Space Salon | 把交流客厅真正拉起来 |
 | Week 3 | 2026-04-03 / 2026-04-04 | MOVA 试运行展开幕 + Practice Night | MOVA + Practice | 建立“发布也能进入日历”的习惯 |
 | Week 4 | 2026-04-10 / 2026-04-11 | 数字情感容器短讲 + 档案方法分享 | Briefing + Space Salon | 让研究线开始对外长出来 |
 | Week 5 | 2026-04-17 / 2026-04-18 | 版本观看室开放 + 实时实验夜 | Release + 太空气球 | 把作品、测试和发布拉通 |
@@ -71,7 +71,7 @@
   - [Stations](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations)
 
 **2026-03-29（周日）20:00**
-`VIRTURA 空间茶话会 Vol.3｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事`
+`VIRTURA 空间茶话会 Vol.2｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事`
 
 - 线：`Space Salon`
 - 形式：线下或线上小范围交流客厅
@@ -113,7 +113,7 @@
   - [Digital Emotion Container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
 
 **2026-04-11（周六）20:00**  
-`VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案`
+`VIRTURA 空间茶话会 Vol.3｜一次线下现场，怎样变成可回看的数字档案`
 
 - 线：`Space Salon`
 - 形式：分享会
@@ -157,7 +157,7 @@
   - [Intellectual Equipment](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/intellectual-equipment)
 
 **2026-04-25（周六）20:00**  
-`VIRTURA 空间茶话会 Vol.5｜从扫描到高斯：如何把现实里的东西带回数字空间`
+`VIRTURA 空间茶话会 Vol.4｜从扫描到高斯：如何把现实里的东西带回数字空间`
 
 - 线：`Space Salon`
 - 形式：分享会 / 小型工作坊
@@ -216,7 +216,7 @@
 - GitHub：
   - [Activities](https://github.com/ewanqian/VIRTURA-Collective/tree/main/activities)
 
-### 3. VIRTURA 空间茶话会 Vol.3｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事
+### 3. VIRTURA 空间茶话会 Vol.2｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事
 
 - 线：`Space Salon`
 - 一句话摘要：
@@ -256,7 +256,7 @@
 - GitHub：
   - [Digital Emotion Container](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network/our-theory/digital-emotion-container)
 
-### 7. VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案
+### 7. VIRTURA 空间茶话会 Vol.3｜一次线下现场，怎样变成可回看的数字档案
 
 - 线：`Space Salon`
 - 一句话摘要：
@@ -296,7 +296,7 @@
 - GitHub：
   - [Knowledge Network](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/knowledge-network)
 
-### 11. VIRTURA 空间茶话会 Vol.5｜从扫描到高斯：如何把现实里的东西带回数字空间
+### 11. VIRTURA 空间茶话会 Vol.4｜从扫描到高斯：如何把现实里的东西带回数字空间
 
 - 线：`Space Salon`
 - 一句话摘要：
@@ -324,7 +324,7 @@
 如果你不想一下子发太多，我建议最先发这 4 个：
 
 1. `2026-03-21` 太空气球线上演出空间 Alpha 测试
-2. `2026-03-29` VIRTURA 空间茶话会 Vol.3｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事
+2. `2026-03-29` VIRTURA 空间茶话会 Vol.2｜带一段最近在做的东西，来聊聊空间、作品与正在发生的事
 3. `2026-04-03` MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编
 4. `2026-04-11` VIRTURA 空间茶话会 Vol.3｜一次线下现场，怎样变成可回看的数字档案
 

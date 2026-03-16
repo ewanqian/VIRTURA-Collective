@@ -26,15 +26,15 @@
 | 日期 | 节点 | 系列 | Luma | GitHub |
 |---|---|---|---|---|
 | 2026-03-21 | 太空气球 Baloon Live Space Alpha 测试｜电子人 × Ew1（Ewan Qian 钱誉文）线上数字舞台 live set | 太空气球 | [报名](https://luma.com/go6kxnnw) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/alpha-electronman-ew1-2026-03) |
-| 2026-03-29 | VIRTURA 空间茶话会 Vol.3｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾 | Space Salon | [报名](https://luma.com/jy5fef4u) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-real-work-over-ai) |
+| 2026-03-29 | VIRTURA 空间茶话会 Vol.2｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾 | Space Salon | [报名](https://luma.com/jy5fef4u) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-02-real-work-over-ai) |
 | 2026-04-03 | MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览 | MOVA | [进入](https://luma.com/kw41rtby) | [展映页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/library-pilot-2026-03) |
 | 2026-04-04 | 在制内容审计会 01｜把最近做的东西摊开，我们认真挑问题 | 审计会 | [报名](https://luma.com/3be89q8l) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-01-structure-critique-2026-04) |
 | 2026-04-10 | Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱 | 公开说明 | [报名](https://luma.com/kjyluf41) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-01-library-and-stage-2026-04) |
-| 2026-04-11 | VIRTURA 空间茶话会 Vol.4｜带一个你最近反复在看的东西来，我们一起放、一块聊 | Space Salon | [报名](https://luma.com/wqi71c4f) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-shared-reference-night) |
+| 2026-04-11 | VIRTURA 空间茶话会 Vol.3｜带一个你最近反复在看的东西来，我们一起放、一块聊 | Space Salon | [报名](https://luma.com/wqi71c4f) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-shared-reference-night) |
 | 2026-04-17 | 发布与观看入口开放 01｜Drop Flow 版本观看室开放 | 发布 / MOVA | [进入](https://luma.com/isjom11h) | [观看室](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/drop-flow-viewing-room-2026-04) |
 | 2026-04-18 | 太空气球 Session 02｜线上 live set 试放与视觉共演夜 | 太空气球 | [报名](https://luma.com/wsafafy2) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/session-02-live-set-2026-04) |
 | 2026-04-24 | Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口 | 公开说明 | [报名](https://luma.com/8qfq3vpr) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-02-knowledge-network-entry-2026-04) |
-| 2026-04-25 | VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊 | Space Salon | [报名](https://luma.com/l0ga9o3i) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-05-continue-the-unfinished) |
+| 2026-04-25 | VIRTURA 空间茶话会 Vol.4｜带一个还没讲顺的东西来，我们一起继续聊 | Space Salon | [报名](https://luma.com/l0ga9o3i) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-continue-the-unfinished) |
 | 2026-05-01 | MOVA 展映 02｜《观察与共生》这条线，怎么从扫描走到展览和工作坊 | MOVA | [进入](https://luma.com/aofkfva3) | [展映页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/observation-and-symbiosis-2026-05) |
 | 2026-05-02 | 在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑 | 审计会 | [报名](https://luma.com/xjzg86gv) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-02-frontstage-version-2026-05) |
 | 2026-05-08 | Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕 | 公开说明 | [报名](https://luma.com/8enbopn3) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-03-frontstage-distribution-2026-05) |
@@ -59,12 +59,12 @@
 
 这条线更像一个会反复开门的交流客厅，不是团队说明会。
 
-- `Vol.3`：从 AI 热点退后一步，聊作品、过程和仓库到底怎么整理。
-  [Luma](https://luma.com/jy5fef4u) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-real-work-over-ai)
-- `Vol.4`：带一个你最近反复在看的东西来，一起放、一块聊。
-  [Luma](https://luma.com/wqi71c4f) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-shared-reference-night)
-- `Vol.5`：带一个还没讲顺的东西来，继续聊，继续拆。
-  [Luma](https://luma.com/l0ga9o3i) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-05-continue-the-unfinished)
+- `Vol.2`：从 AI 热点退后一步，聊作品、过程和仓库到底怎么整理。
+  [Luma](https://luma.com/jy5fef4u) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-02-real-work-over-ai)
+- `Vol.3`：带一个你最近反复在看的东西来，一起放、一块聊。
+  [Luma](https://luma.com/wqi71c4f) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-shared-reference-night)
+- `Vol.4`：带一个还没讲顺的东西来，继续聊，继续拆。
+  [Luma](https://luma.com/l0ga9o3i) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-continue-the-unfinished)
 - 系列入口：
   [Space Salon](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon)
 

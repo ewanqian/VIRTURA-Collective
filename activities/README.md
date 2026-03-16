@@ -64,22 +64,26 @@
 - `2026-04-18` `太空气球 Session 02｜线上 live set 试放与视觉共演夜`
 - `2026-04-24` `Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口`
 - `2026-04-25` `VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊`
-- `2026-05-01` `MOVA 展映 02｜观察与共生：扫描、展览与工作坊`
-- `2026-05-02` `在制内容审计会 02｜网页、场景和版本，我们继续挑问题`
-- `2026-05-08` `Digital Library / Digital Stage 公开说明 03｜网页前台、资料库和活动入口怎么接起来`
-- `2026-05-09` `太空气球 Beta 共测夜｜第二轮线上演出空间联调`
+- `2026-05-01` `MOVA 展映 02｜《观察与共生》这条线，怎么从扫描走到展览和工作坊`
+- `2026-05-02` `在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑`
+- `2026-05-08` `Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕`
+- `2026-05-09` `太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳`
 
 目前已经公开的新增节点包括：
 
-- [VIRTURA 空间茶话会 Vol.3｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾](https://luma.com/jy5fef4u)
-- [MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览](https://luma.com/kw41rtby)
-- [在制内容审计会 01｜把最近做的东西摊开，我们认真挑问题](https://luma.com/3be89q8l)
-- [Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱](https://luma.com/kjyluf41)
-- [VIRTURA 空间茶话会 Vol.4｜带一个你最近反复在看的东西来，我们一起放、一块聊](https://luma.com/wqi71c4f)
-- [发布与观看入口开放 01｜Drop Flow 版本观看室开放](https://luma.com/isjom11h)
-- [太空气球 Session 02｜线上 live set 试放与视觉共演夜](https://luma.com/wsafafy2)
-- [Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口](https://luma.com/8qfq3vpr)
-- [VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊](https://luma.com/l0ga9o3i)
+- [VIRTURA 空间茶话会 Vol.3｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾](https://luma.com/jy5fef4u) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-real-work-over-ai)
+- [MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览](https://luma.com/kw41rtby) / [GitHub 展映页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/library-pilot-2026-03)
+- [在制内容审计会 01｜把最近做的东西摊开，我们认真挑问题](https://luma.com/3be89q8l) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-01-structure-critique-2026-04)
+- [Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱](https://luma.com/kjyluf41) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-01-library-and-stage-2026-04)
+- [VIRTURA 空间茶话会 Vol.4｜带一个你最近反复在看的东西来，我们一起放、一块聊](https://luma.com/wqi71c4f) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-shared-reference-night)
+- [发布与观看入口开放 01｜Drop Flow 版本观看室开放](https://luma.com/isjom11h) / [GitHub 观看室](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/drop-flow-viewing-room-2026-04)
+- [太空气球 Session 02｜线上 live set 试放与视觉共演夜](https://luma.com/wsafafy2) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/session-02-live-set-2026-04)
+- [Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口](https://luma.com/8qfq3vpr) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-02-knowledge-network-entry-2026-04)
+- [VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊](https://luma.com/l0ga9o3i) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-05-continue-the-unfinished)
+- [MOVA 展映 02｜《观察与共生》这条线，怎么从扫描走到展览和工作坊](https://luma.com/aofkfva3) / [GitHub 展映页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/observation-and-symbiosis-2026-05)
+- [在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑](https://luma.com/xjzg86gv) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-02-frontstage-version-2026-05)
+- [Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕](https://luma.com/8enbopn3) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-03-frontstage-distribution-2026-05)
+- [太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳](https://luma.com/p7c1df8c) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/beta-test-night-2026-05)
 
 ## 往期公开节点
 

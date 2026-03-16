@@ -16,6 +16,8 @@
   这场不想追最新热词，而是回到真正做事时最难跳过的那几步：作品怎么分，材料怎么留，版本怎么记，仓库怎么搭，AI 到底在哪些地方能省时间，哪些判断还是只能靠人自己来做。哪怕你只有一个乱七八糟的文件夹截图，也可以带着问题来。
 - 报名方式：
   [Luma 活动页](https://luma.com/jy5fef4u)
+- 配套入口：
+  [Space Salon Vol.3 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-real-work-over-ai)
 
 ### 2. MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览
 
@@ -36,6 +38,8 @@
   这场不是成果展示，也不是互相打气会。如果你最近在做页面、视觉、声音、空间内容，或者只是手上有一个怎么都理不顺的东西，欢迎把它带来。我们会直接聊问题：哪儿太空、哪儿太满、哪儿重复、哪儿其实还没想明白。
 - 公开入口：
   [Luma 活动页](https://luma.com/3be89q8l)
+- 配套入口：
+  [在制内容审计会 01 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-01-structure-critique-2026-04)
 
 ### 4. Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱
 
@@ -45,6 +49,8 @@
   这场不卖“AI 万能”那套。我们会从 GitHub 仓库、文件夹结构、条目写法、页面前台和 AI 能帮上的具体环节讲起，把“库”这件事拆回最普通也最关键的工作流。
 - 公开入口：
   [Luma 活动页](https://luma.com/kjyluf41)
+- 配套入口：
+  [Digital Library / Digital Stage 01 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-01-library-and-stage-2026-04)
 
 ## 未来 8 周主排期
 
@@ -71,10 +77,56 @@
 | 2026-04-18 | [太空气球 Session 02｜线上 live set 试放与视觉共演夜](https://luma.com/wsafafy2) | 太空气球 | 线上音画实验夜 | 已公开 |
 | 2026-04-24 | [Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口](https://luma.com/8qfq3vpr) | 公开说明 | 线上公开说明 | 已公开 |
 | 2026-04-25 | [VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊](https://luma.com/l0ga9o3i) | Space Salon | 交流客厅 / 轻量分享 | 已公开 |
-| 2026-05-01 | MOVA 展映 02｜观察与共生：扫描、展览与工作坊 | MOVA | 线上主题小展 | 机动位 |
-| 2026-05-02 | 在制内容审计会 02｜网页、场景和版本，我们继续挑问题 | 审计会 | 小范围审计 / 结构复盘 | 机动位 |
-| 2026-05-08 | Digital Library / Digital Stage 公开说明 03｜网页前台、资料库和活动入口怎么接起来 | 公开说明 | 线上公开说明 | 机动位 |
-| 2026-05-09 | 太空气球 Beta 共测夜｜第二轮线上演出空间联调 | 太空气球 | 小规模联调 / 公开共测 | 机动位 |
+| 2026-05-01 | [MOVA 展映 02｜《观察与共生》这条线，怎么从扫描走到展览和工作坊](https://luma.com/aofkfva3) | MOVA | 线上主题小展 | 已公开 |
+| 2026-05-02 | [在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑](https://luma.com/xjzg86gv) | 审计会 | 小范围审计 / 结构复盘 | 已公开 |
+| 2026-05-08 | [Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕](https://luma.com/8enbopn3) | 公开说明 | 线上公开说明 | 已公开 |
+| 2026-05-09 | [太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳](https://luma.com/p7c1df8c) | 太空气球 | 小规模联调 / 公开共测 | 已公开 |
+
+## 再往后一周，最值得继续开的 4 个节点
+
+### 1. MOVA 展映 02｜《观察与共生》这条线，怎么从扫描走到展览和工作坊
+
+- 日期：`2026-05-01`
+- 形式：线上主题小展
+- 当前口径：
+  这场更像把一条项目线慢慢摊开看。不是只放一个结果，而是让人看到《观察与共生》怎么从扫描、地理数据和数字自然的兴趣出发，慢慢长到展览和工作坊。
+- 公开入口：
+  [Luma 活动页](https://luma.com/aofkfva3)
+- 配套入口：
+  [《观察与共生》：从扫描、展览到工作坊](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/observation-and-symbiosis-2026-05)
+
+### 2. 在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑
+
+- 日期：`2026-05-02`
+- 形式：小范围审计 / 结构复盘
+- 当前口径：
+  这次会把问题收得更具体：网页前台是不是还绕、场景入口是不是还不自然、版本说明是不是还讲不清。不是泛泛批评，而是继续把具体问题一条条拆开。
+- 公开入口：
+  [Luma 活动页](https://luma.com/xjzg86gv)
+- 配套入口：
+  [在制内容审计会 02 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-02-frontstage-version-2026-05)
+
+### 3. Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕
+
+- 日期：`2026-05-08`
+- 形式：线上公开说明
+- 当前口径：
+  这场会把 `Collective`、`SpacePort`、活动日历和资料库放到一张桌子上，直接讲它们应该怎么接，读者从哪进来最自然，哪些重复结构还应该继续压掉。
+- 公开入口：
+  [Luma 活动页](https://luma.com/8enbopn3)
+- 配套入口：
+  [Digital Library / Digital Stage 03 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-03-frontstage-distribution-2026-05)
+
+### 4. 太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳
+
+- 日期：`2026-05-09`
+- 形式：小规模联调 / 公开共测
+- 当前口径：
+  这不是重新开始的一次测试，而是接着上一轮的问题往前修：进入方式稳不稳、视觉和音乐同步稳不稳、多人同时进来之后会不会掉。它更像第二轮真的上台前的联调。
+- 公开入口：
+  [Luma 活动页](https://luma.com/p7c1df8c)
+- 配套入口：
+  [太空气球 Beta 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/beta-test-night-2026-05)
 
 如果你只想先盯住最近最值得参加的 6 个，建议优先跟这几个：
 

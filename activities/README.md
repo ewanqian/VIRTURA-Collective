@@ -54,6 +54,25 @@
 - 工作坊、公开分享与阶段性实验
 - 其他适合向外开放的线上线下活动
 
+## 当前最清楚的两条活动线
+
+### 1. 太空气球 / Baloon Live Space
+
+这条线更偏向线上演出空间、音乐与音画相关测试、公开实验与后续的线上线下演出节点。
+
+目前公开可见的代表节点是：
+
+- [太空气球线上演出空间 Alpha 测试](https://luma.com/go6kxnnw)
+
+### 2. Space Salon / 数字沙龙 / 交流客厅
+
+这条线更偏向线下分享会、线上漫谈、小规模交流与邀请制嘉宾分享。
+
+目前公开可见的代表节点是：
+
+- [VIRTURA 空间茶话会 Vol.0](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-00-archive-and-distance)
+- [VIRTURA 空间茶话会 Vol.1](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-01-cloud-sequel)
+
 ## Space Salon 这条活动线
 
 当前最适合外部先认识的一条活动线，就是 `Space Salon / 数字沙龙`。

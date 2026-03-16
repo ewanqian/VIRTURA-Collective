@@ -43,8 +43,9 @@
 
 - [VIRTURA 官方活动日历](https://lu.ma/VIRTURA)
 - [VIRTURA-SpacePort / stations](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations)
+- [太空气球 / Baloon Live Space 系列页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space)
 - [VIRTURA 空间茶话会 Vol.0｜带上一段视觉，来客厅聊聊存档与远方](https://luma.com/iehkdjr0)
-- [太空气球线上演出空间 Alpha 测试](https://luma.com/go6kxnnw)
+- [太空气球 Baloon Live Space Alpha 测试｜电子人 × E1 线上数字舞台 live set](https://luma.com/go6kxnnw)
 
 ## 计划中的节点
 
@@ -54,15 +55,15 @@
 
 当前已经在主排期里的节点包括：
 
-- `2026-03-29` `VIRTURA 空间茶话会 Vol.3｜AI 时代，我们怎么整理自己的作品、过程和知识`
-- `2026-04-03` `MOVA 展映 01｜我们第一次把 GitHub 里的内容整理成数字展览`
-- `2026-04-04` `在制内容审计会 01｜把正在做的东西拿出来，我们一起挑问题`
-- `2026-04-10` `Digital Library / Digital Stage 公开说明 01｜AI 时代怎么把作品、材料和过程整理成能继续工作的库`
-- `2026-04-11` `VIRTURA 空间茶话会 Vol.4｜带一段最近看到的东西来，我们一起放、一块聊`
+- `2026-03-29` `VIRTURA 空间茶话会 Vol.3｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾`
+- `2026-04-03` `MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览`
+- `2026-04-04` `在制内容审计会 01｜把最近做的东西摊开，我们认真挑问题`
+- `2026-04-10` `Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱`
+- `2026-04-11` `VIRTURA 空间茶话会 Vol.4｜带一个你最近反复在看的东西来，我们一起放、一块聊`
 - `2026-04-17` `发布与观看入口开放 01｜Drop Flow 版本观看室开放`
 - `2026-04-18` `太空气球 Session 02｜线上 live set 试放与视觉共演夜`
-- `2026-04-24` `Digital Library / Digital Stage 公开说明 02｜知识网络怎么整理成别人真的能用的入口`
-- `2026-04-25` `VIRTURA 空间茶话会 Vol.5｜带一个最近还没讲顺的东西来，我们一起继续聊`
+- `2026-04-24` `Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口`
+- `2026-04-25` `VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊`
 - `2026-05-01` `MOVA 展映 02｜观察与共生：扫描、展览与工作坊`
 - `2026-05-02` `在制内容审计会 02｜网页、场景和版本，我们继续挑问题`
 - `2026-05-08` `Digital Library / Digital Stage 公开说明 03｜网页前台、资料库和活动入口怎么接起来`
@@ -70,15 +71,15 @@
 
 目前已经公开的新增节点包括：
 
-- [VIRTURA 空间茶话会 Vol.3｜AI 时代，我们怎么整理自己的作品、过程和知识](https://luma.com/jy5fef4u)
-- [MOVA 展映 01｜我们第一次把 GitHub 里的内容整理成数字展览](https://luma.com/kw41rtby)
-- [在制内容审计会 01｜把正在做的东西拿出来，我们一起挑问题](https://luma.com/3be89q8l)
-- [Digital Library / Digital Stage 公开说明 01｜AI 时代怎么把作品、材料和过程整理成能继续工作的库](https://luma.com/kjyluf41)
-- [VIRTURA 空间茶话会 Vol.4｜带一段最近看到的东西来，我们一起放、一块聊](https://luma.com/wqi71c4f)
+- [VIRTURA 空间茶话会 Vol.3｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾](https://luma.com/jy5fef4u)
+- [MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览](https://luma.com/kw41rtby)
+- [在制内容审计会 01｜把最近做的东西摊开，我们认真挑问题](https://luma.com/3be89q8l)
+- [Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱](https://luma.com/kjyluf41)
+- [VIRTURA 空间茶话会 Vol.4｜带一个你最近反复在看的东西来，我们一起放、一块聊](https://luma.com/wqi71c4f)
 - [发布与观看入口开放 01｜Drop Flow 版本观看室开放](https://luma.com/isjom11h)
 - [太空气球 Session 02｜线上 live set 试放与视觉共演夜](https://luma.com/wsafafy2)
-- [Digital Library / Digital Stage 公开说明 02｜知识网络怎么整理成别人真的能用的入口](https://luma.com/8qfq3vpr)
-- [VIRTURA 空间茶话会 Vol.5｜带一个最近还没讲顺的东西来，我们一起继续聊](https://luma.com/l0ga9o3i)
+- [Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口](https://luma.com/8qfq3vpr)
+- [VIRTURA 空间茶话会 Vol.5｜带一个还没讲顺的东西来，我们一起继续聊](https://luma.com/l0ga9o3i)
 
 ## 往期公开节点
 
@@ -86,7 +87,7 @@
 
 | 日期 | 活动 | 形式 | 角色 |
 |---|---|---|---|
-| 2026.03.21 | [太空气球线上演出空间 Alpha 测试](https://luma.com/go6kxnnw) | 线上演出空间测试 / 公开申请中 | 太空气球 |
+| 2026.03.21 | [太空气球 Baloon Live Space Alpha 测试｜电子人 × E1 线上数字舞台 live set](https://luma.com/go6kxnnw) | 线上演出空间测试 / 公开申请中 | 太空气球 |
 | 2026.03.14 | [VIRTURA 空间茶话会 Vol.1｜云端续章](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-01-cloud-sequel) | 闭门线上分享 | Space Salon 01 |
 | 2026.01.31 | [VIRTURA 空间茶话会 Vol.0｜带上一段视觉，来客厅聊聊存档与远方](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-00-archive-and-distance) | 线下客厅沙龙 / 小规模聚会 | Space Salon 00 |
 | 2026.01 | [愚见观池｜情感容器构建工作坊](https://github.com/ewanqian/portfolio/blob/main/workshops/202601-%E6%84%9A%E8%A7%81%E8%A7%82%E6%B1%A0-%E6%83%85%E6%84%9F%E5%AE%B9%E5%99%A8%E5%B7%A5%E4%BD%9C%E5%9D%8A.md) | offline workshop | 主讲 / 方法分享 |
@@ -135,7 +136,8 @@
 
 目前公开可见的代表节点是：
 
-- [太空气球线上演出空间 Alpha 测试](https://luma.com/go6kxnnw)
+- [太空气球 / Baloon Live Space 系列页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space)
+- [太空气球 Baloon Live Space Alpha 测试｜电子人 × E1 线上数字舞台 live set](https://luma.com/go6kxnnw)
 
 ### 2. Space Salon / 数字沙龙 / 交流客厅
 

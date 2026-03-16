@@ -1,5 +1,7 @@
 # VIRTURA-Collective
 
+中文 | [English](./README-en.md)
+
 `VIRTURA-Collective` is the team entry point of VIRTURA.
 
 这里用于呈现 VIRTURA 作为一个协作型艺术团队的基本面貌: 我们是谁，如何工作，做过什么，正在研究什么，以及如何与我们建立联系。

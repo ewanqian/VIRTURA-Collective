@@ -2,6 +2,12 @@
 
 这里整理 VIRTURA 最核心的研究方向。
 
+## Read This Page For
+
+- 团队当前最重要的研究主线是什么
+- `Collective/research` 和 `SpacePort/knowledge-network` 的边界在哪里
+- 如果想参与知识网络建设，应该从哪里进入
+
 ## Role
 
 研究是团队创作系统的一部分，但这里不会把所有分支仓库都抬成主入口。

@@ -14,3 +14,4 @@
 - [Next-Wave Todo 2026-03-16](./next-wave-todo-2026-03-16.md)
 - [Migration Notes 2026-03-16](./migration-notes-2026-03-16.md)
 - [Cross-Repo Experience Audit 2026-03-16](./cross-repo-experience-audit-2026-03-16.md)
+- [Activity Program Library 2026-03-16](./activity-program-library-2026-03-16.md)

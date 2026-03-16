@@ -1,5 +1,7 @@
 # VIRTURA 未来 6 周日历草案与 Luma 文案库
 
+> 注：这是一份较早的内部草稿。当前对外口径和实际排期以 [未来 8 周活动路线图](./eight-week-activity-roadmap-2026-03-16.md)、[Activities](../activities/README.md) 和实际已发布的 `Luma` 活动页为准。旧文中的 `Practice Night`、`Concept Brief` 等命名已不再作为当前公开主口径。
+
 这份文档直接服务于 `lu.ma/VIRTURA` 的后续更新。
 
 它不是抽象策划案，而是一份可以拿来排期、改标题、写活动页的工作稿。
@@ -19,12 +21,12 @@
 - 当前日期：`2026-03-16`
 - 已公开节点：`2026-03-21` 的太空气球 Alpha 测试
 - 主要公开线：`Space Salon`、`太空气球 / Baloon Live Space`、`MOVA / Museum of Virtual Art`
-- 日历不只发布“见面活动”，也发布 `practice / concept briefing / public test / release / exhibition opening`
+- 配套节点：`在制内容审计会`、`Digital Library / Digital Stage 公开说明`、`发布与观看入口开放`
 
 为了降低准备压力，这份草案采用一个比较稳的节奏：
 
-- 周五晚上：更适合 `briefing / release / exhibition opening`
-- 周六晚上：更适合 `Space Salon / 太空气球 / Practice`
+- 周五晚上：更适合 `公开说明 / 观看入口开放 / 展映开启`
+- 周六晚上：更适合 `Space Salon / 太空气球 / 在制内容审计会`
 
 ---
 

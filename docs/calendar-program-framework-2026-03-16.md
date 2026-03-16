@@ -1,5 +1,7 @@
 # VIRTURA 日历编排框架 2026-03-16
 
+> 注：这份文档保留为内部过程稿。当前对外口径以 [未来 8 周活动路线图](./eight-week-activity-roadmap-2026-03-16.md) 和 [Activities / Planned](../activities/planned/README.md) 为准。旧文中的 `Practice`、`Concept Briefing` 等命名已停用，对外统一改为 `在制内容审计会`、`Digital Library / Digital Stage 公开说明` 等更直接的说法。
+
 这份文档回答的是一个更实际的问题：
 
 `lu.ma/VIRTURA` 以后到底该发什么，不该发什么，以及怎么让它和 GitHub 里的作品、研究、站点和档案形成自然衔接。
@@ -60,8 +62,8 @@
 - 线上分享
 - 公开测试
 - Alpha / Beta
-- 开放排练
-- 概念短讲
+- 在制内容审计会
+- 围绕 `Digital Library / Digital Stage` 的公开说明
 - 页面或场景开放
 - `MOVA` 线上展映开启
 

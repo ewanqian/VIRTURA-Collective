@@ -17,7 +17,7 @@
 - 当前口径：
   带一段最近在做的东西来。可以是一段视觉、一段音乐、一个场景草图、一个页面、一个问题，或者只是你最近很想继续聊的方向。
 - 报名方式：
-  以 [VIRTURA 官方活动日历](https://lu.ma/VIRTURA) 后续发布的正式入口为准
+  [Luma 活动页](https://luma.com/jy5fef4u)
 
 ### 2. MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编
 
@@ -25,7 +25,9 @@
 - 形式：线上展映开启
 - 当前口径：
   用一次很轻量的线上展映，测试 GitHub 里的作品、研究和 library 能否被组织成更自然的观看路线。
-- 入口：
+- 公开入口：
+  [Luma 活动页](https://luma.com/kw41rtby)
+- 配套入口：
   [MOVA 试运行展](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/library-pilot-2026-03)
 
 ### 3. Practice Night 01
@@ -34,6 +36,8 @@
 - 形式：开放实践 / 半成品共看
 - 当前口径：
   带一段最近在做的东西来，一起看它还能往哪里走。
+- 公开入口：
+  [Luma 活动页](https://luma.com/3be89q8l)
 
 ### 4. Concept Brief 01｜数字情感容器不是抽象口号，它是怎么长出来的
 
@@ -41,6 +45,8 @@
 - 形式：线上短讲
 - 当前口径：
   从真实项目与公开页面出发，讲清这条研究线不是空概念，而是怎样从作品、空间与观看经验里长出来的。
+- 公开入口：
+  [Luma 活动页](https://luma.com/kjyluf41)
 
 ## 未来 8 周主排期
 
@@ -59,10 +65,10 @@
 |---|---|---|---|---|
 | 2026-03-21 | 太空气球线上演出空间 Alpha 测试 | 太空气球 | 公开申请中的线上共测 | 已公开 |
 | 2026-03-29 | VIRTURA 空间茶话会 Vol.3 | Space Salon | 交流客厅 / 小范围社群互动 | 已公开 |
-| 2026-04-03 | MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编 | MOVA | 线上展映开启 | 待创建 |
-| 2026-04-04 | Practice Night 01｜带一段半成品来，我们一起看怎么继续 | Practice | 开放实践 / 半成品共看 | 待创建 |
-| 2026-04-10 | Concept Brief 01｜数字情感容器不是抽象口号，它是怎么长出来的 | Concept Brief | 线上短讲 | 待创建 |
-| 2026-04-11 | VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案 | Space Salon | 分享会 / 案例交流 | 待创建 |
+| 2026-04-03 | [MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编](https://luma.com/kw41rtby) | MOVA | 线上展映开启 | 已公开 |
+| 2026-04-04 | [Practice Night 01｜带一段半成品来，我们一起看怎么继续](https://luma.com/3be89q8l) | Practice | 开放实践 / 半成品共看 | 已公开 |
+| 2026-04-10 | [Concept Brief 01｜数字情感容器不是抽象口号，它是怎么长出来的](https://luma.com/kjyluf41) | Concept Brief | 线上短讲 | 已公开 |
+| 2026-04-11 | [VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案](https://luma.com/wqi71c4f) | Space Salon | 分享会 / 案例交流 | 已公开 |
 | 2026-04-17 | Release 01｜Drop Flow 版本观看室开放 | Release | 观看入口上线 | 待创建 |
 | 2026-04-18 | 太空气球 Session 02｜一段音乐，三种视觉：实时实验夜 | 太空气球 | 线上音画实验夜 | 待创建 |
 | 2026-04-24 | Concept Brief 02｜知识网络怎么做成“能用”的，而不是“能看”的 | Concept Brief | 线上短讲 | 待创建 |

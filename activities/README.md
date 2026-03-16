@@ -63,6 +63,13 @@
 - `2026-04-24` `Concept Brief 02｜知识网络怎么做成“能用”的，而不是“能看”的`
 - `2026-04-25` `VIRTURA 空间茶话会 Vol.5｜从扫描到高斯：如何把现实里的东西带回数字空间`
 
+目前已经公开的新增节点包括：
+
+- [MOVA 开幕｜从库到展：VIRTURA 数字空间研究摘编](https://luma.com/kw41rtby)
+- [Practice Night 01｜带一段半成品来，我们一起看怎么继续](https://luma.com/3be89q8l)
+- [Concept Brief 01｜数字情感容器不是抽象口号，它是怎么长出来的](https://luma.com/kjyluf41)
+- [VIRTURA 空间茶话会 Vol.4｜一次线下现场，怎样变成可回看的数字档案](https://luma.com/wqi71c4f)
+
 ## 往期公开节点
 
 当前先把已经公开可确认的节点整理为第一版时间线:

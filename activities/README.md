@@ -8,6 +8,17 @@
 2. 再按你感兴趣的系列进入
 3. 如果想持续跟，最后去订阅 [VIRTURA 官方活动日历](https://lu.ma/VIRTURA)
 
+## 订阅这个日历，具体会得到什么
+
+如果你对这些活动感兴趣，最推荐直接订阅 [VIRTURA 官方活动日历](https://lu.ma/VIRTURA)。
+
+订阅之后，你拿到的不只是“下一场什么时候开始”，而是这一整条公共前台的更新：
+
+- 线上直播、线下活动和公开测试的报名入口
+- 新一轮茶话会、展映、说明会和共测夜的时间提醒
+- 活动结束后逐步回收到 GitHub 的档案、研究、回放入口和后续反馈
+- 一条比较轻量的跟进方式，不用一次性把整个仓库全翻完
+
 ## 总时间轴
 
 先看这一条就够了。它把当前已经公开的节点按时间排在一起。
@@ -28,6 +39,19 @@
 | 2026-05-02 | 在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑 | 审计会 | [报名](https://luma.com/xjzg86gv) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-02-frontstage-version-2026-05) |
 | 2026-05-08 | Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕 | 公开说明 | [报名](https://luma.com/8enbopn3) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-03-frontstage-distribution-2026-05) |
 | 2026-05-09 | 太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳 | 太空气球 | [报名](https://luma.com/p7c1df8c) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/beta-test-night-2026-05) |
+
+## 活动怎么分
+
+先看时间轴就够，但如果你想快速理解这套活动为什么不是一堆散点，可以先用这张表记住：
+
+| 系列 | 它主要负责什么 | 更适合谁先点进去 |
+|---|---|---|
+| `Space Salon` | 交流、一起放内容看、带问题来聊、邀请朋友和嘉宾坐下来认真聊 | 对社群、创作交流、分享氛围感兴趣的人 |
+| `太空气球` | 线上数字舞台、live set、视觉共演、公开测试和共测夜 | 音乐人、VJ、视觉创作者、对线上演出空间感兴趣的人 |
+| `MOVA` | 线上展映、作品观看室、从库到展的轻量发布 | 想先看作品、展览入口和观看路线的人 |
+| `在制内容审计会` | 对页面、场景、版本、说明文本和结构问题的直接批评与复盘 | 愿意听真话，也愿意给别人真反馈的人 |
+| `Digital Library / Digital Stage` | 围绕仓库、知识网络、前台和 AI 时代内容管理的公开说明 | 想整理资料、归档作品、搭建公共入口的人 |
+| `发布与观看入口开放` | 把一个页面、观看室、版本线或上新节点正式接进时间线 | 想跟着看最新发布和回放入口的人 |
 
 ## 按系列看
 
@@ -112,6 +136,20 @@
 | 2025-04 | 重新定义数字空间｜半成品沙龙 | Salon | [Portfolio](https://github.com/ewanqian/portfolio/blob/main/workshops/202504-%E5%B7%A8%E9%B9%BF%E8%B7%AF-%E5%8D%8A%E6%88%90%E5%93%81%E6%B2%99%E9%BE%99.md) |
 | 2024-12 | AI+3D 空间交互艺术创作工坊 | Workshop | [Portfolio](https://github.com/ewanqian/portfolio/blob/main/workshops/202412-%E6%BC%95%E6%B2%B3%E6%B3%BE-AI3D%E5%B7%A5%E5%9D%8A.md) |
 
+## 轻量 side-ops / 支线发布
+
+除了上面这些完整活动，后面还会逐步穿插一些更轻、更短、适合快速发布的小节点。它们不一定都单独占一场完整活动，但很适合发到日历、小红书、GitHub 和后续 blog：
+
+- 一页研究卡片：只回答一个问题，比如“为什么知识网络不能只是目录”
+- 工具观察：最近某个工具、某种工作流或某类网页引擎到底好不好用
+- 档案开放：把一个旧版本、一个旧草图、一个旧场景重新打开给大家看
+- 回放与反馈：活动之后收一轮真实反馈，再把问题和修正公开
+- 参考片单 / 参考网站分享：最近真的反复在看的东西，为什么值得看
+
+更完整的分类、hashtags 和轻量题库见：
+
+- [活动分类与 Hashtags 手册](../docs/activity-taxonomy-and-hashtags-2026-03-16.md)
+
 ## 从这里继续
 
 - 想看接下来会发生什么：
@@ -120,3 +158,5 @@
   [VIRTURA 官方活动日历](https://lu.ma/VIRTURA)
 - 想看更完整的站点、档案和研究：
   [VIRTURA-SpacePort / stations](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations)
+- 想直接拿活动分类、推荐标签和轻量发布题库：
+  [活动分类与 Hashtags 手册](../docs/activity-taxonomy-and-hashtags-2026-03-16.md)

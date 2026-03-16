@@ -6,6 +6,8 @@
 
 真正对外开放的报名、申请和开幕入口，以 [VIRTURA 官方活动日历](https://lu.ma/VIRTURA) 为准。
 
+如果你准备长期跟这条线，直接订阅 [VIRTURA 官方活动日历](https://lu.ma/VIRTURA) 会比单独记住某一场更轻松。后面新的线上直播、线下活动、测试节点、回放入口和归档页，都会优先从那里放出来。
+
 ## 总时间轴
 
 | 日期 | 节点 | 系列 | 一句话说明 | Luma | GitHub |
@@ -87,5 +89,7 @@
 
 - 想看更完整的活动逻辑：
   [未来 8 周活动路线图](../../docs/eight-week-activity-roadmap-2026-03-16.md)
+- 想看活动分类、推荐 hashtags 和轻量支线题库：
+  [活动分类与 Hashtags 手册](../../docs/activity-taxonomy-and-hashtags-2026-03-16.md)
 - 想直接看站点、档案和研究：
   [VIRTURA-SpacePort / stations](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations)

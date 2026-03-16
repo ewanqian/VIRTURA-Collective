@@ -258,6 +258,36 @@
 
 1. `VIRTURA-Collective/activities/planned`
    用来承接“接下来会发生什么”
+2. `VIRTURA-Collective/docs/activity-taxonomy-and-hashtags-2026-03-16.md`
+   用来统一活动分类、hashtags 和轻量 side-ops 题库
+3. `VIRTURA-SpacePort/stations`
+   用来承接活动档案、研究长文、回放入口和系列页
+
+---
+
+## 十、轻量支线应该怎么插进来
+
+主活动线已经成立后，后面最有价值的不是把每一场都做得更大，而是持续插入一些很轻、但很真诚的支线节点。
+
+这些支线更适合：
+
+- 一页研究卡片
+- 活动前阅读导引
+- 活动后回放和反馈整理
+- 一个旧版本重新开放
+- 一个最近真的在用的工具观察
+
+它们的作用不是“凑内容”，而是让：
+
+- `Luma` 不只在大节点时才有动静
+- `GitHub` 不只是一堆厚重档案
+- 后面的 blog 有更自然的素材来源
+
+推荐的插入频率是：
+
+- 每 `1` 场主活动，配 `1-2` 个轻量 side-ops
+
+这样会比单纯追求更多场次，更容易让这套系统长期成立。
 2. `VIRTURA-SpacePort/stations`
    用来承接“活动线与发布线的真实时间感”
 3. `Space Salon`

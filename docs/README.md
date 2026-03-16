@@ -19,3 +19,4 @@
 - [Six-Week Calendar Draft 2026-03-16](./six-week-calendar-draft-2026-03-16.md)
 - [Eight-Week Activity Roadmap 2026-03-16](./eight-week-activity-roadmap-2026-03-16.md)
 - [Luma Ready Event Copy 2026-03-29](./luma-ready-events-2026-03-29.md)
+- [Activity Taxonomy And Hashtags 2026-03-16](./activity-taxonomy-and-hashtags-2026-03-16.md)

@@ -75,6 +75,10 @@
 - [在制内容审计会 01｜把正在做的东西拿出来，我们一起挑问题](https://luma.com/3be89q8l)
 - [Digital Library / Digital Stage 公开说明 01｜AI 时代怎么把作品、材料和过程整理成能继续工作的库](https://luma.com/kjyluf41)
 - [VIRTURA 空间茶话会 Vol.4｜带一段最近看到的东西来，我们一起放、一块聊](https://luma.com/wqi71c4f)
+- [发布与观看入口开放 01｜Drop Flow 版本观看室开放](https://luma.com/isjom11h)
+- [太空气球 Session 02｜线上 live set 试放与视觉共演夜](https://luma.com/wsafafy2)
+- [Digital Library / Digital Stage 公开说明 02｜知识网络怎么整理成别人真的能用的入口](https://luma.com/8qfq3vpr)
+- [VIRTURA 空间茶话会 Vol.5｜带一个最近还没讲顺的东西来，我们一起继续聊](https://luma.com/l0ga9o3i)
 
 ## 往期公开节点
 

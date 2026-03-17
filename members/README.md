@@ -29,8 +29,8 @@ VIRTURA 不是一个固定编制团队，而是一个去中心化协作网络。
 | 周子凌 Murphy Nile | 写作 / 研究 / 数字空间共创 | Space Salon, Segla | [查看](../artists/murphy-nile.md) |
 | 马逍遥 Xiaoyao Ma | 视觉艺术 / 数据采样 | Drop Flow | [查看](../artists/xiaoyao-ma.md) |
 | 黄敏萱 Minxuan Huang | AI 视觉协作 | Drop Flow | [查看](../artists/minxuan-huang.md) |
-| 王家明 Jiaming Wang | 剧场导演 | Drop Flow Hangzhou Biennale edition | [查看](../artists/jiaming-wang.md) |
-| 魏琴 Qin Wei | 表演艺术家 | Drop Flow Hangzhou Biennale edition | [查看](../artists/qin-wei.md) |
+| 王家明 Jiaming Wang | 导演（指导老师/个人参与） | Drop Flow Hangzhou Biennale edition | [查看](../artists/jiaming-wang.md) |
+| 魏琴 Qin Wei | 表演艺术家（指导老师/个人参与） | Drop Flow Hangzhou Biennale edition | [查看](../artists/qin-wei.md) |
 
 ## Participation Types
 

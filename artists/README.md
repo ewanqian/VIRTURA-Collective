@@ -23,8 +23,8 @@
 | 周子凌 Murphy Nile | 写作 / 研究 / 数字空间共创 | Space Salon, Segla | [查看](./murphy-nile.md) |
 | 马逍遥 Xiaoyao Ma | 视觉艺术 / 数据采样 | Drop Flow | [查看](./xiaoyao-ma.md) |
 | 黄敏萱 Minxuan Huang | AI 视觉协作 | Drop Flow | [查看](./minxuan-huang.md) |
-| 王家明 Jiaming Wang | 剧场导演 | Drop Flow Hangzhou Biennale edition | [查看](./jiaming-wang.md) |
-| 魏琴 Qin Wei | 表演艺术家 | Drop Flow Hangzhou Biennale edition | [查看](./qin-wei.md) |
+| 王家明 Jiaming Wang | 导演（指导老师/个人参与） | Drop Flow Hangzhou Biennale edition | [查看](./jiaming-wang.md) |
+| 魏琴 Qin Wei | 表演艺术家（指导老师/个人参与） | Drop Flow Hangzhou Biennale edition | [查看](./qin-wei.md) |
 
 ## 后续会继续补什么
 

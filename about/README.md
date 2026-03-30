@@ -13,13 +13,35 @@
 - 它平时真实在做哪些事
 - 现在最值得外部继续关注的线索是什么
 
+## Team Slogan
+
+**组织空间 / Organizing Space**  
+**连接感知 / Connecting Perception**  
+**生成图景 / Generating Images**
+
+VIRTURA 是一个围绕感知迁移、空间组织与图景生成展开的去中心化艺术团队与研究网络。
+
+Through live performance, spatial image-making, real-time systems, research experiments, and digital tools, we organize structure, perception, and spatial experience into works, environments, and interfaces that can be entered.
+
+---
+
 ## Core Definition
 
 VIRTURA 是一个去中心化的艺术协作网络。
 
 它不是行政化的固定编制团队，而是围绕作品、研究、演出、空间实验与数字舞台持续协作的创作共同体。
 
-加入这个网络，也不意味着个人表达必须让位给“团队统一口径”。很多成员保留自己的个人项目、个人研究和个人发布节奏；团队更像是把这些方向在合适的时候接成协作，而不是把每个人都压成同一种身份。
+加入这个网络，也不意味着个人表达必须让位给"团队统一口径"。很多成员保留自己的个人项目、个人研究和个人发布节奏；团队更像是把这些方向在合适的时候接成协作，而不是把每个人都压成同一种身份。
+
+## Team Slogan
+
+**组织空间 / Organizing Space**  
+**连接感知 / Connecting Perception**  
+**生成图景 / Generating Images**
+
+VIRTURA 是一个围绕感知迁移、空间组织与图景生成展开的去中心化艺术团队与研究网络。
+
+Through live performance, spatial image-making, real-time systems, research experiments, and digital tools, we organize structure, perception, and spatial experience into works, environments, and interfaces that can be entered.
 
 ## How The Network Works
 

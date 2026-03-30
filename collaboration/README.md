@@ -106,3 +106,11 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 - 你想一起做哪类事
 - 你更适合先做一个什么小模块
 - 你希望从项目、研究、活动还是知识网络进入
+
+---
+
+## Related Links / 相关入口
+
+- [Ewan Qian Portfolio](https://github.com/ewanqian/portfolio) — 个人作品与公开项目归档
+- [VIRTURA Collective](https://github.com/ewanqian/VIRTURA-Collective) — 团队主入口
+- [VIRTURA Activities](https://lu.ma/VIRTURA) — 官方活动日历

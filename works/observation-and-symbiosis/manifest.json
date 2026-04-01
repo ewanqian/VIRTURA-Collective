@@ -1,0 +1,22 @@
+{
+  "title": "Observation and Symbiosis",
+  "type": "project",
+  "status": "ongoing_index",
+  "year_range": "2025-2026",
+  "contributors": [
+    "沈轩",
+    "钱誉文"
+  ],
+  "related_repos": [
+    "VIRTURA-Collective",
+    "VIRTURA-SpacePort"
+  ],
+  "current_source": "https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/%E8%A7%82%E5%AF%9F%E4%B8%8E%E5%85%B1%E7%94%9F%20Observation%20and%20Symbiosis.md",
+  "subpages": [
+    "README.md",
+    "public-materials.md",
+    "collaborators.md",
+    "assets.md"
+  ],
+  "notes": "VIRTURA-Collective currently hosts the project index while the detailed source document remains in VIRTURA-SpacePort."
+}

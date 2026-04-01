@@ -1,0 +1,30 @@
+{
+  "title": "Drop Flow",
+  "type": "series",
+  "status": "ongoing",
+  "year_range": "2025-2026",
+  "contributors": [
+    "钱誉文",
+    "徐昊",
+    "许思慧",
+    "黄敏萱",
+    "马逍遥",
+    "沈轩",
+    "王家明",
+    "魏琴"
+  ],
+  "related_repos": [
+    "VIRTURA-Collective",
+    "VIRTURA-SpacePort",
+    "VIRTURA-Newsroom"
+  ],
+  "current_source": "https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/drop-flow-series",
+  "subpages": [
+    "README.md",
+    "versions.md",
+    "public-materials.md",
+    "collaborators.md",
+    "assets.md"
+  ],
+  "notes": "VIRTURA-Collective currently hosts the series index while detailed legacy version documents remain in VIRTURA-SpacePort."
+}

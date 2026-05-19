@@ -18,7 +18,7 @@
 | 类别 | 中文说明 | 适合的语气 | 主要宿主 |
 |---|---|---|---|
 | `Space Salon` | 数字沙龙 / 交流客厅 / 嘉宾分享 / 一起放东西看 | 亲切、邀请、带问题来聊 | `Collective / activities` + `SpacePort / stations/space-salon` |
-| `Baloon Live Space` | 线上数字舞台 / live set / 视觉共演 / 共测夜 | 现场感、测试感、共演感 | `SpacePort / stations/baloon-live-space` |
+| `Balloon Live Space` | 线上数字舞台 / live set / 视觉共演 / 共测夜 | 现场感、测试感、共演感 | `SpacePort / stations/balloon-live-space` |
 | `MOVA` | 线上展映 / 观看室 / 主题小展 / 发布节点 | 观看、展映、路线感 | `SpacePort / stations/mova` |
 | `内容审计会` | 在制项目批评 / 页面复盘 / 版本审计 / 结构复盘 | 直接、诚实、欢迎挑问题 | `SpacePort / stations/content-audit` |
 | `Digital Library / Digital Stage` | 仓库、归档、知识网络、前台和 AI 工作流公开说明 | 解释、拆解、讲清方法 | `SpacePort / stations/digital-library-stage` |
@@ -27,7 +27,7 @@
 一句话记法：
 
 - 想聊人和过程，走 `Space Salon`
-- 想看线上演出空间，走 `Baloon Live Space`
+- 想看线上演出空间，走 `Balloon Live Space`
 - 想看作品观看路线，走 `MOVA`
 - 想认真挑问题，走 `内容审计会`
 - 想听方法和结构，走 `Digital Library / Digital Stage`
@@ -57,7 +57,7 @@
 | 系列 | 优先落点 |
 |---|---|
 | `Space Salon` | `艺术与文化` / `科技` |
-| `Baloon Live Space` | `科技` / `艺术与文化` |
+| `Balloon Live Space` | `科技` / `艺术与文化` |
 | `MOVA` | `艺术与文化` |
 | `内容审计会` | `科技` / `人工智能` |
 | `Digital Library / Digital Stage` | `人工智能` / `科技` |
@@ -91,13 +91,13 @@
 - `#创作方法`
 - `#艺术社群`
 
-### 2. Baloon Live Space
+### 2. Balloon Live Space
 
 固定建议：
 
 - `#VIRTURA`
 - `#太空气球`
-- `#BaloonLiveSpace`
+- `#BalloonLiveSpace`
 - `#线上演出空间`
 - `#LiveSet`
 
@@ -184,20 +184,20 @@
 
 | 日期 | 节点 | 类别 | 推荐 hashtags |
 |---|---|---|---|
-| 2026-03-21 | 太空气球 Alpha 测试 | `Baloon Live Space` | `#VIRTURA #太空气球 #BaloonLiveSpace #线上演出空间 #LiveSet #视觉共演 #线上测试` |
+| 2026-03-21 | 太空气球 Alpha 测试 | `Balloon Live Space` | `#VIRTURA #太空气球 #BalloonLiveSpace #线上演出空间 #LiveSet #视觉共演 #线上测试` |
 | 2026-03-29 | 空间茶话会 Vol.2 | `Space Salon` | `#VIRTURA #空间茶话会 #数字沙龙 #创作交流 #GitHub归档 #内容管理 #AI整理` |
 | 2026-04-03 | MOVA 展映 01 | `MOVA` | `#VIRTURA #MOVA #线上展映 #数字展览 #GitHub展览 #作品观看` |
 | 2026-04-04 | 在制内容审计会 01 | `内容审计会` | `#VIRTURA #在制内容审计会 #内容审计 #结构复盘 #创作批评 #网页复盘` |
 | 2026-04-10 | Digital Library / Digital Stage 01 | `Digital Library / Digital Stage` | `#VIRTURA #DigitalLibrary #DigitalStage #GitHub归档 #内容管理 #数字归档 #AI整理` |
 | 2026-04-11 | 空间茶话会 Vol.3 | `Space Salon` | `#VIRTURA #空间茶话会 #数字沙龙 #作品分享 #参考片单 #创作交流` |
 | 2026-04-17 | Drop Flow 版本观看室开放 | `发布与观看入口开放` | `#VIRTURA #DropFlow #观看入口开放 #版本归档 #作品观看室 #线上发布` |
-| 2026-04-18 | 太空气球 Session 02 | `Baloon Live Space` | `#VIRTURA #太空气球 #BaloonLiveSpace #线上演出空间 #LiveSet #音画实验 #视觉共演` |
+| 2026-04-18 | 太空气球 Session 02 | `Balloon Live Space` | `#VIRTURA #太空气球 #BalloonLiveSpace #线上演出空间 #LiveSet #音画实验 #视觉共演` |
 | 2026-04-24 | Digital Library / Digital Stage 02 | `Digital Library / Digital Stage` | `#VIRTURA #DigitalLibrary #DigitalStage #知识网络 #内容管理 #前台结构 #GitHub归档` |
 | 2026-04-25 | 空间茶话会 Vol.4 | `Space Salon` | `#VIRTURA #空间茶话会 #数字沙龙 #创作交流 #未完成项目 #继续聊` |
 | 2026-05-01 | MOVA 展映 02 | `MOVA` | `#VIRTURA #MOVA #观察与共生 #线上展映 #数字展览 #作品观看室` |
 | 2026-05-02 | 在制内容审计会 02 | `内容审计会` | `#VIRTURA #在制内容审计会 #内容审计 #版本管理 #网页复盘 #结构批评` |
 | 2026-05-08 | Digital Library / Digital Stage 03 | `Digital Library / Digital Stage` | `#VIRTURA #DigitalLibrary #DigitalStage #团队前台 #活动入口 #资料库 #内容分发` |
-| 2026-05-09 | 太空气球 Beta 共测夜 | `Baloon Live Space` | `#VIRTURA #太空气球 #BaloonLiveSpace #Beta测试 #线上演出空间 #视觉共演 #联调` |
+| 2026-05-09 | 太空气球 Beta 共测夜 | `Balloon Live Space` | `#VIRTURA #太空气球 #BalloonLiveSpace #Beta测试 #线上演出空间 #视觉共演 #联调` |
 
 ---
 
@@ -295,6 +295,6 @@
 
 1. 给每个活动系列补一张固定封面或视觉模板
 2. 活动后 48 小时内补一页“回放 / 反馈 / 后续阅读”
-3. 从 `Digital Library / Digital Stage` 和 `Baloon Live Space` 里持续拆出轻量 blog
+3. 从 `Digital Library / Digital Stage` 和 `Balloon Live Space` 里持续拆出轻量 blog
 
 只要这 3 件事稳定下来，`Luma`、`GitHub` 和后续 blog 就会自然接成一套，而不是每次都像重新搭台。

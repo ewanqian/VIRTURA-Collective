@@ -67,7 +67,7 @@
 
 - `Space Salon / 数字沙龙 / 交流客厅`
   更适合分享、漫谈、邀请嘉宾、小规模工作坊和方法传播
-- `太空气球 / Baloon Live Space`
+- `太空气球 / Balloon Live Space`
   更适合线上演出空间测试、音画实验、公开测试、直播性活动和后续线上线下演出节点
 - `MOVA / Museum of Virtual Art`
   更适合线上展映、作品观看室、library 转展览的快速发布，以及档案型展览入口
@@ -188,7 +188,7 @@
 
 优先放在：
 
-- `太空气球 / Baloon Live Space`
+- `太空气球 / Balloon Live Space`
 
 ### D. 归档复盘型
 

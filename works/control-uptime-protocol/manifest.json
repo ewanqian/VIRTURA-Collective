@@ -1,0 +1,13 @@
+{
+  "object_id": "control-uptime-protocol",
+  "title": "CONTROL: The Uptime Protocol",
+  "view_type": "member_work_view",
+  "authorship_type": "member_independent_work",
+  "artist": "murphy-nile",
+  "status": "public_profile",
+  "source_status": "needs_artist_source",
+  "related_views": {
+    "artist_context": "../../artists/murphy-nile.md",
+    "publication_view": "https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md"
+  }
+}

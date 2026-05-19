@@ -20,7 +20,7 @@
 
 - 当前日期：`2026-03-16`
 - 已公开节点：`2026-03-21` 的太空气球 Alpha 测试
-- 主要公开线：`Space Salon`、`太空气球 / Baloon Live Space`、`MOVA / Museum of Virtual Art`
+- 主要公开线：`Space Salon`、`太空气球 / Balloon Live Space`、`MOVA / Museum of Virtual Art`
 - 配套节点：`在制内容审计会`、`Digital Library / Digital Stage 公开说明`、`发布与观看入口开放`
 
 为了降低准备压力，这份草案采用一个比较稳的节奏：
@@ -50,7 +50,7 @@
 **2026-03-21（周六）21:30**  
 `太空气球线上演出空间 Alpha 测试`
 
-- 线：`太空气球 / Baloon Live Space`
+- 线：`太空气球 / Balloon Live Space`
 - 形式：公开申请中的线上共测
 - 目标：确认第一批外部参与者对演出空间的真实反馈
 - 日历作用：给这个体系一个清楚的“现在正在发生”的入口

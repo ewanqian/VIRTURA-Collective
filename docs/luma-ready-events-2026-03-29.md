@@ -13,11 +13,11 @@
 
 ---
 
-## 1. 太空气球 Baloon Live Space Alpha 测试
+## 1. 太空气球 Balloon Live Space Alpha 测试
 
 ### 标题
 
-`太空气球 Baloon Live Space Alpha 测试｜电子人 × Ew1（Ewan Qian 钱誉文）线上数字舞台 live set`
+`太空气球 Balloon Live Space Alpha 测试｜电子人 × Ew1（Ewan Qian 钱誉文）线上数字舞台 live set`
 
 ### 建议时间
 
@@ -26,7 +26,7 @@
 
 ### 建议形式
 
-- `太空气球 / Baloon Live Space`
+- `太空气球 / Balloon Live Space`
 - 第一轮公开测试 / 线上数字舞台 live set
 
 ### 一句话摘要
@@ -347,7 +347,7 @@
 
 ### 建议形式
 
-- `太空气球 / Baloon Live Space`
+- `太空气球 / Balloon Live Space`
 - 线上音画实验夜
 
 ### 一句话摘要
@@ -569,7 +569,7 @@
 
 ### 建议形式
 
-- `太空气球 / Baloon Live Space`
+- `太空气球 / Balloon Live Space`
 - 第二轮联调 / 公开共测
 
 ### 一句话摘要

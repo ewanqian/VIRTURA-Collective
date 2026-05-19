@@ -88,7 +88,7 @@
 - 一个主题
 - 一个阶段性分享
 
-### 2. 太空气球 / Baloon Live Space
+### 2. 太空气球 / Balloon Live Space
 
 适合：
 

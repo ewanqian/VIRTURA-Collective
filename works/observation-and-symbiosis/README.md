@@ -4,6 +4,17 @@
 
 它与 `Drop Flow`、`TIMER` 的不同在于，它更明确地站在“展览 / 数据景观 / 数字水墨”这条线上，而不是现场演出主导。
 
+## Public View / 公开视图
+
+- `object_id`: `observation-and-symbiosis`
+- `view_type`: `team_view`
+- `authorship_type`: `collaboration`
+- `personal_view`: [portfolio / Perceptual Environments](https://github.com/ewanqian/portfolio/tree/main/visual-arts/perceptual-environments)
+- `archive_view`: [VIRTURA-SpacePort / Observation and Symbiosis](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/%E8%A7%82%E5%AF%9F%E4%B8%8E%E5%85%B1%E7%94%9F%20Observation%20and%20Symbiosis.md)
+- `related_station`: [MOVA](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova)
+
+当前页面只承担团队视图：说明它为什么属于 VIRTURA 的公开作品网络。完整展览记录、创作者信息和 source-of-truth 仍回到 `VIRTURA-SpacePort`。
+
 ## Core Idea
 
 这个项目基于地理数据与动态粒子系统，把严谨的数据结构转化为持续流淌的数字景观。

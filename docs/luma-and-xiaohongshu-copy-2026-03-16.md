@@ -36,10 +36,10 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 
 目前我们公开活动主要分为三条线：
 
-1. 太空气球 / Baloon Live Space  
+1. 太空气球 / Balloon Live Space
    更偏向线上演出空间、音乐与音画实验、公开测试，以及后续更完整的线上线下演出节点。
 
-2. Space Salon / 数字沙龙 / 交流客厅  
+2. Space Salon / 数字沙龙 / 交流客厅
    更偏向线下分享会、线上漫谈、小规模交流、邀请制嘉宾分享与阶段性方法传播。
 
 3. MOVA / Museum of Virtual Art
@@ -47,9 +47,9 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 
 如果你想进一步了解我们的作品、研究和公开结构，也可以继续进入：
 
-- `VIRTURA-Collective`：团队主入口  
+- `VIRTURA-Collective`：团队主入口
   <https://github.com/ewanqian/VIRTURA-Collective>
-- `VIRTURA-SpacePort`：公共前厅、活动站点与知识网络  
+- `VIRTURA-SpacePort`：公共前厅、活动站点与知识网络
   <https://github.com/ewanqian/VIRTURA-SpacePort>
 
 日常更新也会同步在小红书：
@@ -71,10 +71,10 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 
 ### 当前活动分三类
 
-1. 太空气球 / Baloon Live Space  
+1. 太空气球 / Balloon Live Space
    线上演出空间、音乐与音画实验、公开测试。
 
-2. Space Salon / 数字沙龙 / 交流客厅  
+2. Space Salon / 数字沙龙 / 交流客厅
    线下分享会、线上漫谈、小规模交流与邀请制嘉宾分享。
 
 3. MOVA / Museum of Virtual Art
@@ -82,9 +82,9 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 
 ### 更多入口
 
-- Team / Collective  
+- Team / Collective
   <https://github.com/ewanqian/VIRTURA-Collective>
-- Space / SpacePort  
+- Space / SpacePort
   <https://github.com/ewanqian/VIRTURA-SpacePort>
 
 ### 日常同步
@@ -114,14 +114,14 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 
 先说最简单的一件事：
 
-如果你只是想先看看我们最近在做什么、分享什么、开放什么活动，不需要先读完整个仓库，也不需要先决定要不要合作。  
+如果你只是想先看看我们最近在做什么、分享什么、开放什么活动，不需要先读完整个仓库，也不需要先决定要不要合作。
 最推荐先订阅我们的官方活动日历：
 
 `lu.ma/VIRTURA`
 
 这个入口会持续发布我们后续公开开放的活动，包括但不限于：
 
-1. `太空气球 / Baloon Live Space`
+1. `太空气球 / Balloon Live Space`
    更偏向线上演出空间、音乐与音画实验、公开测试，以及后续更完整的线上线下演出节点。
 
 2. `Space Salon / 数字沙龙 / 交流客厅`
@@ -133,11 +133,11 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 如果你想进一步看我们的公开结构，现在主要有两个 GitHub 入口：
 
 1. `VIRTURA-Collective`
-   团队主入口。这里适合先认识我们是谁、现在主要在做什么、有哪些作品和合作网络。  
+   团队主入口。这里适合先认识我们是谁、现在主要在做什么、有哪些作品和合作网络。
    <https://github.com/ewanqian/VIRTURA-Collective>
 
 2. `VIRTURA-SpacePort`
-   公共前厅。这里更适合继续看活动站点、知识网络、详细项目档案和公共入口之间是怎么连接起来的。  
+   公共前厅。这里更适合继续看活动站点、知识网络、详细项目档案和公共入口之间是怎么连接起来的。
    <https://github.com/ewanqian/VIRTURA-SpacePort>
 
 如果你不知道先点哪个，建议按这个顺序：
@@ -177,7 +177,7 @@ VIRTURA 是一个围绕作品、空间、声音、视觉、数字舞台与知识
 
 我们当前公开活动主要分三类：
 
-- `太空气球 / Baloon Live Space`
+- `太空气球 / Balloon Live Space`
 - `Space Salon / 数字沙龙 / 交流客厅`
 - `MOVA / Museum of Virtual Art`
 

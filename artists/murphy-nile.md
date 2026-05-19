@@ -4,6 +4,17 @@
 
 与团队的关联，目前更多体现在 `Space Salon` 的分享、`Segla / 塞尼亚岛数字化旅居地` 的构想，以及围绕数字景观、节展观察和写作研究的持续交流里，而不是单一一个舞台版本里。
 
+## Public View / 公开视图
+
+- `object_id`: `control-uptime-protocol`
+- `view_type`: `artist_context_view`
+- `authorship_type`: `member_independent_work`
+- `work_view`: [CONTROL: The Uptime Protocol](../works/control-uptime-protocol/README.md)
+- `publication_view`: [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
+- `deck_view`: `VIRTURA_Collective_Overview_2026 baked2.pdf` 第 7 页
+
+当前页面是成员上下文页；正式作品入口看 [CONTROL: The Uptime Protocol](../works/control-uptime-protocol/README.md)。
+
 ## 当前公开角色
 
 - 写作 / 研究

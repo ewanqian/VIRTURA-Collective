@@ -4,6 +4,17 @@
 
 它跨越了原型实验、内部展演、公开现场、竞赛获奖、双年展开幕式与后续空间化规划，是团队最适合优先沉淀为系列档案的项目线。
 
+## Public View / 公开视图
+
+- `object_id`: `drop-flow`
+- `view_type`: `team_view`
+- `authorship_type`: `team_work`
+- `personal_view`: [portfolio / Drop Flow](https://github.com/ewanqian/portfolio/tree/main/visual-arts/drop-flow-series)
+- `archive_view`: [VIRTURA-SpacePort / Drop Flow Archive](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/drop-flow-series)
+- `publication_view`: [从资料档案库到文化基因节点网络](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/essays/from-archive-library-to-cultural-gene-node-network.md)
+
+当前页面只承担团队视图：解释这个系列为什么是 VIRTURA 的代表作品、谁参与、如何进入公开资料。完整版本和 source-of-truth 仍回到 `VIRTURA-SpacePort`。
+
 ## Core Idea
 
 `Drop Flow` 的核心不是一次性爆发，而是从一次坠落、一种流动和一种感知状态出发，逐层扩展为持续变化的空间叙事。

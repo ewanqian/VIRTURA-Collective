@@ -12,20 +12,20 @@
 
 | 日期 | 节点 | 系列 | 一句话说明 | Luma | GitHub |
 |---|---|---|---|---|---|
-| 2026-03-21 | 太空气球 Baloon Live Space Alpha 测试｜电子人 × Ew1（Ewan Qian 钱誉文）线上数字舞台 live set | 太空气球 | 第一轮公开测试，先看浏览器三维舞台能不能成立 | [报名](https://luma.com/go6kxnnw) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/alpha-electronman-ew1-2026-03) |
+| 2026-03-21 | 太空气球 Balloon Live Space Alpha 测试｜电子人 × Ew1（Ewan Qian 钱誉文）线上数字舞台 live set | 太空气球 | 第一轮公开测试，先看浏览器三维舞台能不能成立 | [报名](https://luma.com/go6kxnnw) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/balloon-live-space/balloon-live-space-alpha) |
 | 2026-03-29 | VIRTURA 空间茶话会 Vol.2｜别光聊 AI 了，聊聊作品、过程和仓库到底怎么收拾 | Space Salon | 把 AI 热点退后一步，聊真实工作流 | [报名](https://luma.com/jy5fef4u) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-02-real-work-over-ai) |
 | 2026-04-03 | MOVA 展映 01｜把 GitHub 里的东西真的排成一次能看的数字展览 | MOVA | 一次试运行展，把库里的内容排成观看路线 | [进入](https://luma.com/kw41rtby) | [展映页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/library-pilot-2026-03) |
 | 2026-04-04 | 在制内容审计会 01｜把最近做的东西摊开，我们认真挑问题 | 审计会 | 不是成果展示，而是认真挑问题 | [报名](https://luma.com/3be89q8l) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-01-structure-critique-2026-04) |
 | 2026-04-10 | Digital Library / Digital Stage 公开说明 01｜作品、过程和仓库，到底怎么整理才不会越积越乱 | 公开说明 | 讲清内容整理、仓库和前台怎么接 | [报名](https://luma.com/kjyluf41) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-01-library-and-stage-2026-04) |
 | 2026-04-11 | VIRTURA 空间茶话会 Vol.3｜带一个你最近反复在看的东西来，我们一起放、一块聊 | Space Salon | 一起放东西看，一起聊最近在做什么 | [报名](https://luma.com/wqi71c4f) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-03-shared-reference-night) |
 | 2026-04-17 | 发布与观看入口开放 01｜Drop Flow 版本观看室开放 | 发布 / MOVA | 把作品版本和观看入口真正接起来 | [进入](https://luma.com/isjom11h) | [观看室](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/drop-flow-viewing-room-2026-04) |
-| 2026-04-18 | 太空气球 Session 02｜线上 live set 试放与视觉共演夜 | 太空气球 | 第二次试演，继续看音画关系能不能站住 | [报名](https://luma.com/wsafafy2) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/session-02-live-set-2026-04) |
+| 2026-04-18 | 太空气球 Session 02｜线上 live set 试放与视觉共演夜 | 太空气球 | 第二次试演，继续看音画关系能不能站住 | [报名](https://luma.com/wsafafy2) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/balloon-live-space/session-02-live-set-2026-04) |
 | 2026-04-24 | Digital Library / Digital Stage 公开说明 02｜知识网络不是目录，怎么整理成别人真能用的入口 | 公开说明 | 讲清知识网络为什么不能只是目录 | [报名](https://luma.com/8qfq3vpr) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-02-knowledge-network-entry-2026-04) |
 | 2026-04-25 | VIRTURA 空间茶话会 Vol.4｜带一个还没讲顺的东西来，我们一起继续聊 | Space Salon | 给还没讲顺、还没做完的东西留一个继续说的场 | [报名](https://luma.com/l0ga9o3i) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-continue-the-unfinished) |
 | 2026-05-01 | MOVA 展映 02｜《观察与共生》这条线，怎么从扫描走到展览和工作坊 | MOVA | 从扫描、展览到工作坊，完整看一条项目线 | [进入](https://luma.com/aofkfva3) | [展映页](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/mova/exhibitions/observation-and-symbiosis-2026-05) |
 | 2026-05-02 | 在制内容审计会 02｜网页、场景和版本，哪儿不顺我们就继续挑 | 审计会 | 继续把前台、场景和版本问题往下拆 | [报名](https://luma.com/xjzg86gv) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/content-audit/session-02-frontstage-version-2026-05) |
 | 2026-05-08 | Digital Library / Digital Stage 公开说明 03｜团队首页、资料库和活动入口，怎么接起来才不绕 | 公开说明 | 团队入口、资料库和活动前台怎么接成一套 | [报名](https://luma.com/8enbopn3) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/digital-library-stage/session-03-frontstage-distribution-2026-05) |
-| 2026-05-09 | 太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳 | 太空气球 | 第二轮联调，继续把线上舞台做稳 | [报名](https://luma.com/p7c1df8c) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/beta-test-night-2026-05) |
+| 2026-05-09 | 太空气球 Beta 共测夜｜把上一轮的问题接着修，看看这条线上台后稳不稳 | 太空气球 | 第二轮联调，继续把线上舞台做稳 | [报名](https://luma.com/p7c1df8c) | [档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/balloon-live-space/beta-test-night-2026-05) |
 
 ## 按系列看
 
@@ -38,16 +38,16 @@
 - `Vol.4`：带一个还没讲顺的东西来，继续拆，继续聊。
   [Luma](https://luma.com/l0ga9o3i) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/space-salon/vol-04-continue-the-unfinished)
 
-## 2. 太空气球 / Baloon Live Space
+## 2. 太空气球 / Balloon Live Space
 
 - `Alpha`：先跑通浏览器里的线上数字舞台。
-  [Luma](https://luma.com/go6kxnnw) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/alpha-electronman-ew1-2026-03)
+  [Luma](https://luma.com/go6kxnnw) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/balloon-live-space/balloon-live-space-alpha)
 - `Session 02`：继续试演，继续看视觉和音乐的关系。
-  [Luma](https://luma.com/wsafafy2) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/session-02-live-set-2026-04)
+  [Luma](https://luma.com/wsafafy2) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/balloon-live-space/session-02-live-set-2026-04)
 - `Beta`：接着修上一轮的问题，看它能不能更稳。
-  [Luma](https://luma.com/p7c1df8c) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/baloon-live-space/beta-test-night-2026-05)
+  [Luma](https://luma.com/p7c1df8c) / [GitHub 档案](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/stations/balloon-live-space/beta-test-night-2026-05)
 - 背景研究：
-  [从 VRChat 地图到浏览器三维舞台](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/stations/baloon-live-space/research/from-vrchat-to-browser-stage-2026.md)
+  [从 VRChat 地图到浏览器三维舞台](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/stations/balloon-live-space/research/from-vrchat-to-browser-stage-2026.md)
 
 ## 3. MOVA
 

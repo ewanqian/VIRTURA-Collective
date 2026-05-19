@@ -4,6 +4,17 @@
 
 它连接了实验原型、杭州首演、学术获奖、环形沉浸展览和未来空间化版本，是另一条非常清晰的系列线。
 
+## Public View / 公开视图
+
+- `object_id`: `timer`
+- `view_type`: `team_view`
+- `authorship_type`: `team_work`
+- `personal_view`: [portfolio / TIMER](https://github.com/ewanqian/portfolio/tree/main/visual-arts/timer-series)
+- `archive_view`: [VIRTURA-SpacePort / TIMER Archive](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer.md)
+- `publication_view`: [SYSTEM 评钱誉文的实践线收束](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/system_ewanqian_perceptual_migration_review.md)
+
+当前页面只承担团队视图：解释 `TIMER` 如何进入 VIRTURA 的作品结构、协作者关系和公开资料入口。完整版本和 source-of-truth 仍回到 `VIRTURA-SpacePort`。
+
 ## Core Idea
 
 `TIMER` 处理的核心不是单纯视觉效果，而是时间、节奏、空间中的感知控制。

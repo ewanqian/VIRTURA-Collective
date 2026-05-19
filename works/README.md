@@ -36,12 +36,15 @@
 | Drop Flow | 系列作品 / 展演 / 空间叙事 | ongoing | [Entry](./drop-flow/README.md) |
 | TIMER | 系列作品 / 音画互动 / 空间演出 | ongoing | [Entry](./timer/README.md) |
 | Observation and Symbiosis | 展览项目 / 数据景观 | ongoing index | [Entry](./observation-and-symbiosis/README.md) |
+| CONTROL: The Uptime Protocol | 成员独立作品 / machinima / realtime 影像 | public profile | [Entry](./control-uptime-protocol/README.md) |
+| Desire Machining Center | 成员独立作品 / 交互装置 | public profile | [Entry](./desire-machining-center/README.md) |
 
 ## Start With These Highlights
 
 - 想看最完整的系列样板: [Drop Flow](./drop-flow/README.md)
 - 想看音画互动与现场版本: [TIMER](./timer/README.md)
 - 想看展览型项目与数据影像线: [Observation and Symbiosis](./observation-and-symbiosis/README.md)
+- 想看成员独立作品如何进入团队语境: [CONTROL: The Uptime Protocol](./control-uptime-protocol/README.md)、[Desire Machining Center](./desire-machining-center/README.md)
 - 想看作品如何进入真实场景: [Performances](../performances/README.md)
 - 想按合作艺术家回看项目网络: [Artists](../artists/README.md)
 
@@ -56,6 +59,8 @@
 - [Drop Flow](./drop-flow/README.md)
 - [TIMER](./timer/README.md)
 - [Observation and Symbiosis](./observation-and-symbiosis/README.md)
+- [CONTROL: The Uptime Protocol](./control-uptime-protocol/README.md)
+- [Desire Machining Center](./desire-machining-center/README.md)
 
 ## Migration Note
 

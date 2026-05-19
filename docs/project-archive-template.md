@@ -38,6 +38,7 @@ project-or-series/
 - 这个项目经历了哪些版本
 - 每个版本分别解决了什么问题
 - 推荐从哪几个版本开始看
+- 所有子版本正文或源文档分别在哪里
 
 ## public-materials.md Should Answer
 
@@ -45,6 +46,16 @@ project-or-series/
 - 哪些是官方页面
 - 哪些是视频或媒体报道
 - 还有哪些公开资料待补
+
+## Page Boundary
+
+为避免结构重复，建议固定这样分工：
+
+- `README.md`：总说明、项目重要性、当前状态、一级入口
+- `versions.md`：子版本关系、版本演进、每个版本对应的源文档
+- `public-materials.md`：外部公开可引用的观看入口、官方页面、机构页、媒体报道
+
+`public-materials.md` 不再重复完整版本表；如果某条公开链接对应某个版本，只标明对应版本名称并回链到 `versions.md` 即可。
 
 ## Minimal Metadata Fields
 

@@ -18,6 +18,36 @@
 - 数字艺术与空间影像
 - 现场版本与公开档案整理
 
+## 作为讲者 / As Speaker
+
+当前更适合从数字空间、场景构成、视觉系统和数字舞台组织这些方向进入。
+
+## 可分享主题
+
+- 数字空间与场景构成
+- 从作品到场域的视觉系统
+- 数字舞台、空间影像与公开前台整理
+
+## 适合形式
+
+- talk
+- workshop
+- consulting
+
+## 适合对象
+
+- 艺术院校
+- 展览与展演项目
+- 数字空间与视觉团队
+
+## Programs 入口
+
+- [Programs](../programs/README.md)
+- [Talks](../programs/talks/README.md)
+- [Workshops](../programs/workshops/README.md)
+- [Consulting](../programs/consulting/README.md)
+- [Booking](../programs/booking/README.md)
+
 ## 如果后续继续补公开资料
 
 - 与系列项目相关的方法与思考

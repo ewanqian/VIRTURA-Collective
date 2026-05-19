@@ -17,6 +17,36 @@
 - 装置与现场版本中的空间配合
 - 与视觉系统相连的互动部分
 
+## 作为讲者 / As Speaker
+
+当前更适合从交互艺术、装置协作、空间执行和现场互动层这些方向进入。
+
+## 可分享主题
+
+- 交互艺术与装置协作
+- 现场版本、空间执行与互动层
+- 项目从原型到落地的配合逻辑
+
+## 适合形式
+
+- talk
+- workshop
+- consulting
+
+## 适合对象
+
+- 实践课程
+- 展陈与空间项目
+- 品牌或制作团队
+
+## Programs 入口
+
+- [Programs](../programs/README.md)
+- [Talks](../programs/talks/README.md)
+- [Workshops](../programs/workshops/README.md)
+- [Consulting](../programs/consulting/README.md)
+- [Booking](../programs/booking/README.md)
+
 ## 如果本人愿意公开补充
 
 - 不同版本中的具体协作边界

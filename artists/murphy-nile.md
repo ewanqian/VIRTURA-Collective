@@ -22,6 +22,36 @@
 - 数字景观、远方构想与跨媒体叙事
 - 写作、研究与国际节展观察
 
+## 作为讲者 / As Speaker
+
+当前更适合从写作、研究、数字空间观察、跨媒体叙事和研究转 public program 的方向进入。
+
+## 可分享主题
+
+- 写作、研究与数字空间观察
+- 跨媒体叙事与国际新媒体语境
+- 如何把研究转成 public-facing 的表达
+
+## 适合形式
+
+- talk
+- seminar
+- critique
+- virtual talk
+
+## 适合对象
+
+- 学校与研究社群
+- 内容与写作团队
+- 国际交流场景
+
+## Programs 入口
+
+- [Programs](../programs/README.md)
+- [Talks](../programs/talks/README.md)
+- [Virtual Talks](../programs/virtual-talks/README.md)
+- [Booking](../programs/booking/README.md)
+
 ## 已公开可见线索
 
 - [GitHub: MurphyNile](https://github.com/MurphyNile)

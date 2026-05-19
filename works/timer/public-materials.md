@@ -1,13 +1,14 @@
 # TIMER Public Materials
 
-这页整理 `TIMER` 目前最关键的公开资料入口。
+这页只整理 `TIMER` 对外可公开引用的观看入口与公开资料入口。
 
-## Verified Public Links
+版本关系与子版本源文档统一放在 [TIMER Versions](./versions.md) 中；奖项源说明统一放在 [Awards And Presentations](./awards-and-presentations.md) 中，不在这里重复展开。
+
+## Public Viewing Links
 
 | Item | Type | Link | Note |
 |---|---|---|---|
 | TIMER / 时间操纵者 | Bilibili | [BV1SWvhenErp](https://www.bilibili.com/video/BV1SWvhenErp/) | 当前已知公开视频入口 |
-| Chinagraph 2024 award note | source doc | [timer-chinagraph-2024.md](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-chinagraph-2024.md) | 学术获奖信息源文档 |
 
 ## What To Use These For
 

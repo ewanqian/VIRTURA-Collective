@@ -35,6 +35,26 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 - technical prototyping
 - documentation and archiving
 
+## Partner Types
+
+如果按合作对象看，当前最适合形成关系的主要有：
+
+- 学校、summer school 与研究型教学场景
+- 展览机构、公共文化项目与驻地平台
+- 企业、品牌与内容 / 空间创新团队
+- 空间设计、展陈执行与新媒体制作系统
+- 协会、网络平台与跨团队联合项目
+
+## Inbound / Outbound
+
+这里要区分两条线：
+
+- `inbound`：别人邀请我们去做分享、工作坊、咨询、项目合作
+- `outbound`：我们主动向学校、驻地、机构、协会、企业或实验平台递交申请、提案或合作意向
+
+`Programs` 更偏向第一条线。
+如果是第二条线，或你想判断我们怎样与不同机构建立关系，继续看 [Partnerships](./partnerships.md)。
+
 ## Build Tracks
 
 如果你想参与“建造”而不仅是围观，目前最清楚的 4 条参与路径是:
@@ -51,6 +71,8 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 - 想先聊项目合作：先看 [Works](../works/README.md)
 - 想先从活动或线下认识团队：先看 [Activities](../activities/README.md)
 - 想先从研究或知识网络帮忙：先看 [Research](../research/README.md)
+- 想先从讲座、工作坊、咨询或线上分享进入：先看 [Programs](../programs/README.md)
+- 想从学校、机构、企业、协会或驻地合作进入：先看 [Partnerships](./partnerships.md)
 
 ## Participation Modes
 
@@ -98,6 +120,8 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 - 如果你想从活动与现实场景进入: [Activities](../activities/README.md)
 - 如果你想从作品进入: [Works](../works/README.md)
 - 如果你想从研究与知识网络进入: [Research](../research/README.md)
+- 如果你想从 public program 进入: [Programs](../programs/README.md)
+- 如果你想从机构 / 企业 / 学校合作进入: [Partnerships](./partnerships.md)
 
 ## Current Note
 
@@ -114,3 +138,4 @@ VIRTURA 的协作方式以项目制、研究制与跨角色协作为主。
 - [Ewan Qian Portfolio](https://github.com/ewanqian/portfolio) — 个人作品与公开项目归档
 - [VIRTURA Collective](https://github.com/ewanqian/VIRTURA-Collective) — 团队主入口
 - [VIRTURA Activities](https://lu.ma/VIRTURA) — 官方活动日历
+- [Partnerships](./partnerships.md) — 学校、机构、企业与网络合作路径

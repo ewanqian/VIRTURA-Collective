@@ -33,15 +33,17 @@ VIRTURA 是一个去中心化的艺术协作网络。
 
 加入这个网络，也不意味着个人表达必须让位给"团队统一口径"。很多成员保留自己的个人项目、个人研究和个人发布节奏；团队更像是把这些方向在合适的时候接成协作，而不是把每个人都压成同一种身份。
 
-## Team Slogan
+## Three-Person Complementary Structure
 
-**组织空间 / Organizing Space**  
-**连接感知 / Connecting Perception**  
-**生成图景 / Generating Images**
+如果从当前最稳定的三人结构来理解 VIRTURA，可以先这样看：
 
-VIRTURA 是一个围绕感知迁移、空间组织与图景生成展开的去中心化艺术团队与研究网络。
+- Murphy Nile：负责语言、研究、案例框架与公共表达转译
+- Ewan Qian：负责视觉系统、数字空间、场景叙事与作品前台
+- Sihui Xu：负责交互、装置、执行链路与从原型到现场的落地经验
 
-Through live performance, spatial image-making, real-time systems, research experiments, and digital tools, we organize structure, perception, and spatial experience into works, environments, and interfaces that can be entered.
+这三条线接在一起，才更接近 VIRTURA 作为 collective 的状态。
+
+也就是说，我们不是三位成员并列摆放，而是三种不同能力互相补位，共同把研究、图景、空间、互动和执行接起来。
 
 ## How The Network Works
 
@@ -67,6 +69,19 @@ Through live performance, spatial image-making, real-time systems, research expe
 - 节奏不一定总是整齐
 - 不是每次公开招募都会立刻收到回应
 - 需要更依赖真实项目和真实活动来维系关系
+
+## Network Context
+
+VIRTURA 当前所处的公开网络关系，大致可以这样理解：
+
+- `VIRTURA`：跨学科艺术团队与创意网络，负责作品、研究、系统与公共入口
+- `SpacePort`：项目、演出、公开活动与程序入口的承载平台
+- `XUAN (轩空间感知)`：由沈轩主理的空间设计与项目实践框架
+- `TZONE (上海图域)`：`XUAN` 体系下的新媒体空间设计品牌，同时是上海市多媒体行业协会副会长单位
+
+这层关系很重要，因为它说明 VIRTURA 既不是完全脱离现实项目系统的独立小团体，也不是被任何单一组织完全替代的附属部门。
+
+更准确的说法是：VIRTURA 保持自己的创作自主性，同时又能在合适项目里与空间设计、展陈执行、行业协会和更大的制作网络形成协作。
 
 ## What We Actually Do
 

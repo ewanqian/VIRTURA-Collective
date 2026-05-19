@@ -34,10 +34,11 @@
 
 这个系列现在在 `VIRTURA-Collective` 中已经有了最小档案结构：
 
-- [Versions](./versions.md)
-- [Public Materials](./public-materials.md)
-- [Collaborators](./collaborators.md)
-- [Assets](./assets.md)
+- [README](./README.md)：系列总说明与一级入口
+- [Versions](./versions.md)：所有子版本关系与源文档索引
+- [Public Materials](./public-materials.md)：外部公开观看入口、机构页与媒体报道
+- [Collaborators](./collaborators.md)：协作网络
+- [Assets](./assets.md)：资产整理规则
 - `manifest.json`
 
 ## Core Contributors Seen So Far

@@ -20,11 +20,13 @@
 - 一条可以外部判断团队活跃度的活动时间线
 - 第一批合作艺术家与协作者的公开名字档案
 - 一组已经开始成形的研究方向与知识网络入口
+- 第一版 `Programs` 入口，用来承接分享、工作坊、咨询与线上交流
 
 ## 团队目前主要在做什么
 
 - 现场演出与舞台视觉
 - 空间影像、展览与数字展演
+- VR / XR 实习实训、Apple Vision Pro demo 与沉浸式空间生产路线
 - 数字舞台与在线发布
 - 与创作直接相关的方法研究、知识整理与长期归档
 
@@ -71,6 +73,7 @@ These tools and systems are not separate products detached from artworks. They e
 | 已经形成的合作网络 | [Artists](./artists/README.md) | 按名字识别艺术家与协作者，并回看参与项目 |
 | 活动、沙龙和公开节奏 | [Activities](./activities/README.md) | 官方活动日历、公共活动主线与时间线 |
 | 研究方向与知识整理 | [Research](./research/README.md) | 当前研究主线与知识网络进入方式 |
+| 如果想邀请团队做分享、工作坊或咨询 | [Programs](./programs/README.md) | 当前讲者结构、形式与进入方式 |
 | 如何进一步合作 | [Collaboration](./collaboration/README.md) | 不同类型的合作方可以怎样进入 |
 
 ## 第一批公开入口
@@ -80,6 +83,8 @@ These tools and systems are not separate products detached from artworks. They e
 - [Artists](./artists/README.md)：合作艺术家与协作者档案
 - [Activities](./activities/README.md)：活动、沙龙、工作坊与时间线
 - [Research](./research/README.md)：研究主线与知识网络入口
+- [Programs](./programs/README.md)：讲座、工作坊、咨询与线上交流入口
+- [VR / XR Practice Training](./programs/education/vr-xr-practice-training.md)：学校实训、Unity / OpenXR、讲师 Inspector 与空间计算 demo 合作入口
 - [Collaboration](./collaboration/README.md)：合作方式与加入路径
 
 ## 这个入口和其他仓库的关系
@@ -104,3 +109,4 @@ These tools and systems are not separate products detached from artworks. They e
 - [Docs](./docs/README.md)
 - [Status Dashboard](./docs/status-dashboard-2026-03-16.md)
 - [Next-Wave Todo](./docs/next-wave-todo-2026-03-16.md)
+- [Collective Audit And Index Report 2026-04-16](./docs/collective-audit-and-index-report-2026-04-16.md)

@@ -12,6 +12,8 @@
 - [Storage Strategy 2026-03-16](./storage-strategy-2026-03-16.md)
 - [Status Dashboard 2026-03-16](./status-dashboard-2026-03-16.md)
 - [Next-Wave Todo 2026-03-16](./next-wave-todo-2026-03-16.md)
+- [Collective Audit And Index Report 2026-04-16](./collective-audit-and-index-report-2026-04-16.md)
+- [Daily Maintenance And Git Preflight 2026-04-16](./daily-maintenance-and-git-preflight-2026-04-16.md)
 - [Migration Notes 2026-03-16](./migration-notes-2026-03-16.md)
 - [Cross-Repo Experience Audit 2026-03-16](./cross-repo-experience-audit-2026-03-16.md)
 - [Activity Program Library 2026-03-16](./activity-program-library-2026-03-16.md)

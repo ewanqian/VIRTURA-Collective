@@ -4,6 +4,8 @@
 仓库：`VIRTURA-Collective`
 本地路径：`/Volumes/Sync/Workspace/VIRTURA-Collective/repo`
 
+> 2026-05-20 maintenance note: this is now a historical audit. The current public contract is the four-repo graph in `VIRTURA-SpacePort/docs/public-graph/`. `SceneForge` and other internal/tool repositories are not part of the current public navigation wave. Since this report was written, `VIRTURA-Collective` has gained a prototype frontstage and formal independent member work pages.
+
 这份报告面向两种用途：
 
 1. 给当前团队快速判断 `VIRTURA-Collective` 到了什么阶段

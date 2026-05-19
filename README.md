@@ -8,6 +8,10 @@
 
 它不是资料仓总目录，也不是内部说明书，而是一份对外可直接阅读的团队公开入口。
 
+## Public Role / 仓库职责
+
+这个仓库是 VIRTURA 公开系统里的**团队入口**：负责团队身份、人物网络、精选作品、活动、Programs 与合作路径。深层项目档案和 stations 放在 [VIRTURA-SpacePort](https://github.com/ewanqian/VIRTURA-SpacePort)，文章、评论和复盘放在 [VIRTURA-Newsroom](https://github.com/ewanqian/VIRTURA-Newsroom)，个人作品入口看 [portfolio](https://github.com/ewanqian/portfolio)。
+
 这里默认成立的一件事是：团队协作和个人表达可以并行存在。加入 VIRTURA 不意味着把个人项目、个人研究和个人名字交给团队统一覆盖；更像是在一个朋友之间的协作网络里，围绕某些作品、活动和研究临时或长期形成合力。
 
 ## 目前已经公开的内容

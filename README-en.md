@@ -6,6 +6,10 @@
 
 It presents VIRTURA as a decentralized artistic collaboration network: who we are, how we work, what we make, what we study, and how people can enter the network.
 
+## Public Role
+
+This repository owns the team entry: VIRTURA identity, people, selected works, activities, programs, and collaboration routes. Deep archives and stations live in [VIRTURA-SpacePort](https://github.com/ewanqian/VIRTURA-SpacePort), essays and recaps live in [VIRTURA-Newsroom](https://github.com/ewanqian/VIRTURA-Newsroom), and Ewan Qian's personal entry lives in [portfolio](https://github.com/ewanqian/portfolio).
+
 ## Read This First
 
 - want to understand the team: [About](./about/README.md)

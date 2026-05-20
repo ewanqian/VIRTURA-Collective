@@ -4,6 +4,8 @@
 
 它进入 `VIRTURA-Collective` 的原因不是团队宣称拥有这件作品，而是它说明 VIRTURA 网络中一条重要实践线：实时 3D、machinima、系统界面与控制结构如何成为叙事材料。
 
+![CONTROL: The Uptime Protocol overview](../../prototype/assets/works/control-uptime-protocol-overview.jpg)
+
 ## Public View / 公开视图
 
 - `object_id`: `control-uptime-protocol`
@@ -13,25 +15,42 @@
 - `publication_view`: [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
 - `deck_view`: `VIRTURA_Collective_Overview_2026 baked2.pdf` 第 7 页
 
-当前页面只承担正式作品入口职责：稳定 object id、作品摘要、作者归属与相关公共语境。更完整的图像、视频、技术说明和作者原始资料，需要后续由 Murphy Nile 或公开来源补齐。
+当前页面承担正式作品入口职责：稳定 object id、作品摘要、作者归属、credits、公开来源与相关公共语境。
 
 ## Authorship Boundary
 
 - Artist: Murphy Nile
 - Relationship to VIRTURA: member independent work
 - VIRTURA role: public context, cross-link, network placement
+- Medium: Expanded animation / machinima
+- Runtime: 5 min 32 sec
+- Year: 2026
 
 VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 的研究、写作、实时影像和数字空间语境发生关系。
 
-## Current Summary
+## Work Summary
 
-`CONTROL: The Uptime Protocol` 可被理解为一件围绕控制、系统稳定性与实时影像叙事展开的 machinima / realtime work。
+`CONTROL: The Uptime Protocol` 是一件基于 Unreal Engine 制作的 machinima / expanded animation 作品，通过系统逻辑与游戏化结构构建感知路径，呈现人在加速、选择与控制机制中的行为状态。
 
-它与 VIRTURA 的关系主要在于：
+作品围绕“持续 / Uptime”展开，将控制从外部规则转化为内部结构，通过节奏推进与空间调度，引导观众在连续的感知环境中形成判断与反应。
 
-- 把系统界面和控制协议作为叙事对象
-- 使用实时 3D 或引擎影像语言处理当代技术经验
-- 与 VIRTURA 的 Research Laboratory、MOVA 和公共评论语境形成交叉
+英文短版：
+
+> This machinima work, developed in Unreal Engine, constructs a perceptual pathway through system logic and game-like structures, exploring human behavior under acceleration, decision-making, and control mechanisms.
+
+## Public Recognition
+
+- Finalist, Lumen Prize 2025 Experiential Award
+- Nominated for the UNESCO City of Media Arts Award
+- Presented through contexts including Milan Machinima Festival
+
+## Credits
+
+- Artist: Murphy Nile / 周子凌
+- Production context: independently developed member work
+- Public network context: VIRTURA Collective
+- Source deck: `VIRTURA_Collective_Overview_2026 bake _7.jpg`
+- Portrait source: `VAVA ID/三人照片/murphy.jpg`
 
 ## Public Context
 
@@ -42,16 +61,17 @@ VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 
 - [Murphy Nile](../../artists/murphy-nile.md)
 - [Research](../../research/README.md)
 - [Works](../README.md)
+- [Prototype page](../../prototype/works/control-uptime-protocol.html)
 - [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
 
-## Source Status
+## Public Sources
 
-当前页面是 `public profile`，不是完整 source archive。
+- [Murphy Nile: Control Club / CONTROL: The Uptime Protocol](https://www.murphynile.com/controlclub)
+- [Lumen Prize 2025 Experiential Award Finalists: Murphy Nile / Ziling Zhou](https://lumenprize.org/2025-experiential-award-finalists/murphy-nile-ziling-zhou)
+- [Deck OCR and corrected transcript](./source-notes.md)
 
-下一轮最需要补：
+## Remaining Checks
 
-1. 作者确认的一句话作品简介
-2. 公开图像或视频链接
-3. 首展 / 首发信息
-4. medium、year、runtime、software / engine 等基础字段
-5. 作者原始作品页或作品集链接
+1. 若 Murphy 后续提供正式 artist statement，以本人版本为准。
+2. 如需发布为正式网站，确认视频嵌入权限与 still image 授权。
+3. 若增加中文媒体稿，继续保持“成员独立作品”边界。

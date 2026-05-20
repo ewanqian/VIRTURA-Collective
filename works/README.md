@@ -36,8 +36,8 @@
 | Drop Flow | 系列作品 / 展演 / 空间叙事 | ongoing | [Entry](./drop-flow/README.md) |
 | TIMER | 系列作品 / 音画互动 / 空间演出 | ongoing | [Entry](./timer/README.md) |
 | Observation and Symbiosis | 展览项目 / 数据景观 | ongoing index | [Entry](./observation-and-symbiosis/README.md) |
-| CONTROL: The Uptime Protocol | 成员独立作品 / machinima / realtime 影像 | public profile | [Entry](./control-uptime-protocol/README.md) |
-| Desire Machining Center | 成员独立作品 / 交互装置 | public profile | [Entry](./desire-machining-center/README.md) |
+| CONTROL: The Uptime Protocol | 成员独立作品 / machinima / realtime 影像 | source noted | [Entry](./control-uptime-protocol/README.md) / [Web](../prototype/works/control-uptime-protocol.html) |
+| Desire Machining Center | 成员独立作品 / 交互装置 | source noted | [Entry](./desire-machining-center/README.md) / [Web](../prototype/works/desire-machining-center.html) |
 
 ## Start With These Highlights
 

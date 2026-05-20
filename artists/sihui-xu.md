@@ -2,6 +2,8 @@
 
 在 VIRTURA 当前公开项目中，许思慧主要与 `Drop Flow`、`TIMER` 等系列中的交互艺术、装置协作与现场配合相关。
 
+![Sihui Xu portrait](../prototype/assets/people/sihui-xu.jpg)
+
 ## Public View / 公开视图
 
 - `object_id`: `desire-machining-center`
@@ -9,6 +11,7 @@
 - `authorship_type`: `member_independent_work`
 - `work_view`: [Desire Machining Center / 欲望加工中心](../works/desire-machining-center/README.md)
 - `publication_view`: [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
+- `prototype_page`: [Desire Machining Center](../prototype/works/desire-machining-center.html)
 - `deck_view`: `VIRTURA_Collective_Overview_2026 baked2.pdf` 第 8 页
 
 当前页面是成员上下文页；正式作品入口看 [Desire Machining Center / 欲望加工中心](../works/desire-machining-center/README.md)。
@@ -16,11 +19,21 @@
 ## 当前公开角色
 
 - 交互艺术 / 装置协作
+- 空间视觉 / 交互设计
+
+## Deck Bio / 展板简介
+
+许思慧的公开展板简介将其定位为空间视觉与交互设计方向，专注沉浸式视听与空间叙事，结合 3D 视觉与交互机制构建有反馈关系的感知体验。
+
+英文短版：
+
+> Focuses on immersive installations and spatial storytelling, building perceptual experiences through 3D visual systems and interaction.
 
 ## 主要参与内容
 
 - [Drop Flow](../works/drop-flow/README.md)：2.0 创作营实验版、3.0 展演版、杭州双年展版、重庆展演版
 - [TIMER](../works/timer/README.md)：当前公开资料中已知参与系列协作
+- [Desire Machining Center / 欲望加工中心](../works/desire-machining-center/README.md)：2022 交互装置，成员独立作品
 
 ## 主要负责方向
 

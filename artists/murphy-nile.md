@@ -4,6 +4,8 @@
 
 与团队的关联，目前更多体现在 `Space Salon` 的分享、`Segla / 塞尼亚岛数字化旅居地` 的构想，以及围绕数字景观、节展观察和写作研究的持续交流里，而不是单一一个舞台版本里。
 
+![Murphy Nile portrait](../prototype/assets/people/murphy-nile.jpg)
+
 ## Public View / 公开视图
 
 - `object_id`: `control-uptime-protocol`
@@ -11,6 +13,7 @@
 - `authorship_type`: `member_independent_work`
 - `work_view`: [CONTROL: The Uptime Protocol](../works/control-uptime-protocol/README.md)
 - `publication_view`: [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
+- `prototype_page`: [CONTROL: The Uptime Protocol](../prototype/works/control-uptime-protocol.html)
 - `deck_view`: `VIRTURA_Collective_Overview_2026 baked2.pdf` 第 7 页
 
 当前页面是成员上下文页；正式作品入口看 [CONTROL: The Uptime Protocol](../works/control-uptime-protocol/README.md)。
@@ -20,6 +23,15 @@
 - 写作 / 研究
 - 数字空间共创
 - Space Salon 分享嘉宾
+- 跨媒体艺术家 / Cross-media Artist
+
+## Deck Bio / 展板简介
+
+Murphy 的公开展板简介将其定位为跨媒体艺术家，工作横跨实时 3D、machinima 与视听系统，关注技术如何重构感知、欲望与行为逻辑。
+
+英文短版：
+
+> Works across real-time 3D, machinima, and audiovisual systems, exploring how technology reshapes perception, desire, and behavior.
 
 ## 主要参与内容
 
@@ -67,6 +79,8 @@
 
 - [GitHub: MurphyNile](https://github.com/MurphyNile)
 - [murphynile.com](http://www.murphynile.com)
+- [CONTROL: The Uptime Protocol](https://www.murphynile.com/controlclub)
+- [Lumen Prize 2025 Experiential Award Finalists](https://lumenprize.org/2025-experiential-award-finalists/murphy-nile-ziling-zhou)
 - [murphy-nile-archive](https://github.com/MurphyNile/murphy-nile-archive)
 
 ## 如果本人愿意公开补充

@@ -576,6 +576,14 @@ code {
   gap: 0.8rem;
 }
 
+.network-portrait {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  filter: grayscale(1);
+}
+
 .collaboration-panel {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);

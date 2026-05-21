@@ -2,15 +2,15 @@
 
 这里是 VIRTURA 的作品入口。
 
-如果你第一次来到团队仓，不建议从目录式通读开始。更好的方式，是先抓住 1 到 2 个最能代表团队工作方式的系列。
+作品索引优先呈现最能代表团队工作方式的系列，再连接成员独立作品与公共语境。
 
-## 这页最适合回答
+## Public Questions
 
 - 哪些系列最能代表团队现在的状态
-- 如果只看 1 到 2 个作品，应该先看什么
-- 哪些条目已经能稳定阅读，哪些还在迁移
+- 团队作品、合作项目、成员独立作品如何区分
+- 每个作品下一步阅读入口在哪里
 
-## What Will Be Indexed Here
+## Indexed Here
 
 - 代表作品
 - 项目系列
@@ -20,7 +20,7 @@
 
 ## Working Principle
 
-作品页不追求一次列全，而优先建立清晰的一级索引：
+作品页以清晰的一级索引组织公共阅读：
 
 - selected works
 - work series
@@ -36,10 +36,10 @@
 | Drop Flow | 系列作品 / 展演 / 空间叙事 | ongoing | [Entry](./drop-flow/README.md) |
 | TIMER | 系列作品 / 音画互动 / 空间演出 | ongoing | [Entry](./timer/README.md) |
 | Observation and Symbiosis | 展览项目 / 数据景观 | ongoing index | [Entry](./observation-and-symbiosis/README.md) |
-| CONTROL: The Uptime Protocol | 成员独立作品 / machinima / realtime 影像 | source noted | [Entry](./control-uptime-protocol/README.md) / [Web](../prototype/works/control-uptime-protocol.html) |
-| Desire Machining Center | 成员独立作品 / 交互装置 | source noted | [Entry](./desire-machining-center/README.md) / [Web](../prototype/works/desire-machining-center.html) |
+| CONTROL: The Uptime Protocol | 成员独立作品 / machinima / realtime 影像 | public entry | [Entry](./control-uptime-protocol/README.md) / [Web](../works.html#control-uptime-protocol) |
+| Desire Machining Center | 成员独立作品 / 交互装置 | public entry | [Entry](./desire-machining-center/README.md) / [Web](../works.html#desire-machining-center) |
 
-## Start With These Highlights
+## Highlights
 
 - 想看最完整的系列样板: [Drop Flow](./drop-flow/README.md)
 - 想看音画互动与现场版本: [TIMER](./timer/README.md)
@@ -48,11 +48,11 @@
 - 想看作品如何进入真实场景: [Performances](../performances/README.md)
 - 想按合作艺术家回看项目网络: [Artists](../artists/README.md)
 
-## 如果你只打算点一次
+## Primary Entries
 
-- 想先看“团队最像自己”的作品入口：点 [Drop Flow](./drop-flow/README.md)
-- 想先看音画互动和现场呈现：点 [TIMER](./timer/README.md)
-- 想先看展览和数据影像：点 [Observation and Symbiosis](./observation-and-symbiosis/README.md)
+- [Drop Flow](./drop-flow/README.md): 团队空间影像与现场系统入口
+- [TIMER](./timer/README.md): 音画互动和现场呈现入口
+- [Observation and Symbiosis](./observation-and-symbiosis/README.md): 展览和数据影像入口
 
 ## Work Series
 
@@ -62,18 +62,14 @@
 - [CONTROL: The Uptime Protocol](./control-uptime-protocol/README.md)
 - [Desire Machining Center](./desire-machining-center/README.md)
 
-## Migration Note
+## Cross-Repository Structure
 
-原先分散在 `VIRTURA-SpacePort/organization/works` 及相关仓库中的高价值条目，会逐步迁入或在这里建立更稳定的索引入口。
-
-当前建议的分工是：
+公共仓库分工：
 
 - `VIRTURA-Collective/works`：团队对外的精选作品入口
-- `VIRTURA-SpacePort/organization/works`：详细项目档案源与版本正文宿主
+- `VIRTURA-SpacePort/organization/works`：详细项目档案与版本正文宿主
 
-## First-Wave Entries
-
-在正式迁移完成前，第一批重点入口先挂在这里：
+## Source Repositories
 
 - [Drop Flow Series Source](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/drop-flow-series)
 - [Timer Series Source](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/timer-series)

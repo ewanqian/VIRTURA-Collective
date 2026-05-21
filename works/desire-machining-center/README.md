@@ -56,7 +56,7 @@ VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 
 - [Sihui Xu](../../artists/sihui-xu.md)
 - [Programs](../../programs/README.md)
 - [Works](../README.md)
-- [Prototype page](../../prototype/works/desire-machining-center.html)
+- [Public page](../../works.html#desire-machining-center)
 - [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
 
 ## Public Sources
@@ -64,8 +64,8 @@ VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 
 - [中国美术学院设计艺术学院 2022 届本科生毕业作品展公开文章](https://www.sohu.com/a/554125819_121124733)
 - [Deck OCR and corrected transcript](./source-notes.md)
 
-## Remaining Checks
+## Rights And Contact
 
-1. 若许思慧后续提供正式 artist statement，以本人版本为准。
-2. 如需发布为正式网站，确认现场图、装置图与交互视频授权。
-3. 若增加中文媒体稿，继续保持“成员独立作品”边界。
+- Installation image, interaction video, and portrait use require artist permission.
+- Public reference may cite title, artist, year, medium, and VIRTURA member independent work context with credit.
+- Contact: [qianewan@gmail.com](mailto:qianewan@gmail.com)

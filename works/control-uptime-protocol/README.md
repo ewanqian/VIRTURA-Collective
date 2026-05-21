@@ -24,7 +24,7 @@
 - VIRTURA role: public context, cross-link, network placement
 - Medium: Expanded animation / machinima
 - Runtime: 5 min 32 sec
-- Year: 2026
+- Year: 2025 project context
 
 VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 的研究、写作、实时影像和数字空间语境发生关系。
 
@@ -40,9 +40,9 @@ VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 
 
 ## Public Recognition
 
-- Finalist, Lumen Prize 2025 Experiential Award
-- Nominated for the UNESCO City of Media Arts Award
-- Presented through contexts including Milan Machinima Festival
+- Murphy Nile's related immersive audiovisual theatre work `Control Club` is listed by Lumen Prize as a 2025 Experiential Award Finalist.
+- Murphy Nile's public artist page presents `CONTROL: The Uptime Protocol` as a machinima extending the `Control Club` virtual-digital universe.
+- Milan Machinima Festival public links are listed from Murphy Nile's artist page.
 
 ## Credits
 
@@ -61,7 +61,7 @@ VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 
 - [Murphy Nile](../../artists/murphy-nile.md)
 - [Research](../../research/README.md)
 - [Works](../README.md)
-- [Prototype page](../../prototype/works/control-uptime-protocol.html)
+- [Public page](../../works.html#control-uptime-protocol)
 - [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
 
 ## Public Sources
@@ -70,8 +70,8 @@ VIRTURA 不声明拥有这件作品。这个页面只说明它如何与 VIRTURA 
 - [Lumen Prize 2025 Experiential Award Finalists: Murphy Nile / Ziling Zhou](https://lumenprize.org/2025-experiential-award-finalists/murphy-nile-ziling-zhou)
 - [Deck OCR and corrected transcript](./source-notes.md)
 
-## Remaining Checks
+## Rights And Contact
 
-1. 若 Murphy 后续提供正式 artist statement，以本人版本为准。
-2. 如需发布为正式网站，确认视频嵌入权限与 still image 授权。
-3. 若增加中文媒体稿，继续保持“成员独立作品”边界。
+- Video, still image, and portrait use require artist permission.
+- Public reference may cite title, artist, year, medium, and VIRTURA member independent work context with credit.
+- Contact: [qianewan@gmail.com](mailto:qianewan@gmail.com)

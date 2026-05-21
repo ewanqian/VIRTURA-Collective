@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ewanqian.github.io/VIRTURA-Collective/sitemap.xml

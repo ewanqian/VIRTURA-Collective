@@ -16,7 +16,7 @@
   "related_views": {
     "artist_context": "../../artists/sihui-xu.md",
     "publication_view": "https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md",
-    "prototype_page": "../../prototype/works/desire-machining-center.html",
+    "public_page": "../../works.html#desire-machining-center",
     "source_notes": "./source-notes.md",
     "credits": "./credits.md"
   },

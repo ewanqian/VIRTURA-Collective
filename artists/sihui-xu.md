@@ -11,7 +11,7 @@
 - `authorship_type`: `member_independent_work`
 - `work_view`: [Desire Machining Center / 欲望加工中心](../works/desire-machining-center/README.md)
 - `publication_view`: [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
-- `prototype_page`: [Desire Machining Center](../prototype/works/desire-machining-center.html)
+- `public_page`: [Desire Machining Center](../works.html#desire-machining-center)
 - `deck_view`: `VIRTURA_Collective_Overview_2026 baked2.pdf` 第 8 页
 
 当前页面是成员上下文页；正式作品入口看 [Desire Machining Center / 欲望加工中心](../works/desire-machining-center/README.md)。
@@ -71,9 +71,6 @@
 - [Consulting](../programs/consulting/README.md)
 - [Booking](../programs/booking/README.md)
 
-## 如果本人愿意公开补充
+## Public Profile Scope
 
-- 不同版本中的具体协作边界
-- 与装置和交互相关的项目记录
-- 公开资料与活动关联
-- 创作营阶段涉及的视觉内容或互动内容说明
+This page presents Sihui Xu through VIRTURA public context, interaction design roles, and member independent work links. Artist biography, installation documentation, and media permissions remain credited through Sihui Xu's own public channels.

@@ -13,7 +13,7 @@
 - `authorship_type`: `member_independent_work`
 - `work_view`: [CONTROL: The Uptime Protocol](../works/control-uptime-protocol/README.md)
 - `publication_view`: [VIRTURA 策展评论](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/virtura_article_curatorial_v4.md)
-- `prototype_page`: [CONTROL: The Uptime Protocol](../prototype/works/control-uptime-protocol.html)
+- `public_page`: [CONTROL: The Uptime Protocol](../works.html#control-uptime-protocol)
 - `deck_view`: `VIRTURA_Collective_Overview_2026 baked2.pdf` 第 7 页
 
 当前页面是成员上下文页；正式作品入口看 [CONTROL: The Uptime Protocol](../works/control-uptime-protocol/README.md)。
@@ -83,8 +83,6 @@ Murphy 的公开展板简介将其定位为跨媒体艺术家，工作横跨实�
 - [Lumen Prize 2025 Experiential Award Finalists](https://lumenprize.org/2025-experiential-award-finalists/murphy-nile-ziling-zhou)
 - [murphy-nile-archive](https://github.com/MurphyNile/murphy-nile-archive)
 
-## 如果本人愿意公开补充
+## Public Profile Scope
 
-- 与 `Segla` 或其他数字空间项目相关的公开页面
-- 与团队活动相关的写作、研究或分享记录
-- 更完整的个人简介与公开可引用资料
+This page presents Murphy Nile through VIRTURA public context, talks, writing, and member independent work links. Artist biography, project stills, and media permissions remain credited through Murphy Nile's own public channels.

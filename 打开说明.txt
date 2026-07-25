@@ -1,0 +1,19 @@
+VIRTURA 网站 v04｜本地成员版
+
+使用方法
+1. 解压整个文件夹。
+2. 双击 index.html。
+3. 建议使用最新版 Chrome、Edge 或 Safari。
+
+注意
+- 不要单独移动 index.html；页面需要旁边的 work、data 和 VIRTURA_WEBSITE_ASSETS 文件夹。
+- 这是经过压缩的本地预览版。大图已转换为 WebP，视觉内容不变。
+- 网站不会连接外部素材服务器，可离线浏览。
+
+首页核心案例
+- 中国·AI盛典开场秀
+- 中国国家地理·矿晶空间影像
+- 《控时者 / TIMER》《滴流 / DROP FLOW》环幕音画系列
+- TITAN 现场视觉系统
+- 西岸旋心
+- SYSTEM × ERSHA 建筑空间扫描

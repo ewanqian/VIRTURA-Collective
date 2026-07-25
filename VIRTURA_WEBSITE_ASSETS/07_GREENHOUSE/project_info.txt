@@ -1,0 +1,10 @@
+项目中文名：Greenhouse in Transit
+项目英文名：Greenhouse in Transit
+年份：
+城市 / 场地：
+项目类别：Research / Spatial Computing
+项目状态：研究与原型；不包装为成熟 Vision Pro 商业交付
+VIRTURA 的职责：
+主要交付：Tea House 三维场景；Vision Pro 空间入口；Web 与空间内容迁移；实机或模拟视角
+技术与媒介：
+图片及视频版权状态：

@@ -10,10 +10,11 @@
 - `view_type`: `team_view`
 - `authorship_type`: `team_work`
 - `personal_view`: [portfolio / Drop Flow](https://github.com/ewanqian/portfolio/tree/main/visual-arts/drop-flow-series)
+- `personal_fact_layer`: [Ewan Encyclopedia / Drop Flow](https://github.com/ewanqian/portfolio/blob/main/docs/encyclopedia/KNOWLEDGE-MAP.md#drop-flow--滴流)
 - `archive_view`: [VIRTURA-SpacePort / Drop Flow Archive](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/drop-flow-series)
 - `publication_view`: [从资料档案库到文化基因节点网络](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/essays/from-archive-library-to-cultural-gene-node-network.md)
 
-当前页面只承担团队视图：解释这个系列为什么是 VIRTURA 的代表作品、谁参与、如何进入公开资料。完整版本和 source-of-truth 仍回到 `VIRTURA-SpacePort`。
+当前页面只承担团队视图：解释这个系列为什么是 VIRTURA 的代表作品、谁参与、如何进入公开资料。完整版本和 source-of-truth 回到 `VIRTURA-SpacePort`；Ewan 的个人角色与个人事实状态回到 `portfolio / encyclopedia`。
 
 ## Core Idea
 
@@ -43,8 +44,6 @@
 
 ## Series Structure
 
-这个系列现在在 `VIRTURA-Collective` 中已经有了最小档案结构：
-
 - [README](./README.md)：系列总说明与一级入口
 - [Versions](./versions.md)：所有子版本关系与源文档索引
 - [Public Materials](./public-materials.md)：外部公开观看入口、机构页与媒体报道
@@ -60,16 +59,11 @@
 - 沈轩：部分版本中的艺术总监 / 联合创作
 - 其他合作成员随版本变化加入
 
+具体角色以对应版本正式 credit 为准，不从单一版本自动推广到整个系列。
+
 ## Migration Status
 
-这一页已经迁入 `VIRTURA-Collective`，但详细版本文档目前仍以 `VIRTURA-SpacePort` 中的源文件为准。
-
-下一步会继续补：
-
-1. 系列总说明
-2. 版本关系图
-3. 公开资料索引
-4. 资产与发布入口
+这一页已经迁入 `VIRTURA-Collective`，但详细版本文档仍以 `VIRTURA-SpacePort` 中的源文件为准。
 
 ## Related Entries
 
@@ -79,3 +73,4 @@
 - [Assets](./assets.md)
 - [Works Index](../README.md)
 - [Legacy entry](../drop-flow.md)
+- [Ewan Knowledge Map](https://github.com/ewanqian/portfolio/blob/main/docs/encyclopedia/KNOWLEDGE-MAP.md)

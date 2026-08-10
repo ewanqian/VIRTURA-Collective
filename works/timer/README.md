@@ -10,10 +10,12 @@
 - `view_type`: `team_view`
 - `authorship_type`: `team_work`
 - `personal_view`: [portfolio / TIMER](https://github.com/ewanqian/portfolio/tree/main/visual-arts/timer-series)
-- `archive_view`: [VIRTURA-SpacePort / TIMER Archive](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer.md)
+- `personal_fact_layer`: [Ewan Encyclopedia / TIMER](https://github.com/ewanqian/portfolio/blob/main/docs/encyclopedia/KNOWLEDGE-MAP.md#timer--控时者)
+- `archive_view`: [VIRTURA-SpacePort / TIMER Series](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/timer-series)
+- `award_record`: [ChinaGraph 2024](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-chinagraph-2024.md)
 - `publication_view`: [SYSTEM 评钱誉文的实践线收束](https://github.com/ewanqian/VIRTURA-Newsroom/blob/main/art-review/articles/system_ewanqian_perceptual_migration_review.md)
 
-当前页面只承担团队视图：解释 `TIMER` 如何进入 VIRTURA 的作品结构、协作者关系和公开资料入口。完整版本和 source-of-truth 仍回到 `VIRTURA-SpacePort`。
+当前页面只承担团队视图：解释 `TIMER` 如何进入 VIRTURA 的作品结构、协作者关系和公开资料入口。完整版本和 source-of-truth 回到 `VIRTURA-SpacePort`；Ewan 的个人角色与个人事实状态回到 `portfolio / encyclopedia`。
 
 ## Core Idea
 
@@ -35,13 +37,11 @@
 |---|---|---|---|
 | creative camp experimental edition | 2024.08-09 | 实验原型 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer.md) |
 | Hangzhou first performance edition | 2024.09 | 首演影像版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer.md) |
-| Chinagraph awarded edition | 2024.10 | 学术获奖版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-chinagraph-2024.md) |
+| ChinaGraph awarded edition | 2024.10 | 学术获奖版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-chinagraph-2024.md) |
 | immersive exhibition edition | 2024.11-12 | 环形沉浸展览版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer.md) |
 | 2026 planning edition | 2026 | 规划中 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-2026.md) |
 
 ## Series Structure
-
-这个系列现在在 `VIRTURA-Collective` 中已经有了最小档案结构：
 
 - [Versions](./versions.md)
 - [Awards And Presentations](./awards-and-presentations.md)
@@ -56,16 +56,11 @@
 - 钱誉文：视觉设计
 - 许思慧：部分版本中的交互协作
 
+具体角色以对应版本的正式 credit 为准，不从某一版本自动推广到整个系列。
+
 ## Migration Status
 
-这一页已经迁入 `VIRTURA-Collective`，但详细版本文档目前仍以 `VIRTURA-SpacePort` 中的源文件为准。
-
-下一步会继续补：
-
-1. 系列总说明
-2. 演出版与空间版关系
-3. 资产与文档索引
-4. 外部资料入口
+这一页已经迁入 `VIRTURA-Collective`，但详细版本文档仍以 `VIRTURA-SpacePort` 中的源文件为准。
 
 ## Related Entries
 
@@ -76,3 +71,4 @@
 - [Assets](./assets.md)
 - [Works Index](../README.md)
 - [Legacy entry](../timer.md)
+- [Ewan Knowledge Map](https://github.com/ewanqian/portfolio/blob/main/docs/encyclopedia/KNOWLEDGE-MAP.md)

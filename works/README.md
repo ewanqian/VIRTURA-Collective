@@ -10,26 +10,18 @@
 - 团队作品、合作项目、成员独立作品如何区分
 - 每个作品下一步阅读入口在哪里
 
-## Indexed Here
+## Read Across Repositories
 
-- 代表作品
-- 项目系列
-- 数字空间与场景项目
-- 展览与演出条目
-- 正在推进的重点方向
+同一项目在不同仓库只承担不同视图：
 
-## Working Principle
+- **team view**：当前 `VIRTURA-Collective/works`
+- **archive view**：[VIRTURA-SpacePort / Works Archive](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works)
+- **Ewan personal view + personal fact layer**：[Ewan Knowledge Map](https://github.com/ewanqian/portfolio/blob/main/docs/encyclopedia/KNOWLEDGE-MAP.md)
+- **publication view**：[VIRTURA-Newsroom](https://github.com/ewanqian/VIRTURA-Newsroom)
 
-作品页以清晰的一级索引组织公共阅读：
-
-- selected works
-- work series
-- ongoing projects
-- related performances
+如果问题是“Ewan 在这个项目里具体做了什么”，不要从团队页面推断，回到个人百科和对应版本 credit。
 
 ## Selected Works
-
-第一批入口先放最能代表团队结构和工作方式的条目：
 
 | Work | Type | Status | Entry |
 |---|---|---|---|
@@ -41,12 +33,12 @@
 
 ## Highlights
 
-- 想看最完整的系列样板: [Drop Flow](./drop-flow/README.md)
-- 想看音画互动与现场版本: [TIMER](./timer/README.md)
-- 想看展览型项目与数据影像线: [Observation and Symbiosis](./observation-and-symbiosis/README.md)
-- 想看成员独立作品如何进入团队语境: [CONTROL: The Uptime Protocol](./control-uptime-protocol/README.md)、[Desire Machining Center](./desire-machining-center/README.md)
-- 想看作品如何进入真实场景: [Performances](../performances/README.md)
-- 想按合作艺术家回看项目网络: [Artists](../artists/README.md)
+- 最完整的系列样板：[Drop Flow](./drop-flow/README.md)
+- 音画互动与现场版本：[TIMER](./timer/README.md)
+- 展览型项目与数据影像线：[Observation and Symbiosis](./observation-and-symbiosis/README.md)
+- 成员独立作品进入团队语境：[CONTROL: The Uptime Protocol](./control-uptime-protocol/README.md)、[Desire Machining Center](./desire-machining-center/README.md)
+- 真实场景与演出：[Performances](../performances/README.md)
+- 按合作艺术家回看项目网络：[Artists](../artists/README.md)
 
 ## Primary Entries
 
@@ -62,15 +54,9 @@
 - [CONTROL: The Uptime Protocol](./control-uptime-protocol/README.md)
 - [Desire Machining Center](./desire-machining-center/README.md)
 
-## Cross-Repository Structure
-
-公共仓库分工：
-
-- `VIRTURA-Collective/works`：团队对外的精选作品入口
-- `VIRTURA-SpacePort/organization/works`：详细项目档案与版本正文宿主
-
 ## Source Repositories
 
 - [Drop Flow Series Source](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/drop-flow-series)
-- [Timer Series Source](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/timer-series)
-- [portfolio projects](https://github.com/ewanqian/portfolio/tree/main/projects)
+- [TIMER Series Source](https://github.com/ewanqian/VIRTURA-SpacePort/tree/main/organization/works/timer-series)
+- [Ewan Personal Encyclopedia](https://github.com/ewanqian/portfolio/tree/main/docs/encyclopedia)
+- [Portfolio Projects](https://github.com/ewanqian/portfolio/tree/main/projects)

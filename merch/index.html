@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>VIRTURA Custom Merch</title>
-  <meta name="description" content="VIRTURA 定制周边编辑器：正反面排版、22cm/5cm Logo 规格、导出 PNG 与分享方案。">
+  <meta name="description" content="VIRTURA 定制周边编辑器：22cm / 5cm 两档 Logo、正反面排版、预置位置与导出。">
   <meta name="theme-color" content="#080808">
   <link rel="stylesheet" href="./style.css">
 </head>
@@ -15,7 +15,7 @@
     </a>
     <div class="titleblock">
       <span>VIRTURA / CUSTOM MERCH</span>
-      <small>TEE EDITOR · TEST 001</small>
+      <small>TEE EDITOR · TEST 002</small>
     </div>
     <button class="ghost compact" id="screenshotModeBtn" type="button">截图模式</button>
   </header>
@@ -27,12 +27,12 @@
           <button class="tab active" data-view="front" type="button">FRONT 正面</button>
           <button class="tab" data-view="back" type="button">BACK 背面</button>
         </div>
-        <div class="stageMeta"><span>BLACK TEE</span><span>BODY WIDTH ≈ 60 CM</span></div>
+        <div class="stageMeta"><span>BLACK TEE</span><span>22 CM / 5 CM</span></div>
       </div>
 
       <div class="stage" id="stage">
         <svg id="editorSvg" viewBox="0 0 600 700" role="img" aria-label="T恤定制预览"></svg>
-        <div class="hint" id="dragHint">拖动 Logo 调整位置 · 点击 Logo 选中</div>
+        <div class="hint" id="dragHint">拖动 Logo 调整位置 · 规格只有 22 CM / 5 CM</div>
       </div>
 
       <div class="mobileActions">
@@ -43,36 +43,37 @@
 
     <aside class="panel" id="panel">
       <section class="panelSection">
-        <div class="sectionLabel">01 / LOGO</div>
-        <button class="primary full" id="addLogoBtn" type="button">+ 添加 VIRTURA LOGO</button>
-        <div class="presetGrid">
-          <button class="preset" data-size="22" type="button"><strong>22 CM</strong><span>大 Logo / 主图</span></button>
-          <button class="preset" data-size="5" type="button"><strong>5 CM</strong><span>小 Logo / 胸口</span></button>
+        <div class="sectionLabel">01 / SIZE</div>
+        <div class="presetGrid sizeOnly">
+          <button class="preset sizePreset" data-size="22" type="button"><strong>22 CM</strong><span>大 Logo / 胸前主图</span></button>
+          <button class="preset sizePreset" data-size="5" type="button"><strong>5 CM</strong><span>小 Logo / 胸口、袖口、下摆</span></button>
         </div>
+        <button class="primary full addBtn" id="addLogoBtn" type="button">+ 添加 LOGO</button>
       </section>
 
       <section class="panelSection">
-        <div class="sectionLabel">02 / POSITION</div>
-        <div class="positionGrid">
-          <button data-place="centerChest" type="button">胸前居中</button>
-          <button data-place="leftChest" type="button">左胸</button>
-          <button data-place="rightChest" type="button">右胸</button>
-          <button data-place="leftSleeve" type="button">左袖</button>
-          <button data-place="rightSleeve" type="button">右袖</button>
-          <button data-place="lower" type="button">下摆偏右</button>
+        <div class="sectionLabel">02 / RECOMMENDED PRESETS</div>
+        <div class="placementPresets">
+          <button class="placementPreset" data-preset="mainChest" type="button"><strong>22 CM · 胸前居中</strong><span>0° / 主 Logo</span></button>
+          <button class="placementPreset" data-preset="smallCenter" type="button"><strong>5 CM · 胸前小标</strong><span>0° / 中央</span></button>
+          <button class="placementPreset" data-preset="angledChest" type="button"><strong>5 CM · 斜向胸标</strong><span>约 38° / 参考原稿</span></button>
+          <button class="placementPreset" data-preset="sleeve" type="button"><strong>5 CM · 袖口</strong><span>约 12° / 顺袖线</span></button>
+          <button class="placementPreset" data-preset="lowerCorner" type="button"><strong>5 CM · 下摆角</strong><span>约 38° / 正面或背面</span></button>
         </div>
       </section>
 
       <section class="panelSection controls">
         <div class="sectionLabel">03 / SELECTED ITEM</div>
-        <label>
-          <span>宽度 <output id="sizeOut">22.0 cm</output></span>
-          <input id="sizeRange" type="range" min="3" max="30" value="22" step="0.5">
-        </label>
-        <label>
-          <span>旋转 <output id="rotationOut">0°</output></span>
-          <input id="rotationRange" type="range" min="-35" max="35" value="0" step="1">
-        </label>
+        <div class="selectedStatus">
+          <span>规格</span><strong id="sizeOut">22 CM</strong>
+        </div>
+        <div class="rotationPresets">
+          <button data-rotation="0" type="button">0°</button>
+          <button data-rotation="12" type="button">12°</button>
+          <button data-rotation="38" type="button">38°</button>
+          <button data-rotation="45" type="button">45°</button>
+        </div>
+        <p class="controlNote">原稿里的袖口不是 45°：袖口更接近轻微倾斜；斜胸标和下摆角更接近 35–40°。这里保留 45° 作为额外预置。</p>
         <div class="inlineBtns">
           <button class="ghost" id="duplicateBtn" type="button">复制</button>
           <button class="ghost danger" id="deleteBtn" type="button">删除</button>
@@ -87,7 +88,7 @@
           <button class="ghost full" id="copyLinkBtn" type="button">复制方案链接</button>
           <button class="primary full" id="confirmBtn" type="button">确认定制</button>
         </div>
-        <p class="note">静态网页，不上传图片与数据。方案仅保存在你的浏览器或链接中。</p>
+        <p class="note">只保留 22 CM / 5 CM 两档，不提供连续缩放。位置仍可直接拖动。</p>
       </section>
     </aside>
   </main>

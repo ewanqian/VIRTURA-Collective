@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <rect width="1200" height="700" fill="#080808"/>
+  <g transform="translate(0,0)">
+    <path d="M230 112 C248 126 272 134 300 134 C328 134 352 126 370 112 L452 140 L526 194 L480 276 L432 252 L432 606 L168 606 L168 252 L120 276 L74 194 L148 140 Z" fill="#10100f"/>
+    <g fill="none" stroke="#d9d9d4" stroke-width="1.35" stroke-linecap="square" stroke-linejoin="round">
+      <path d="M230 112 L148 140 L74 194 L120 276 L165 253"/>
+      <path d="M370 112 L452 140 L526 194 L480 276 L435 253"/>
+      <path d="M168 265 L168 382 M168 400 L168 606"/>
+      <path d="M432 265 L432 382 M432 400 L432 606"/>
+      <path d="M168 606 L286 606 M314 606 L432 606"/>
+    </g>
+    <g fill="none" stroke="#d9d9d4" stroke-linecap="round">
+      <path d="M254 109 C265 124 280 132 300 132 C320 132 335 124 346 109" stroke-width="1.35"/>
+      <path d="M264 108 C273 119 285 125 300 125 C315 125 327 119 336 108" stroke-width="1" opacity=".65"/>
+      <path d="M166 254 C173 228 174 196 168 163" stroke-width="1" opacity=".72"/>
+      <path d="M434 254 C427 228 426 196 432 163" stroke-width="1" opacity=".72"/>
+    </g>
+    <text x="300" y="650" fill="#777772" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" letter-spacing="3">FRONT</text>
+  </g>
+  <g transform="translate(600,0)">
+    <path d="M230 112 C248 126 272 134 300 134 C328 134 352 126 370 112 L452 140 L526 194 L480 276 L432 252 L432 606 L168 606 L168 252 L120 276 L74 194 L148 140 Z" fill="#10100f"/>
+    <g fill="none" stroke="#d9d9d4" stroke-width="1.35" stroke-linecap="square" stroke-linejoin="round">
+      <path d="M230 112 L148 140 L74 194 L120 276 L165 253"/>
+      <path d="M370 112 L452 140 L526 194 L480 276 L435 253"/>
+      <path d="M168 265 L168 382 M168 400 L168 606"/>
+      <path d="M432 265 L432 382 M432 400 L432 606"/>
+      <path d="M168 606 L286 606 M314 606 L432 606"/>
+    </g>
+    <g fill="none" stroke="#d9d9d4" stroke-linecap="round">
+      <path d="M264 108 C276 119 286 124 300 124 C314 124 324 119 336 108" stroke-width="1.05"/>
+      <path d="M166 254 C173 228 174 196 168 163" stroke-width="1" opacity=".72"/>
+      <path d="M434 254 C427 228 426 196 432 163" stroke-width="1" opacity=".72"/>
+    </g>
+    <text x="300" y="650" fill="#777772" font-size="12" font-family="Helvetica,Arial,sans-serif" text-anchor="middle" letter-spacing="3">BACK</text>
+  </g>
+</svg>

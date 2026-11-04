@@ -31,6 +31,15 @@
 | CONTROL: The Uptime Protocol | 成员独立作品 / machinima / realtime 影像 | public entry | [Entry](./control-uptime-protocol/README.md) / [Web](../works.html#control-uptime-protocol) |
 | Desire Machining Center | 成员独立作品 / 交互装置 | public entry | [Entry](./desire-machining-center/README.md) / [Web](../works.html#desire-machining-center) |
 
+## Additional spatial-media collaborations
+
+| Project | Scope | Public source |
+|---|---|---|
+| CNG Crystal / 中国国家地理矿晶空间影像 | 多屏矿晶影像、酒店与体验中心三维采集及数字空间浏览 | [Project](https://virtura.space/work/natgeo-crystal.html) · [SpacePort Archive](https://github.com/ewanqian/VIRTURA-SpacePort/blob/q4-2026-cng-ersha-series-archive-sync/organization/works/cng-crystal-spatial-media-2026.md) |
+| SYSTEM × ERSHA / 郑州二砂 | 建筑扫描、点云重建、纪录片相关特效影像 | [Project](https://virtura.space/work/system-ersha.html) · [SpacePort Archive](https://github.com/ewanqian/VIRTURA-SpacePort/blob/q4-2026-cng-ersha-series-archive-sync/organization/works/system-ersha-point-cloud-2026.md) |
+
+These are **project-level collaborations**, not new top-level categories. Ewan Qian's specific contributions are documented in his personal Portfolio. The separately scored ERSHA spatial edit remains in development.
+
 ## Highlights
 
 - 最完整的系列样板：[Drop Flow](./drop-flow/README.md)

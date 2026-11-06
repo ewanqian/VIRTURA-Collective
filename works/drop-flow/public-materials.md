@@ -42,3 +42,13 @@
 
 - [Drop Flow Series](./README.md)
 - [Drop Flow Versions](./versions.md)
+
+
+## Cross-site artist documentation (2025)
+
+- [Xu Sihui — Drop Flow / ROOOOOOOM_719](https://xusihui.com/%E6%BB%B4%E6%B5%81-%EF%BC%88room719%EF%BC%89): participating artists Ma Xiaoyao, Qian Yuwen, Xu Hao, Xu Sihui; six-minute VIRTURA cabin performance.
+- [Xu Sihui — Drop Flow / Hangzhou Art & Technology Biennale](https://xusihui.com/%E6%BB%B4%E6%B5%81%EF%BC%88%E5%8F%8C%E5%B9%B4%E5%B1%95%EF%BC%89-1): participating artists Shen Xuan, Wang Jiaming, Qian Yuwen, Wei Qin, Xu Hao, Xu Sihui; Yuhang Art Museum.
+- [Xu Sihui — Art index](https://xusihui.com/art): includes the 2025 UFO Terminal creative-camp final performance as a separate version.
+- [ROOM719 thumbnail file referenced on artist site](https://freight.cargo.site/w/450/q/75/i/Y2980090664025315533255603617330/719fengmian-ezgif.jpg): externally hosted preview, **not mirrored**; source bytes could not be retrieved. Use shared original media for publication rather than relying on the CDN thumbnail.
+
+Version-specific credits should remain attached to their respective presentations; do not extrapolate a full-series credit from one event.

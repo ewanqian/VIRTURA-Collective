@@ -29,3 +29,9 @@
 - [TIMER Series](./README.md)
 - [TIMER Versions](./versions.md)
 - [Awards And Presentations](./awards-and-presentations.md)
+
+
+## Cross-site artist documentation (2024)
+
+- [Xu Sihui — Art index, TIMER / 控时者](https://xusihui.com/art): 2024 UFO Terminal Loading… Permission 2 presentation, with a musical A–B–C–B′–A′ arc, metallic, water and electronic sound sources, and a recurring clockwork sound.
+- Public artist credits for the original work are recorded as Xu Hao, Qian Yuwen and Xu Sihui in the collaborator's project documentation; separate the VIRTURA original from subsequent individual Gaussian/XR archive studies.

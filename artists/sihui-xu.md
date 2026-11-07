@@ -1,8 +1,8 @@
 # 许思慧 Sihui Xu
 
-在 VIRTURA 当前公开项目中，许思慧主要与 `Drop Flow`、`TIMER` 等系列中的交互艺术、装置协作与现场配合相关。
+许思慧，媒体艺术家、创意技术工作者，毕业于中国美术学院艺术与科技专业。实践涵盖实时影像、视听现场、互动装置、游戏与 XR。在 VIRTURA 合作项目中参与《滴流》《控时者》等视听展演与交互创作。
 
-![Sihui Xu portrait](../prototype/assets/people/sihui-xu.jpg)
+![Sihui Xu portrait](../prototype/assets/people/sihui-xu-2026-square.jpg)
 
 ## Public View / 公开视图
 

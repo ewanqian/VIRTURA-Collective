@@ -1,5 +1,7 @@
 # 周子凌 Murphy Nile
 
+**个人网站 / Artist website：** [murphynile.com](https://murphynile.com/)
+
 在 VIRTURA 当前公开线索里，Murphy Nile 主要以写作者、跨媒体艺术家与数字空间方向的共创者出现。
 
 与团队的关联，目前更多体现在 `Space Salon` 的分享、`Segla / 塞尼亚岛数字化旅居地` 的构想，以及围绕数字景观、节展观察和写作研究的持续交流里，而不是单一一个舞台版本里。
@@ -78,8 +80,8 @@ Murphy 的公开展板简介将其定位为跨媒体艺术家，工作横跨实�
 ## 已公开可见线索
 
 - [GitHub: MurphyNile](https://github.com/MurphyNile)
-- [murphynile.com](http://www.murphynile.com)
-- [CONTROL: The Uptime Protocol](https://www.murphynile.com/controlclub)
+- [murphynile.com](https://murphynile.com)
+- [CONTROL: The Uptime Protocol](https://murphynile.com/controlclub)
 - [Lumen Prize 2025 Experiential Award Finalists](https://lumenprize.org/2025-experiential-award-finalists/murphy-nile-ziling-zhou)
 - [murphy-nile-archive](https://github.com/MurphyNile/murphy-nile-archive)
 

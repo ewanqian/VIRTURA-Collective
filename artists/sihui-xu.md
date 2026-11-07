@@ -1,5 +1,7 @@
 # 许思慧 Sihui Xu
 
+**个人网站 / Artist website：** [xusihui.com](https://xusihui.com/)
+
 许思慧，媒体艺术家、创意技术工作者，毕业于中国美术学院艺术与科技专业。实践涵盖实时影像、视听现场、互动装置、游戏与 XR。在 VIRTURA 合作项目中参与《滴流》《控时者》等视听展演与交互创作。
 
 ![Sihui Xu portrait](../prototype/assets/people/sihui-xu-2026-square.jpg)

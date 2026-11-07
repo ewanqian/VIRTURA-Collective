@@ -41,6 +41,13 @@
 | immersive exhibition edition | 2024.11-12 | 环形沉浸展览版 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer.md) |
 | 2026 planning edition | 2026 | 规划中 | [source](https://github.com/ewanqian/VIRTURA-SpacePort/blob/main/organization/works/timer-series/timer-2026.md) |
 
+
+## Featured Spatial Research / 重点空间研究
+
+[TIMER — Volumetric / Spatial Study](./volumetric-study.md) 将原作的空间场景向 Apple Vision Pro、三维档案和体积化观看方式延伸。该研究具有较高的对外展示优先级，但当前属于持续研究方向，与 2024 年完成的合作演出和已交付商业项目区分发布。
+
+![TIMER Spatial Study](../../assets/timer/featured-timer-visionpro.webp)
+
 ## Series Structure
 
 - [Versions](./versions.md)
